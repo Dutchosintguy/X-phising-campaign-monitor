@@ -1,0 +1,25 @@
+kind,name,domain,first_seen,detail,source,checked
+cert,*.cal-apis.com,cal-apis.com,2026-09-16,issuer=Let's Encrypt id=17212008577,certspotter,2026-10-13 09:34
+cert,cal-apis.com,cal-apis.com,2026-09-16,issuer=Let's Encrypt id=17212008577,certspotter,2026-10-13 09:34
+cert,*.cal-apis.com,cal-apis.com,2026-09-21,issuer=Sectigo id=17308718208,certspotter,2026-10-13 09:34
+cert,cal-apis.com,cal-apis.com,2026-09-21,issuer=Sectigo id=17308718208,certspotter,2026-10-13 09:34
+dns,cal-apis.com,cal-apis.com,2026-10-13,A=172.67.179.69 104.21.75.171 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 09:34
+dns,plugins.cal-apis.com,cal-apis.com,2026-10-13,A=104.21.75.171 172.67.179.69 NS=-,dns.google DoH,2026-10-13 09:34
+cert,eventsportal.com,eventsportal.com,2026-08-03,issuer=GoDaddy id=16263966546,certspotter,2026-10-13 09:34
+cert,www.eventsportal.com,eventsportal.com,2026-08-04,issuer=GoDaddy id=16277693382,certspotter,2026-10-13 09:34
+dns,eventsportal.com,eventsportal.com,2026-10-13,A=76.223.54.146 13.248.169.48 NS=ns2.afternic.com. ns1.afternic.com.,dns.google DoH,2026-10-13 09:34
+cert,*.cal-api.com,cal-api.com,2026-10-08,issuer=Let's Encrypt id=17654183219,certspotter,2026-10-13 09:34
+cert,cal-api.com,cal-api.com,2026-10-08,issuer=Let's Encrypt id=17654183219,certspotter,2026-10-13 09:34
+cert,*.cal-api.com,cal-api.com,2026-10-08,issuer=Google Trust Services id=17654198058,certspotter,2026-10-13 09:34
+cert,cal-api.com,cal-api.com,2026-10-08,issuer=Google Trust Services id=17654198058,certspotter,2026-10-13 09:34
+dns,cal-api.com,cal-api.com,2026-10-13,A=104.21.73.202 172.67.165.209 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 09:34
+cert,*.calapis.com,calapis.com,2026-07-27,issuer=Let's Encrypt id=16118541405,certspotter,2026-10-13 09:34
+cert,calapis.com,calapis.com,2026-07-27,issuer=Let's Encrypt id=16118541405,certspotter,2026-10-13 09:34
+cert,*.calapis.com,calapis.com,2026-09-24,issuer=Let's Encrypt id=17392503060,certspotter,2026-10-13 09:34
+cert,calapis.com,calapis.com,2026-09-24,issuer=Let's Encrypt id=17392503060,certspotter,2026-10-13 09:34
+dns,calapis.com,calapis.com,2026-10-13,A=54.243.117.197 13.223.25.84 NS=nsg1.namebrightdns.com. nsg2.namebrightdns.com.,dns.google DoH,2026-10-13 09:34
+dns,cal-apis.net,cal-apis.net,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
+dns,events-portal.com,events-portal.com,2026-10-13,A=178.159.12.213 NS=ns58.prowebdns.com. ns57.prowebdns.com.,dns.google DoH,2026-10-13 09:34
+dns,eventsportal.net,eventsportal.net,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
+dns,calendly-events.com,calendly-events.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
+dns,calendly-api.com,calendly-api.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34

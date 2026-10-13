@@ -1,0 +1,30 @@
+{
+ "updated": "2026-10-13 09:36",
+ "timezone": "Europe/Amsterdam",
+ "alerts": [
+  {
+   "time": "2026-10-13 09:36",
+   "type": "infra",
+   "details": "Lookalike cal-api.com registered 2026-10-08 via Dominet (HK), same Cloudflare NS pair (bill/paige) as cal-apis.com; LE+GTS wildcard certs 2026-10-08",
+   "link": "https://rdap.verisign.com/com/v1/domain/cal-api.com"
+  },
+  {
+   "time": "2026-10-13 09:17",
+   "type": "status",
+   "details": "@MiaEsswein suspended (detected; suspension date unknown)",
+   "link": "https://x.com/MiaEsswein"
+  },
+  {
+   "time": "2026-10-13 09:17",
+   "type": "status",
+   "details": "@SimonHill_ suspended (detected; suspension date unknown)",
+   "link": "https://x.com/SimonHill_"
+  },
+  {
+   "time": "2026-10-13 09:17",
+   "type": "activity",
+   "details": "@Conviasa posted 14 lure replies 04:48\u201305:58; @Futana6 lure 08:00",
+   "link": "https://x.com/Conviasa"
+  }
+ ]
+}

@@ -1,7 +1,8 @@
 # X phishing campaign monitor — fake journalist interview → Calendly → X OAuth
 
 **Live dashboard:** https://dutchosintguy.github.io/X-phising-campaign-monitor/
-**Last updated:** 2026-10-13 09:29 CEST
+**Last updated:** 2026-10-13 09:36 CEST
+**Alert feeds:** [RSS](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.xml) · [JSON](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.json)
 
 Monitoring of an ongoing phishing campaign on X in which accounts posing as Bloomberg / TechCrunch / WIRED journalists publicly reply to people in AI, tech and OSINT ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** (`calendly[.]com/d/d336-3mq-q2z`) that leads into an X OAuth app ("Events Portal") with callback on `plugins[.]cal-apis[.]com` — a fake "Twitta" credential-harvesting login.
 
@@ -17,6 +18,8 @@ Background write-up: [Phishing Campaign Identified: How OSINT Exposed a Real Cal
 - Indicators are defanged. Do not submit the Calendly form, authorize the app or enter credentials.
 
 ## Data (`data/`)
-`posts_clean.csv` operator replies · `operators.csv` operator profiles/status · `warnings.csv` public victim warnings · `targets_publicly_approached.csv` · `iocs.md`.
+`posts_clean.csv` operator replies · `operators.csv` operator profiles/status · `warnings.csv` public victim warnings · `targets_publicly_approached.csv` · `iocs.md` · `targets_profiles.csv` (X profile lookup of approached accounts) · `infra.csv` (CT + DNS snapshots) · `profile_snapshots.csv` (operator profile history) · `alerts.csv`.
+
+Operator timezone / active-window figures and target sector labels are **estimates/heuristics**, labelled as such on the dashboard.
 
 Times are Europe/Amsterdam. Updated by an automated monitor run.
