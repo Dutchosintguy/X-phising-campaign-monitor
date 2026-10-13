@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-13 18:44",
+ "updated": "2026-10-13 18:45",
  "timezone": "Europe/Amsterdam",
  "alerts": [
   {
    "time": "2026-10-13 18:44",
    "type": "infra",
-   "details": "CT watcher: new certificate for a7335.spaces.calendly-internal.com",
+   "details": "CT watcher: new certificate for a7335.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded)",
    "link": "https://crt.sh/?q=a7335.spaces.calendly-internal.com"
   },
   {
    "time": "2026-10-13 16:40",
    "type": "infra",
-   "details": "CT watcher: new certificate for ddce6-webhook-ingestion.spaces.calendly-internal.com",
+   "details": "CT watcher: new certificate for ddce6-webhook-ingestion.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded)",
    "link": "https://crt.sh/?q=ddce6-webhook-ingestion.spaces.calendly-internal.com"
   },
   {
