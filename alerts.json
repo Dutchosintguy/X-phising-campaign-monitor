@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-13 20:36",
+ "updated": "2026-10-13 20:37",
  "timezone": "Europe/Amsterdam",
  "alerts": [
   {
    "time": "2026-10-13 20:36",
    "type": "infra",
-   "details": "CT watcher: new certificate for preview-fix-cors-search.calendlycms.com",
+   "details": "CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra)",
    "link": "https://crt.sh/?q=preview-fix-cors-search.calendlycms.com"
   },
   {
    "time": "2026-10-13 20:36",
    "type": "infra",
-   "details": "CT watcher: new certificate for calendlycms.com",
+   "details": "CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search)",
    "link": "https://crt.sh/?q=calendlycms.com"
   },
   {
