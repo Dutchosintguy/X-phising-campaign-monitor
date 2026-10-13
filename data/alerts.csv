@@ -22,3 +22,5 @@ time,type,details,link
 2026-10-13 12:23,activity,"@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",https://x.com/Futana6/status/2109927161456955720
 2026-10-13 16:40,infra,CT watcher: new certificate for ddce6-webhook-ingestion.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded),https://crt.sh/?q=ddce6-webhook-ingestion.spaces.calendly-internal.com
 2026-10-13 18:44,infra,CT watcher: new certificate for a7335.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded),https://crt.sh/?q=a7335.spaces.calendly-internal.com
+2026-10-13 20:36,infra,CT watcher: new certificate for calendlycms.com,https://crt.sh/?q=calendlycms.com
+2026-10-13 20:36,infra,CT watcher: new certificate for preview-fix-cors-search.calendlycms.com,https://crt.sh/?q=preview-fix-cors-search.calendlycms.com
