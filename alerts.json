@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-13 10:31",
+ "updated": "2026-10-13 12:23",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-13 12:23",
+   "type": "activity",
+   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
+   "link": "https://x.com/Futana6/status/2109927161456955720"
+  },
+  {
+   "time": "2026-10-13 12:23",
+   "type": "activity",
+   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
+   "link": "https://x.com/SeoSamantha/status/2109949222925881798"
+  },
+  {
+   "time": "2026-10-13 12:23",
+   "type": "activity",
+   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:09:10 PM Amsterdam): @stevelauda_ Hey Steve, just following up on my DM about our annual AI &amp; technology feature. Would love to hear your",
+   "link": "https://x.com/SeoSamantha/status/2109949557668999277"
+  },
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
@@ -41,14 +59,14 @@
   {
    "time": "2026-10-13 10:22",
    "type": "infra",
-   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
-   "link": "https://crt.sh/?q=cal-api.com"
+   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
+   "link": "https://crt.sh/?q=events-portal.com"
   },
   {
    "time": "2026-10-13 10:22",
    "type": "infra",
-   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
-   "link": "https://crt.sh/?q=events-portal.com"
+   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
+   "link": "https://crt.sh/?q=cal-api.com"
   },
   {
    "time": "2026-10-13 10:22",
