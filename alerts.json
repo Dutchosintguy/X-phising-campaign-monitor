@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-13 14:31",
+ "updated": "2026-10-13 16:40",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-13 16:40",
+   "type": "infra",
+   "details": "CT watcher: new certificate for ddce6-webhook-ingestion.spaces.calendly-internal.com",
+   "link": "https://crt.sh/?q=ddce6-webhook-ingestion.spaces.calendly-internal.com"
+  },
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
@@ -19,6 +25,12 @@
    "type": "activity",
    "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:09:10 PM Amsterdam): @stevelauda_ Hey Steve, just following up on my DM about our annual AI &amp; technology feature. Would love to hear your",
    "link": "https://x.com/SeoSamantha/status/2109949557668999277"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -49,12 +61,6 @@
    "type": "infra",
    "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
    "link": "https://crt.sh/?q=whitelistportal.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-13 10:22",
