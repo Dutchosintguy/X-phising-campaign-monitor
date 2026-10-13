@@ -26,3 +26,86 @@ dns,calendly-api.com,calendly-api.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google
 dns,cal-apis.com,cal-apis.com,2026-10-13,A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:22
 dns,cal-api.com,cal-api.com,2026-10-13,A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:22
 dns,events-portal.com,events-portal.com,2026-10-13,A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.,dns.google DoH,2026-10-13 10:22
+cert,*.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525855239,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525855239,certspotter,2026-10-13 10:24
+cert,*.guests.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525974197,certspotter,2026-10-13 10:24
+cert,guests.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525974197,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525974197,certspotter,2026-10-13 10:24
+cert,*.guests.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525975442,certspotter,2026-10-13 10:24
+cert,guests.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525975442,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525975442,certspotter,2026-10-13 10:24
+cert,*.guest.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525978156,certspotter,2026-10-13 10:24
+cert,guest.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525978156,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525978156,certspotter,2026-10-13 10:24
+cert,*.guest.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525985254,certspotter,2026-10-13 10:24
+cert,guest.invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525985254,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-15,issuer=Google Trust Services id=16525985254,certspotter,2026-10-13 10:24
+cert,*.invitehandler.com,invitehandler.com,2026-08-21,issuer=Sectigo id=16649433906,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-08-21,issuer=Sectigo id=16649433906,certspotter,2026-10-13 10:24
+cert,*.invitehandler.com,invitehandler.com,2026-09-17,issuer=Sectigo id=17224206273,certspotter,2026-10-13 10:24
+cert,invitehandler.com,invitehandler.com,2026-09-17,issuer=Sectigo id=17224206273,certspotter,2026-10-13 10:24
+dns,invitehandler.com,invitehandler.com,2026-10-13,A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:24
+cert,*.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Let's Encrypt id=16213677734,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Let's Encrypt id=16213677734,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213902649,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213902649,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213902649,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213938550,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213938550,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16213938550,certspotter,2026-10-13 10:24
+cert,*.whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16214371792,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-01,issuer=Google Trust Services id=16214371792,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262442705,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262442705,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262442705,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262491668,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262491668,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-08-03,issuer=Google Trust Services id=16262491668,certspotter,2026-10-13 10:24
+cert,*.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478257986,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478257986,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478509766,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478509766,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478509766,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478545170,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478545170,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478545170,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478657238,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478657238,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478657238,certspotter,2026-10-13 10:24
+cert,*.guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478667220,certspotter,2026-10-13 10:24
+cert,guest.whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478667220,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-09-29,issuer=Google Trust Services id=17478667220,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524681286,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524681286,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524681286,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524727960,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524727960,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524727960,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524836356,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524836356,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524836356,certspotter,2026-10-13 10:24
+cert,*.guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524880661,certspotter,2026-10-13 10:24
+cert,guests.whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524880661,certspotter,2026-10-13 10:24
+cert,whitelistportal.com,whitelistportal.com,2026-10-01,issuer=Google Trust Services id=17524880661,certspotter,2026-10-13 10:24
+dns,whitelistportal.com,whitelistportal.com,2026-10-13,A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:24
+cert,asteriapanls.com,asteriapanls.com,2026-08-02,issuer=Let's Encrypt id=16243421802,certspotter,2026-10-13 10:24
+cert,asteriapanls.com,asteriapanls.com,2026-08-13,issuer=Let's Encrypt id=16490123019,certspotter,2026-10-13 10:24
+dns,asteriapanls.com,asteriapanls.com,2026-10-13,A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.,dns.google DoH,2026-10-13 10:24
+cert,techcrunch.30min-meetings.com,30min-meetings.com,2026-08-02,issuer=Let's Encrypt id=16243751919,certspotter,2026-10-13 10:24
+cert,bloomberg.30min-meetings.com,30min-meetings.com,2026-08-02,issuer=Let's Encrypt id=16243756933,certspotter,2026-10-13 10:24
+cert,wired.30min-meetings.com,30min-meetings.com,2026-08-02,issuer=Let's Encrypt id=16243761752,certspotter,2026-10-13 10:24
+cert,wired.30min-meetings.com,30min-meetings.com,2026-08-13,issuer=Let's Encrypt id=16490122288,certspotter,2026-10-13 10:24
+cert,bloomberg.30min-meetings.com,30min-meetings.com,2026-08-13,issuer=Let's Encrypt id=16490122666,certspotter,2026-10-13 10:24
+cert,techcrunch.30min-meetings.com,30min-meetings.com,2026-08-13,issuer=Let's Encrypt id=16490122876,certspotter,2026-10-13 10:24
+cert,thewired.30min-meetings.com,30min-meetings.com,2026-08-15,issuer=Let's Encrypt id=16515899169,certspotter,2026-10-13 10:24
+cert,thetechcrunch.30min-meetings.com,30min-meetings.com,2026-08-19,issuer=Let's Encrypt id=16605263737,certspotter,2026-10-13 10:24
+cert,tech-crunch.30min-meetings.com,30min-meetings.com,2026-08-19,issuer=Let's Encrypt id=16605280404,certspotter,2026-10-13 10:24
+dns,30min-meetings.com,30min-meetings.com,2026-10-13,A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.,dns.google DoH,2026-10-13 10:24
+dns,caiendly.com,caiendly.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 10:24
+cert,*.login-api.com,login-api.com,2026-09-25,issuer=Let's Encrypt id=17401760825,certspotter,2026-10-13 10:24
+cert,login-api.com,login-api.com,2026-09-25,issuer=Let's Encrypt id=17401760825,certspotter,2026-10-13 10:24
+cert,*.login-api.com,login-api.com,2026-09-27,issuer=Sectigo id=17435725160,certspotter,2026-10-13 10:24
+cert,login-api.com,login-api.com,2026-09-27,issuer=Sectigo id=17435725160,certspotter,2026-10-13 10:24
+cert,*.login-api.com,login-api.com,2026-09-30,issuer=Sectigo id=17502488842,certspotter,2026-10-13 10:24
+cert,login-api.com,login-api.com,2026-09-30,issuer=Sectigo id=17502488842,certspotter,2026-10-13 10:24
+dns,login-api.com,login-api.com,2026-10-13,A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:24

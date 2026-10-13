@@ -1,25 +1,46 @@
-# X phishing campaign monitor — fake journalist interview → Calendly → X OAuth
+# X phishing campaign monitor — fake journalist / AI-lab interview → Calendly → X OAuth
 
 **Live dashboard:** https://dutchosintguy.github.io/X-phising-campaign-monitor/
-**Last updated:** 2026-10-13 10:22 CEST
+**Last updated:** 2026-10-13 10:27 CEST · updated automatically every 2 hours
 **Alert feeds:** [RSS](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.xml) · [JSON](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.json)
 
-Monitoring of an ongoing phishing campaign on X in which accounts posing as Bloomberg / TechCrunch / WIRED journalists publicly reply to mainly startup founders, AI/ML researchers and investors (also developers, crypto people, media/creators, security/OSINT people) ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** (`calendly[.]com/d/d336-3mq-q2z`) that leads into an X OAuth app ("Events Portal") with callback on `plugins[.]cal-apis[.]com` — a fake "Twitta" credential-harvesting login.
+Monitoring of an ongoing phishing campaign on X in which accounts posing as journalists (Bloomberg, TechCrunch, WIRED, Reuters) or AI-lab staff (OpenAI, Anthropic) publicly reply to mainly startup founders, AI/ML researchers and investors (also developers, crypto people, media/creators, security/OSINT people) ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** that leads into a malicious X OAuth app (e.g. "Events Portal", "CalendarBookings", "Booking Pass") or a fake X sign-in page (e.g. "Twitta" on `plugins[.]cal-apis[.]com`) to take over accounts.
 
-Background write-up: [Phishing Campaign Identified: How OSINT Exposed a Real Calendly Link in a Fake Bloomberg Interview invite](https://www.dutchosintguy.com/post/phishing-campaign-identified-how-osint-exposed-a-real-calendly-link-in-a-fake-bloomberg-interview-i) — Nico Dekens (dutch_osintguy).
+## What the monitor tracks
+- operator accounts and their public lure replies on X (with status labels: confirmed by us vs reported by third parties)
+- publicly approached accounts and their profile mix
+- public victim warnings
+- known phishing infrastructure plus newly spotted lookalike domains (live certificate-transparency watcher + DNS snapshots)
+- passive status checks of known Calendly links and a register of the malicious X OAuth apps (Events Portal, CalendarBookings, Booking Pass)
+- pipeline health: per-component heartbeat, error alerts and a stale-data warning
+
+## Sources
+- [Nico Dekens / dutchosintguy (original investigation)](https://www.dutchosintguy.com/post/phishing-campaign-identified-how-osint-exposed-a-real-calendly-link-in-a-fake-bloomberg-interview-i)
+- [Nosian Magazine](https://nosian.substack.com/p/scammers-on-x-impersonate-and-target)
+- [Cybernews](https://cybernews.com/security/fake-journalist-calendly-account-takeover/)
+- [Casco](https://casco.com/blog/how-my-unicorn-founder-friend-was-phished)
+- [SafeBrowz](https://safebrowz.com/blog/calendly-x-oauth-booking-pass-scam-2026)
 
 ![dashboard](dashboard.png)
 
+## Pipeline health (at build time)
+| Component | Last success | Last error | State |
+|---|---|---|---|
+| ct_watcher | 2026-10-13 10:26 | — | ok |
+| calendly_watch | 2026-10-13 10:26 | — | ok |
+| infra_watch | 2026-10-13 10:24 | — | ok |
+| x_search | 2026-10-13 10:25 | — | ok |
+| gh_auth | 2026-10-13 10:26 | — | ok |
+| build | 2026-10-13 10:26 | — | ok |
+
 ## Important caveats
-- **Targets listed are publicly *approached* accounts, NOT confirmed victims.** A public reply from an operator account does not mean the person received a DM, clicked a link or was compromised. Do not label anyone a victim.
-- Handle lists include accounts co-mentioned in operator replies.
-- Data gaps: no DM content or Calendly URLs in the public reply data; operator profile fields are a single snapshot (X API); suspended accounts have no profile data; collection coverage starts 2026-09-16 (earliest known reply 2026-08-19 is not in the dataset); passive DNS/CT history not included.
-- Attribution: nothing here identifies who operates the accounts.
-- Indicators are defanged. Do not submit the Calendly form, authorize the app or enter credentials.
+- **Targets listed are publicly *approached* accounts, NOT confirmed victims.** A public reply from an operator account does not mean the person received a DM, clicked a link or was compromised.
+- Accounts, apps and domains are labelled **confirmed by us** (e.g. lure posts observed, suspension or DNS checked) or **reported by third party** (published research or public X warnings, not all verified by us).
+- Data gaps: no DM content; profile fields are API snapshots; suspended accounts have no profile data; coverage starts 2026-09-16 (earliest known reply 2026-08-19 is not in the dataset); CT/DNS history starts 2026-10-13; X OAuth app status is not publicly queryable; timezone and sector figures are estimates.
+- Attribution: nothing here identifies who operates the accounts. Shared registrars/nameservers are clustering signals, not proof.
+- Indicators are defanged. Calendly checks are passive page requests only — never submit forms, authorize apps or enter credentials.
 
 ## Data (`data/`)
-`posts_clean.csv` operator replies · `operators.csv` operator profiles/status · `warnings.csv` public victim warnings · `targets_publicly_approached.csv` · `iocs.md` · `targets_profiles.csv` (X profile lookup of approached accounts) · `infra.csv` (CT + DNS snapshots) · `profile_snapshots.csv` (operator profile history) · `alerts.csv`.
+`posts_clean.csv` · `operators.csv` (incl. source + verification) · `warnings.csv` · `targets_publicly_approached.csv` · `targets_profiles.csv` · `infra.csv` (CT + DNS + live CT watcher hits) · `profile_snapshots.csv` · `alerts.csv` · `apps.csv` · `calendly_watch.csv` · `heartbeat.csv` · `x_budget.csv` · `iocs.md`.
 
-Operator timezone / active-window figures and target sector labels are **estimates/heuristics**, labelled as such on the dashboard.
-
-Times are Europe/Amsterdam. Updated automatically every 2 hours by a monitor run, which also watches for newly registered lookalike infrastructure (certificate transparency + DNS).
+Times are Europe/Amsterdam.

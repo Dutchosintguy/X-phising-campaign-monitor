@@ -1,4 +1,5 @@
 date,author,named,summary,url
+2026-09-15,Al_Grigor,,Fake OpenAI employee partnership pitch -> real Calendly -> phishing site,https://x.com/Al_Grigor
 2026-09-17,mdisec,MiaEsswein,Account + calendly d336-3mq-q2z + malicious X OAuth authorize,
 2026-09-17,theadelites,,Contacted by scammer pretending to be journalist,
 2026-09-20,NGKabra,Jaydayritt,Impersonating Jay Dayrit of Wired; Calendly takeover attempt,
@@ -7,11 +8,17 @@ date,author,named,summary,url
 2026-09-22,maiab,,Reporter -> real Calendly -> redirect to X takeover,
 2026-09-23,AkitaOnRails,,Fake-TechCrunch Calendly-redirect phishing report,
 2026-09-23,nickgraynews,,Interview DM -> Calendly -> fake domain -> X auth,
+2026-09-23,coreyhainesco,,"Fake Anthropic employee, ""sign in with X"" Calendly scheme",
+2026-09-23,nickgraynews,RamIyer__,Fake TechCrunch Ram Iyer account (active since 2010) using Calendly redirect,
 2026-09-25,IanCutress,,"Fake TechCrunch/Mashable on compromised accounts, Calendly redirect",
 2026-09-27,daveg,,"Fake Reuters journalist, AI-tailored DM, Calendly",
 2026-09-28,OfirPress,,Fake Reuters 'Tifafny Wu / Keyaki Yuu' Calendly links,
+2026-10-02,OG_Mr_Diamond,punk8739,"Fake podcast invites, legit Calendly to fake meeting",
+2026-10-02,LLMJunky,,Wave of fake OpenAI scammers on X,
 2026-10-05,RosieCampbell,,Fake TechCrunch journalist DM with Calendly link,
-2026-10-05,IguanaXYZ,,"Fake TechCrunch reporter, blue check bought this month, email tracker in link",
 2026-10-05,dutch_osintguy,Conviasa,Blog: Calendly -> Events Portal OAuth -> cal-apis Twitta login,
+2026-10-05,IguanaXYZ,,"Fake TechCrunch reporter, blue check bought this month, email tracker in link",
 2026-10-06,deepfates,,Many DM requests from fake Bloomberg/TechCrunch/Reuters journalists,
+2026-10-07,nosian (Substack),,"13 operator accounts (7 suspended), OpenAI/Anthropic staff personas, invitehandler[.]com callback",https://nosian.substack.com/p/scammers-on-x-impersonate-and-target
+2026-10-09,eversinc33,,Bloomberg-persona bot DMs infosec/AI people; Calendly -> x[.]login-api[.]com credential phish,
 2026-10-13,dutch_osintguy,,Real Calendly → fake Bloomberg interview phishing chain targeting AI/OSINT; video breakdown,https://x.com/dutch_osintguy/status/2109893832837906779

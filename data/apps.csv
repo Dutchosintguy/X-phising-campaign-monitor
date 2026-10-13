@@ -1,0 +1,6 @@
+app_name,claimed_site,callback_or_backend,permissions,first_seen,last_seen,source,status,verification
+Events Portal,eventsportal[.]com (GoDaddy for-sale),plugins[.]cal-apis[.]com (fake 'Twitta' login),read/write X (per public investigation),2026-09-17,2026-10-05,"Nico Dekens blog; @mdisec",unknown (X app status not publicly queryable),reported-by-third-party; callback host confirmed live by us (urlscan 2026-10-04 + DoH 2026-10-13)
+CalendarBookings,bookings[.]caIendly[.]com (capital-I lookalike; caiendly[.]com),asteriapanls[.]com / 30min-meetings[.]com (Asteria backend),"read, write, direct messages",2026-09-09,2026-09-17,"Casco; Cybernews",reported offline (Casco),reported-by-third-party; asteriapanls/30min-meetings still resolve (DoH 2026-10-13)
+Booking Pass,unknown,whitelistportal[.]com callback,"read/write + DMs",2026-08-20,2026-08-20,SafeBrowz,unknown,reported-by-third-party; whitelistportal resolves (DoH 2026-10-13)
+(unnamed),unknown,invitehandler[.]com callback,read/write X,2026-10-07,2026-10-07,"Nosian (citing Alex Greenland, Epi Security)",unknown,reported-by-third-party; resolves (DoH 2026-10-13)
+(unnamed; credential page),n/a,x[.]login-api[.]com credential phishing,credentials,2026-10-09,2026-10-09,@eversinc33 on X (Bloomberg-persona bot),unknown,reported-by-third-party; resolves (DoH 2026-10-13)

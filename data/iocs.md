@@ -22,3 +22,17 @@
 - "I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient."
 - "Hi <Name>, I’d love the chance to connect regarding a potential piece. Would you mind reaching out when convenient?"
 - "Shot you a quick DM!" / "Sent you a DM regarding a founder piece!"
+
+## Wider campaign (added 2026-10-13; status per item)
+| IOC | type | source | our check 2026-10-13 |
+|---|---|---|---|
+| invitehandler[.]com | OAuth callback | Nosian (Epi Security) | reg 2026-08-15 Tucows; NS bill/paige Cloudflare (same pair as cal-apis); resolves |
+| whitelistportal[.]com | "Booking Pass" OAuth callback | SafeBrowz | reg 2026-08-01 Tucows; NS bill/paige Cloudflare; resolves |
+| asteriapanls[.]com | Asteria backend ("CalendarBookings") | Casco | reg 2026-08-02 Tucows; Njalla NS; A 111.90.148.101 |
+| 30min-meetings[.]com | Asteria lure host | Casco | reg 2026-08-02 Tucows; Njalla NS; A 111.90.148.101 (same as asteriapanls) |
+| bookings[.]caIendly[.]com / caiendly[.]com | capital-I Calendly homograph (app website) | Casco/Cybernews | caiendly.com reg 2026-02-11 Spaceship; no A record |
+| x[.]login-api[.]com | credential phishing (Bloomberg-persona bot) | @eversinc33 | login-api.com reg 2026-09-25 **Dominet (HK)** (same registrar as cal-apis/cal-api); Cloudflare felicity/tess; resolves |
+| calendly[.]com/30min-calls/interviews | Calendly destination | Casco | HTTP 404 (gone) |
+| Apps: CalendarBookings, Booking Pass, Events Portal | X OAuth apps | Casco / SafeBrowz / blog | X app status not publicly queryable |
+| Accounts: RamIyer__ (suspended), punk8739 (active, unverified) | X | @nickgraynews / @OG_Mr_Diamond | see operators.csv |
+Note: Nosian's 13 accounts are not individually named in the article; only those named publicly elsewhere are added.
