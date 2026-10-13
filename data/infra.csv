@@ -23,3 +23,6 @@ dns,events-portal.com,events-portal.com,2026-10-13,A=178.159.12.213 NS=ns58.prow
 dns,eventsportal.net,eventsportal.net,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
 dns,calendly-events.com,calendly-events.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
 dns,calendly-api.com,calendly-api.com,2026-10-13,A=NXDOMAIN/none NS=-,dns.google DoH,2026-10-13 09:34
+dns,cal-apis.com,cal-apis.com,2026-10-13,A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:22
+dns,cal-api.com,cal-api.com,2026-10-13,A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-13 10:22
+dns,events-portal.com,events-portal.com,2026-10-13,A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.,dns.google DoH,2026-10-13 10:22

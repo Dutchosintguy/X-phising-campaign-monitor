@@ -3,3 +3,11 @@ time,type,details,link
 2026-10-13 09:17,status,@MiaEsswein suspended (detected; suspension date unknown),https://x.com/MiaEsswein
 2026-10-13 09:17,status,@SimonHill_ suspended (detected; suspension date unknown),https://x.com/SimonHill_
 2026-10-13 09:17,activity,@Conviasa posted 14 lure replies 04:48–05:58; @Futana6 lure 08:00,https://x.com/Conviasa
+2026-10-13 10:22,warning,@dutch_osintguy public warning: Calendly→fake Bloomberg interview phishing chain (video),https://x.com/dutch_osintguy/status/2109893832837906779
+2026-10-13 10:22,profile,@Conviasa followers: 1824 → 1823,https://x.com/Conviasa
+2026-10-13 10:22,profile,"@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. → | TechCrunch Correspondent Covering tech, s",https://x.com/Futana6
+2026-10-13 10:22,profile,@Futana6 followers: 3924 → 3925,https://x.com/Futana6
+2026-10-13 10:22,profile,"@Jaydayritt bio: AI, Tech & Culture Journalist... Currently @WIRED Previously @Bloomberg & @Reuters → AI, Tech & Culture Journalist. Exploring the people, ideas &",https://x.com/Jaydayritt
+2026-10-13 10:22,infra,New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com),https://crt.sh/?q=cal-apis.com
+2026-10-13 10:22,infra,New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co),https://crt.sh/?q=cal-api.com
+2026-10-13 10:22,infra,New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.),https://crt.sh/?q=events-portal.com

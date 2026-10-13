@@ -1,7 +1,7 @@
 # X phishing campaign monitor — fake journalist interview → Calendly → X OAuth
 
 **Live dashboard:** https://dutchosintguy.github.io/X-phising-campaign-monitor/
-**Last updated:** 2026-10-13 09:44 CEST
+**Last updated:** 2026-10-13 10:22 CEST
 **Alert feeds:** [RSS](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.xml) · [JSON](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.json)
 
 Monitoring of an ongoing phishing campaign on X in which accounts posing as Bloomberg / TechCrunch / WIRED journalists publicly reply to mainly startup founders, AI/ML researchers and investors (also developers, crypto people, media/creators, security/OSINT people) ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** (`calendly[.]com/d/d336-3mq-q2z`) that leads into an X OAuth app ("Events Portal") with callback on `plugins[.]cal-apis[.]com` — a fake "Twitta" credential-harvesting login.
