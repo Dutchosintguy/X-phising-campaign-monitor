@@ -24,3 +24,7 @@ time,type,details,link
 2026-10-13 18:44,infra,CT watcher: new certificate for a7335.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded),https://crt.sh/?q=a7335.spaces.calendly-internal.com
 2026-10-13 20:36,infra,"CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search)",https://crt.sh/?q=calendlycms.com
 2026-10-13 20:36,infra,"CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra)",https://crt.sh/?q=preview-fix-cors-search.calendlycms.com
+2026-10-14 02:30,activity,"@SeoSamantha overnight burst: 11 lure replies 00:26–00:46 Amsterdam (10× ""just following up on my DM about our annual AI & technology feature"" + 1 new opener variant ""we’re putting together our annual AI & technology feature… feel free to reach out"" to @joelhellermark); targets incl. @PimDeWitte @E0M/@GeneralistAI @madiator @tiboel @genevieve__h (Google AI Studio)",https://x.com/SeoSamantha/status/2110140056619172333
+2026-10-14 02:28,ct_error,"ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout:
+BrokenPipeError: [Errno 32] Broken pipe
+/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",

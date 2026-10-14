@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-14 00:24",
+ "updated": "2026-10-14 02:28",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-14 02:30",
+   "type": "activity",
+   "details": "@SeoSamantha overnight burst: 11 lure replies 00:26\u201300:46 Amsterdam (10\u00d7 \"just following up on my DM about our annual AI & technology feature\" + 1 new opener variant \"we\u2019re putting together our annual AI & technology feature\u2026 feel free to reach out\" to @joelhellermark); targets incl. @PimDeWitte @E0M/@GeneralistAI @madiator @tiboel @genevieve__h (Google AI Studio)",
+   "link": "https://x.com/SeoSamantha/status/2110140056619172333"
+  },
+  {
+   "time": "2026-10-14 02:28",
+   "type": "ct_error",
+   "details": "ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout:\nBrokenPipeError: [Errno 32] Broken pipe\n/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
+   "link": ""
+  },
   {
    "time": "2026-10-13 20:36",
    "type": "infra",
@@ -47,8 +59,8 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=whitelistportal.com"
+   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=asteriapanls.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -71,8 +83,8 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=asteriapanls.com"
+   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=whitelistportal.com"
   },
   {
    "time": "2026-10-13 10:24",
