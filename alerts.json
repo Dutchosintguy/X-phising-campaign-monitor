@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-14 10:26",
+ "updated": "2026-10-14 12:20",
  "timezone": "Europe/Amsterdam",
  "alerts": [
   {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@Futana6 tweets: 1167 \u2192 1169",
-   "link": "https://x.com/Futana6"
+   "time": "2026-10-14 12:20",
+   "type": "activity",
+   "details": "@SeoSamantha 3 new lure replies 11:10\u201311:13 Amsterdam: 2\u00d7 \"just following up on my DM about our annual AI & technology feature\" (@jeffzwang Exa AI cofounder, @Zergylord Google DeepMind) + 1\u00d7 opener variant \"we\u2019re putting together our annual AI & technology feature\u2026 feel free to reach out\" (3rd use; @LerrelPinto Meta MSL robotics)",
+   "link": "https://x.com/SeoSamantha/status/2110297967634583634"
   },
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2204",
+   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
    "link": "https://x.com/SeoSamantha"
   },
   {
@@ -28,15 +28,15 @@
   },
   {
    "time": "2026-10-14 08:22",
-   "type": "warning",
-   "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
-   "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2203 \u2192 2204",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
-   "link": "https://x.com/SeoSamantha"
+   "type": "warning",
+   "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
+   "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
   },
   {
    "time": "2026-10-14 08:22",
@@ -48,6 +48,12 @@
    "time": "2026-10-14 08:22",
    "type": "profile",
    "details": "@Futana6 following: 163 \u2192 164",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1167 \u2192 1169",
    "link": "https://x.com/Futana6"
   },
   {
