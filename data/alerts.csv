@@ -28,3 +28,4 @@ time,type,details,link
 2026-10-14 02:28,ct_error,"ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout:
 BrokenPipeError: [Errno 32] Broken pipe
 /workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
+2026-10-14 02:31,infra,"CT watcher recovered: .venv (CertPatrol) had gone missing between 00:24 and 02:28; recreated venv + reinstalled certpatrol, watcher restarted (pid 14366). Possible CT gap ~00:24–02:31",
