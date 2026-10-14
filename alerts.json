@@ -1,7 +1,55 @@
 {
- "updated": "2026-10-14 06:23",
+ "updated": "2026-10-14 08:23",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1167 \u2192 1169",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2203 \u2192 2204",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Conviasa following: 185 \u2192 186",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "warning",
+   "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
+   "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 followers: 3925 \u2192 3926",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 following: 163 \u2192 164",
+   "link": "https://x.com/Futana6"
+  },
   {
    "time": "2026-10-14 02:31",
    "type": "infra",
@@ -47,14 +95,14 @@
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
-   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
-   "link": "https://x.com/Futana6/status/2109927161456955720"
+   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
+   "link": "https://x.com/SeoSamantha/status/2109949222925881798"
   },
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
-   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
-   "link": "https://x.com/SeoSamantha/status/2109949222925881798"
+   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
+   "link": "https://x.com/Futana6/status/2109927161456955720"
   },
   {
    "time": "2026-10-13 12:23",
@@ -65,20 +113,14 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=30min-meetings.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=login-api.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
    "details": "Added wider-campaign domain caiendly.com: 0 cert names, first cert none; A=NXDOMAIN/none NS=-",
    "link": "https://crt.sh/?q=caiendly.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=30min-meetings.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -99,6 +141,24 @@
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=login-api.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
+   "link": "https://crt.sh/?q=cal-apis.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "warning",
+   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
+   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
+  },
+  {
    "time": "2026-10-13 10:22",
    "type": "infra",
    "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
@@ -109,12 +169,6 @@
    "type": "infra",
    "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
    "link": "https://crt.sh/?q=cal-api.com"
-  },
-  {
-   "time": "2026-10-13 10:22",
-   "type": "infra",
-   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
-   "link": "https://crt.sh/?q=cal-apis.com"
   },
   {
    "time": "2026-10-13 10:22",
@@ -141,22 +195,10 @@
    "link": "https://x.com/Conviasa"
   },
   {
-   "time": "2026-10-13 10:22",
-   "type": "warning",
-   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
-   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
-  },
-  {
    "time": "2026-10-13 09:36",
    "type": "infra",
    "details": "Lookalike cal-api.com registered 2026-10-08 via Dominet (HK), same Cloudflare NS pair (bill/paige) as cal-apis.com; LE+GTS wildcard certs 2026-10-08",
    "link": "https://rdap.verisign.com/com/v1/domain/cal-api.com"
-  },
-  {
-   "time": "2026-10-13 09:17",
-   "type": "status",
-   "details": "@MiaEsswein suspended (detected; suspension date unknown)",
-   "link": "https://x.com/MiaEsswein"
   },
   {
    "time": "2026-10-13 09:17",
@@ -169,6 +211,12 @@
    "type": "status",
    "details": "@SimonHill_ suspended (detected; suspension date unknown)",
    "link": "https://x.com/SimonHill_"
+  },
+  {
+   "time": "2026-10-13 09:17",
+   "type": "status",
+   "details": "@MiaEsswein suspended (detected; suspension date unknown)",
+   "link": "https://x.com/MiaEsswein"
   }
  ]
 }

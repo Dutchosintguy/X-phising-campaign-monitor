@@ -22,10 +22,18 @@ time,type,details,link
 2026-10-13 12:23,activity,"@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",https://x.com/Futana6/status/2109927161456955720
 2026-10-13 16:40,infra,CT watcher: new certificate for ddce6-webhook-ingestion.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded),https://crt.sh/?q=ddce6-webhook-ingestion.spaces.calendly-internal.com
 2026-10-13 18:44,infra,CT watcher: new certificate for a7335.spaces.calendly-internal.com (benign: calendly-internal.com is Calendly-owned infra; reg. 2020; same Cloudflare NS as calendly.com; now excluded),https://crt.sh/?q=a7335.spaces.calendly-internal.com
-2026-10-13 20:36,infra,"CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search)",https://crt.sh/?q=calendlycms.com
-2026-10-13 20:36,infra,"CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra)",https://crt.sh/?q=preview-fix-cors-search.calendlycms.com
+2026-10-13 20:36,infra,CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search),https://crt.sh/?q=calendlycms.com
+2026-10-13 20:36,infra,CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra),https://crt.sh/?q=preview-fix-cors-search.calendlycms.com
 2026-10-14 02:30,activity,"@SeoSamantha overnight burst: 11 lure replies 00:26–00:46 Amsterdam (10× ""just following up on my DM about our annual AI & technology feature"" + 1 new opener variant ""we’re putting together our annual AI & technology feature… feel free to reach out"" to @joelhellermark); targets incl. @PimDeWitte @E0M/@GeneralistAI @madiator @tiboel @genevieve__h (Google AI Studio)",https://x.com/SeoSamantha/status/2110140056619172333
 2026-10-14 02:28,ct_error,"ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout:
 BrokenPipeError: [Errno 32] Broken pipe
 /workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
 2026-10-14 02:31,infra,"CT watcher recovered: .venv (CertPatrol) had gone missing between 00:24 and 02:28; recreated venv + reinstalled certpatrol, watcher restarted (pid 14366). Possible CT gap ~00:24–02:31",
+2026-10-14 08:22,warning,"New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products…' then sent calendly.com link; same chain (Calendly → X account takeover). Persona not yet tied to a handle",https://x.com/MaxHirsch13/status/2110006739915678045
+2026-10-14 08:22,profile,@Conviasa followers: 1823 → 1826,https://x.com/Conviasa
+2026-10-14 08:22,profile,@Conviasa following: 185 → 186,https://x.com/Conviasa
+2026-10-14 08:22,profile,@SeoSamantha followers: 2203 → 2204,https://x.com/SeoSamantha
+2026-10-14 08:22,profile,@SeoSamantha tweets: 8756 → 8770,https://x.com/SeoSamantha
+2026-10-14 08:22,profile,@Futana6 followers: 3925 → 3926,https://x.com/Futana6
+2026-10-14 08:22,profile,@Futana6 following: 163 → 164,https://x.com/Futana6
+2026-10-14 08:22,profile,@Futana6 tweets: 1167 → 1169,https://x.com/Futana6
