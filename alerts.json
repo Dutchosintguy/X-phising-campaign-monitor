@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-14 20:23",
+ "updated": "2026-10-14 22:27",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-14 22:27",
+   "type": "activity",
+   "details": "@Conviasa evening burst: 10 lure replies 20:38\u201321:55 Amsterdam (10\u00d7 \"I'm writing an article on \u2026 Would value your insight/perspective. DM me if interested\"); targets: @MarleSpragg @steren/@GoogleDeepMind/@aisdk/@vercel @JonahBlake @leap_xyz @sotoalt_/@monad @nicoletteduclar @risi1979 @Tim_Denning @gdechichi @ajaymehta",
+   "link": "https://x.com/Conviasa/status/2110459441003069906"
+  },
   {
    "time": "2026-10-14 20:23",
    "type": "calendly",
@@ -29,7 +35,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa following: 185 \u2192 186",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -41,7 +47,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "details": "@Conviasa following: 185 \u2192 186",
    "link": "https://x.com/Conviasa"
   },
   {
