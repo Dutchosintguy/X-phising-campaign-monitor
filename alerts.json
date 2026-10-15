@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-15 18:34",
+ "updated": "2026-10-15 20:25",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-15 20:24",
+   "type": "activity",
+   "details": "@Conviasa 6 new lure replies 18:33\u201319:57 Amsterdam, now using a reworded template (\"I\u2019m working on an article about \u2026 would love your insights/perspective \u2026 DM me if you\u2019re interested\" alongside the older \"writing an article on \u2026\"); targets: @bencb789 (+@ChidwickStephen, @raiseyouredge), @CrownUpGuy, @erika_alden_d, @nickkokonas, @GoToImpulse (+@SpaceNews_Inc, @StarfishSpace), @Joshuabrowder",
+   "link": "https://x.com/Conviasa/status/2110792242382479623"
+  },
   {
    "time": "2026-10-15 18:34",
    "type": "activity",
@@ -47,7 +53,7 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha following: 2800 \u2192 2799",
+   "details": "@SeoSamantha followers: 2204 \u2192 2203",
    "link": "https://x.com/SeoSamantha"
   },
   {
@@ -65,7 +71,7 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2204 \u2192 2203",
+   "details": "@SeoSamantha following: 2800 \u2192 2799",
    "link": "https://x.com/SeoSamantha"
   },
   {
@@ -76,21 +82,15 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "infra",
-   "details": "Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",
-   "link": "https://crt.sh/?q=invitehandler.com"
+   "type": "profile",
+   "details": "@KylieUncovered followers: 1348 \u2192 1349",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
    "details": "@Jaydayritt followers: 138 \u2192 137",
    "link": "https://x.com/Jaydayritt"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@KylieUncovered followers: 1348 \u2192 1349",
-   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-15 08:20",
@@ -109,6 +109,12 @@
    "type": "profile",
    "details": "@punk8739 tweets: 2386 \u2192 2385",
    "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "infra",
+   "details": "Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",
+   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-14 22:27",
@@ -131,7 +137,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "details": "@Conviasa following: 185 \u2192 186",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -167,7 +173,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa following: 185 \u2192 186",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -239,6 +245,12 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
+   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=30min-meetings.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
    "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
    "link": "https://crt.sh/?q=asteriapanls.com"
   },
@@ -257,20 +269,14 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain caiendly.com: 0 cert names, first cert none; A=NXDOMAIN/none NS=-",
-   "link": "https://crt.sh/?q=caiendly.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=30min-meetings.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
    "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
    "link": "https://crt.sh/?q=login-api.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain caiendly.com: 0 cert names, first cert none; A=NXDOMAIN/none NS=-",
+   "link": "https://crt.sh/?q=caiendly.com"
   },
   {
    "time": "2026-10-13 10:22",
