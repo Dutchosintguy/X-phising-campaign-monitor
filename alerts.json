@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-15 16:37",
+ "updated": "2026-10-15 18:34",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-15 18:34",
+   "type": "activity",
+   "details": "@Conviasa 3 new lure replies 18:22\u201318:28 Amsterdam (3\u00d7 \"I\u2019m writing an article on \u2026 Would value your insight/perspective. DM me if interested\"); targets: @ClearTradeoffs (ex-poker pro, acct created 2026-02), @citrini (Citrini Research, 294k), @IAmPascio (131k solopreneur)",
+   "link": "https://x.com/Conviasa/status/2110769916702019692"
+  },
   {
    "time": "2026-10-15 14:28",
    "type": "x_error",
