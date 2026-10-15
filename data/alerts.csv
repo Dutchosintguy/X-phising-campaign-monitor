@@ -56,3 +56,4 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-15 08:20,profile,@punk8739 following: 458 → 35,https://x.com/punk8739
 2026-10-15 08:20,profile,@punk8739 tweets: 2386 → 2385,https://x.com/punk8739
 2026-10-15 08:20,infra,"Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",https://crt.sh/?q=invitehandler.com
+2026-10-15 14:28,x_error,"x_search: X search unavailable: HTTP 429 rate limit on Grok Bot's shared X access (4 attempts incl. retry after 75s, 0 reads used). Q1-Q3 skipped this run; next run will cover the gap (Q1 since_id 2110607950045732989, Q2/Q3 start 2026-10-15T10:00Z).",
