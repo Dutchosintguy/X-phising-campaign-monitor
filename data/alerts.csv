@@ -40,3 +40,19 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-14 12:20,activity,"@SeoSamantha 3 new lure replies 11:10–11:13 Amsterdam: 2× ""just following up on my DM about our annual AI & technology feature"" (@jeffzwang Exa AI cofounder, @Zergylord Google DeepMind) + 1× opener variant ""we’re putting together our annual AI & technology feature… feel free to reach out"" (3rd use; @LerrelPinto Meta MSL robotics)",https://x.com/SeoSamantha/status/2110297967634583634
 2026-10-14 20:23,calendly,Calendly link status changed 200/page served -> 404/http error: https://calendly.com/d/d336-3mq-q2z,https://calendly.com/d/d336-3mq-q2z
 2026-10-14 22:27,activity,"@Conviasa evening burst: 10 lure replies 20:38–21:55 Amsterdam (10× ""I'm writing an article on … Would value your insight/perspective. DM me if interested""); targets: @MarleSpragg @steren/@GoogleDeepMind/@aisdk/@vercel @JonahBlake @leap_xyz @sotoalt_/@monad @nicoletteduclar @risi1979 @Tim_Denning @gdechichi @ajaymehta",https://x.com/Conviasa/status/2110459441003069906
+2026-10-15 08:20,activity,"4 new lure replies from known operators 06:20–07:45 Amsterdam: @Futana6 3× I'm working on something… couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1× just following up on my DM about our annual AI & technology feature (@CJHandmer)",https://x.com/SeoSamantha/status/2110607950045732989
+2026-10-15 08:20,profile,@Conviasa followers: 1826 → 1828,https://x.com/Conviasa
+2026-10-15 08:20,profile,@Conviasa following: 186 → 189,https://x.com/Conviasa
+2026-10-15 08:20,profile,@Conviasa tweets: 1609 → 1619,https://x.com/Conviasa
+2026-10-15 08:20,profile,@SeoSamantha followers: 2204 → 2203,https://x.com/SeoSamantha
+2026-10-15 08:20,profile,@SeoSamantha following: 2800 → 2799,https://x.com/SeoSamantha
+2026-10-15 08:20,profile,@SeoSamantha tweets: 8770 → 8773,https://x.com/SeoSamantha
+2026-10-15 08:20,profile,@Futana6 followers: 3926 → 3924,https://x.com/Futana6
+2026-10-15 08:20,profile,@Futana6 following: 164 → 169,https://x.com/Futana6
+2026-10-15 08:20,profile,@Futana6 tweets: 1169 → 1172,https://x.com/Futana6
+2026-10-15 08:20,profile,@KylieUncovered followers: 1348 → 1349,https://x.com/KylieUncovered
+2026-10-15 08:20,profile,@Jaydayritt followers: 138 → 137,https://x.com/Jaydayritt
+2026-10-15 08:20,profile,@punk8739 followers: 26318 → 26317,https://x.com/punk8739
+2026-10-15 08:20,profile,@punk8739 following: 458 → 35,https://x.com/punk8739
+2026-10-15 08:20,profile,@punk8739 tweets: 2386 → 2385,https://x.com/punk8739
+2026-10-15 08:20,infra,"Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",https://crt.sh/?q=invitehandler.com

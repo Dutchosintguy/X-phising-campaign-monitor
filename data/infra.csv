@@ -113,3 +113,21 @@ ct_stream,ddce6-webhook-ingestion.spaces.calendly-internal.com,calendly-internal
 ct_stream,a7335.spaces.calendly-internal.com,calendly-internal.com,2026-10-13,CertPatrol live CT match,certpatrol,2026-10-13 16:45
 ct_stream,calendlycms.com,calendlycms.com,2026-10-13,CertPatrol live CT match,certpatrol,2026-10-13 18:51
 ct_stream,preview-fix-cors-search.calendlycms.com,calendlycms.com,2026-10-13,CertPatrol live CT match,certpatrol,2026-10-13 18:51
+cert,caiendly.com,caiendly.com,2026-02-11,"issuer=C=US, O=Let's Encrypt, CN=R13 id=24339764238",crt.sh (historical backfill),2026-10-15 08:20
+cert,caiendly.com,caiendly.com,2026-02-11,"issuer=C=US, O=Let's Encrypt, CN=R13 id=24339788980",crt.sh (historical backfill),2026-10-15 08:20
+cert,eventsportal.com,eventsportal.com,2026-03-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25289378256",crt.sh (historical backfill),2026-10-15 08:20
+cert,www.eventsportal.com,eventsportal.com,2026-03-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25289378256",crt.sh (historical backfill),2026-10-15 08:20
+cert,eventsportal.com,eventsportal.com,2026-03-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25441031740",crt.sh (historical backfill),2026-10-15 08:20
+cert,www.eventsportal.com,eventsportal.com,2026-03-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25441031740",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-05-29,"issuer=C=US, O=Let's Encrypt, CN=YE1 id=26733904948",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-05-29,"issuer=C=US, O=Let's Encrypt, CN=YE1 id=26733904948",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-05-29,"issuer=C=US, O=Let's Encrypt, CN=YE1 id=26733902596",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-05-29,"issuer=C=US, O=Let's Encrypt, CN=YE1 id=26733902596",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-03-31,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25413361766",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-03-31,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25413361766",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-03-31,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25291191172",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-03-31,"issuer=C=US, O=Let's Encrypt, CN=E7 id=25291191172",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087530800",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087530800",crt.sh (historical backfill),2026-10-15 08:20
+cert,*.calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087552738",crt.sh (historical backfill),2026-10-15 08:20
+cert,calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087552738",crt.sh (historical backfill),2026-10-15 08:20
