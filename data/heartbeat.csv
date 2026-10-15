@@ -1,8 +1,8 @@
 component,last_success,last_error,detail
-ct_watcher,2026-10-15 14:28,2026-10-14 02:28,running pid 14366; 12 raw hits
-calendly_watch,2026-10-15 14:28,,2 links checked
+ct_watcher,2026-10-15 16:37,2026-10-14 02:28,running pid 14366; 12 raw hits
+calendly_watch,2026-10-15 16:37,,2 links checked
 infra_watch,2026-10-15 08:24,,"1644 rows, 0 new, 0 historical backfill"
-x_search,2026-10-15 12:23,2026-10-15 14:28,"X search unavailable: HTTP 429 rate limit on Grok Bot's shared X access (4 attempts incl. retry after 75s, 0 reads used). Q1-Q3 skipped this run; next run will cover the gap (Q1 since_id 2110607950045"
+x_search,2026-10-15 16:37,2026-10-15 14:28,"5 calls, 0 new posts (Q1/Q2/Q3/punk8739; reserved 8→actual 5)"
 gh_auth,2026-10-13 10:26,,gh auth valid
-build,2026-10-15 14:28,,build started
-publish,2026-10-15 12:23,,pushed 2026-10-15 12:22 CEST
+build,2026-10-15 16:37,,build started
+publish,2026-10-15 14:28,,pushed 2026-10-15 14:28 CEST
