@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-16 22:19",
+ "updated": "2026-10-17 00:24",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-17 00:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-17 00:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-17 00:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-17 00:24",
+   "type": "activity",
+   "details": "9 new lure replies from known operators 22:18\u201300:21 Amsterdam: @Conviasa 4 more 'working on an article at Bloomberg' lures 22:18\u201322:51 (@judegomila, @iquilezles, @jerryli_design, @alexeheath; burst now 14 since 20:02, spike already alerted); @SeoSamantha back after ~40h quiet with 3 'following up on my DM about our annual AI & technology feature' replies 23:57\u201300:00 (@AndrewDai, @fdesouza, @jtwald); @Futana6 2 'couldn't send a message' replies 00:20\u201300:21 (@GeYan_21, @mli0603)",
+   "link": "https://x.com/Futana6/status/2111221053053636988"
+  },
   {
    "time": "2026-10-16 22:19",
    "type": "infra",
@@ -29,12 +53,6 @@
   {
    "time": "2026-10-16 20:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-16 20:27",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -51,6 +69,12 @@
    "link": "https://crt.sh/?q=preview-fix-search-fixes.calendlycms.com"
   },
   {
+   "time": "2026-10-16 20:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
    "time": "2026-10-16 20:26",
    "type": "activity",
    "details": "@Conviasa 7 new lure replies 20:02\u201320:23 Amsterdam (burst, below 10+ spike threshold); new wording 'I\u2019m working on an article at Bloomberg and would love your insights. DM me if you\u2019re interested'; targets: @nvolpewild, @nabihasaklayen, @ianlivingstone, @QGallouedec, @ethanelasky, @xadisingh, @WilliamBryk",
@@ -59,8 +83,8 @@
   {
    "time": "2026-10-16 18:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 18:20",
@@ -71,8 +95,8 @@
   {
    "time": "2026-10-16 18:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-16 18:19",
@@ -113,11 +137,23 @@
   {
    "time": "2026-10-16 15:52",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-16 15:52",
+   "type": "infra",
    "details": "New Twitta-panel domains (via @orlof_v, verified by us): xredirecting.com, petrilabs.app, hyperball.one \u2014 same panel.css hash as cal-apis/invitehandler/whitelistportal",
    "link": "https://x.com/orlof_v/status/2111081475277811880"
   },
   {
-   "time": "2026-10-16 15:52",
+   "time": "2026-10-16 15:51",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 15:51",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
@@ -127,18 +163,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-16 15:51",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-16 15:51",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-16 14:30",
@@ -155,8 +179,8 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Conviasa following: 189 \u2192 190",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha followers: 2203 \u2192 2202",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-16 08:23",
@@ -167,14 +191,14 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2202",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Conviasa following: 189 \u2192 190",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Futana6 followers: 3924 \u2192 3925",
-   "link": "https://x.com/Futana6"
+   "details": "@Conviasa tweets: 1619 \u2192 1628",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-16 08:23",
@@ -185,8 +209,8 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Conviasa tweets: 1619 \u2192 1628",
-   "link": "https://x.com/Conviasa"
+   "details": "@Futana6 followers: 3924 \u2192 3925",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-16 08:23",
@@ -280,12 +304,6 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@punk8739 followers: 26318 \u2192 26317",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-15 08:20",
    "type": "infra",
    "details": "Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",
    "link": "https://crt.sh/?q=invitehandler.com"
@@ -298,12 +316,6 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@Jaydayritt followers: 138 \u2192 137",
-   "link": "https://x.com/Jaydayritt"
-  },
-  {
-   "time": "2026-10-15 08:20",
    "type": "activity",
    "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
    "link": "https://x.com/SeoSamantha/status/2110607950045732989"
@@ -311,14 +323,14 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha following: 2800 \u2192 2799",
+   "details": "@SeoSamantha tweets: 8770 \u2192 8773",
    "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@KylieUncovered followers: 1348 \u2192 1349",
-   "link": "https://x.com/KylieUncovered"
+   "details": "@punk8739 followers: 26318 \u2192 26317",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-15 08:20",
@@ -329,7 +341,7 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Conviasa tweets: 1609 \u2192 1619",
+   "details": "@Conviasa following: 186 \u2192 189",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -341,14 +353,14 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Conviasa following: 186 \u2192 189",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha following: 2800 \u2192 2799",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8770 \u2192 8773",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Conviasa tweets: 1609 \u2192 1619",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-15 08:20",
@@ -367,6 +379,18 @@
    "type": "profile",
    "details": "@Futana6 tweets: 1169 \u2192 1172",
    "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
+   "details": "@KylieUncovered followers: 1348 \u2192 1349",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
+   "details": "@Jaydayritt followers: 138 \u2192 137",
+   "link": "https://x.com/Jaydayritt"
   },
   {
    "time": "2026-10-14 22:27",
@@ -455,14 +479,14 @@
   {
    "time": "2026-10-13 20:36",
    "type": "infra",
-   "details": "CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra)",
-   "link": "https://crt.sh/?q=preview-fix-cors-search.calendlycms.com"
+   "details": "CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search)",
+   "link": "https://crt.sh/?q=calendlycms.com"
   },
   {
    "time": "2026-10-13 20:36",
    "type": "infra",
-   "details": "CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search)",
-   "link": "https://crt.sh/?q=calendlycms.com"
+   "details": "CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra)",
+   "link": "https://crt.sh/?q=preview-fix-cors-search.calendlycms.com"
   },
   {
    "time": "2026-10-13 18:44",
@@ -497,26 +521,14 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=asteriapanls.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=whitelistportal.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
    "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
    "link": "https://crt.sh/?q=30min-meetings.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=login-api.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -527,32 +539,20 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=login-api.com"
+   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=asteriapanls.com"
   },
   {
-   "time": "2026-10-13 10:22",
-   "type": "warning",
-   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
-   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
-  },
-  {
-   "time": "2026-10-13 10:22",
+   "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
-   "link": "https://crt.sh/?q=events-portal.com"
+   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=whitelistportal.com"
   },
   {
-   "time": "2026-10-13 10:22",
+   "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
-   "link": "https://crt.sh/?q=cal-api.com"
-  },
-  {
-   "time": "2026-10-13 10:22",
-   "type": "infra",
-   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
-   "link": "https://crt.sh/?q=cal-apis.com"
+   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-13 10:22",
@@ -563,14 +563,38 @@
   {
    "time": "2026-10-13 10:22",
    "type": "profile",
-   "details": "@Futana6 followers: 3924 \u2192 3925",
+   "details": "@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. \u2192 | TechCrunch Correspondent Covering tech, s",
    "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-13 10:22",
    "type": "profile",
-   "details": "@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. \u2192 | TechCrunch Correspondent Covering tech, s",
+   "details": "@Futana6 followers: 3924 \u2192 3925",
    "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "warning",
+   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
+   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
+   "link": "https://crt.sh/?q=cal-apis.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
+   "link": "https://crt.sh/?q=cal-api.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
+   "link": "https://crt.sh/?q=events-portal.com"
   },
   {
    "time": "2026-10-13 10:22",
