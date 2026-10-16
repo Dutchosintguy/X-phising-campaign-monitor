@@ -93,7 +93,11 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-16 18:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-16 18:20,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-16 20:26,activity,"@Conviasa 7 new lure replies 20:02–20:23 Amsterdam (burst, below 10+ spike threshold); new wording 'I’m working on an article at Bloomberg and would love your insights. DM me if you’re interested'; targets: @nvolpewild, @nabihasaklayen, @ianlivingstone, @QGallouedec, @ethanelasky, @xadisingh, @WilliamBryk",https://x.com/Conviasa/status/2111161208917401867
-2026-10-16 20:27,infra,CT watcher: new certificate for preview-fix-search-fixes.calendlycms.com,https://crt.sh/?q=preview-fix-search-fixes.calendlycms.com
+2026-10-16 20:27,infra,CT watcher: new certificate for preview-fix-search-fixes.calendlycms.com (likely benign: calendlycms.com is Calendly CMS infra; same pattern as 2026-10-13 preview-fix-cors-search hit),https://crt.sh/?q=preview-fix-search-fixes.calendlycms.com
 2026-10-16 20:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-16 20:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-16 20:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-16 22:19,activity,"SPIKE: @Conviasa 10 lures since 20:02 Amsterdam (9 in 20:02–20:35, plus 22:13) using the new 'I’m working on an article at Bloomberg and would love your insights. DM me if you’re interested' wording; 3 new this run → @adam_karvonen (20:32), @afrazhaowang (20:35), @honam (22:13)",https://x.com/Conviasa/status/2111188898240180321
+2026-10-16 22:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-16 22:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-16 22:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
