@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-16 02:30",
+ "updated": "2026-10-16 04:24",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-16 04:25",
+   "type": "activity",
+   "details": "@punk8739 activity spike: about 50 posts (all plain retweets of unrelated crypto/news/random content, roughly one every 45 s in batches of 10) between 23:00 Oct 15 and 04:23 Oct 16 Amsterdam, after zero posts on Oct 14\u201315. Looks like automated feed-padding or account warming; no lure replies seen.",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 04:25",
+   "type": "activity",
+   "details": "@Futana6 back after 5 days quiet (last lure 2026-10-11): 4 new lure replies 02:47\u201303:06 Amsterdam using the known follow-up template (\"I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient\"); targets: @IlinVasily29521 (UW Math AI Lab / Axiom Math), @sai_borg (Simular AI), @CoreSpeedHQ + @Tiny_Fish (AI-agent startups), @tatsu_hashimoto (Stanford CS prof, 13k)",
+   "link": "https://x.com/Futana6/status/2110900175208079382"
+  },
   {
    "time": "2026-10-16 02:26",
    "type": "x_error",
@@ -71,14 +83,14 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 followers: 3926 \u2192 3924",
-   "link": "https://x.com/Futana6"
+   "details": "@SeoSamantha tweets: 8770 \u2192 8773",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8770 \u2192 8773",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Futana6 followers: 3926 \u2192 3924",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-15 08:20",
@@ -143,8 +155,8 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa following: 185 \u2192 186",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha followers: 2203 \u2192 2204",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-14 08:22",
@@ -173,13 +185,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2204",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "details": "@Conviasa following: 185 \u2192 186",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -187,6 +193,12 @@
    "type": "warning",
    "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
    "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-14 02:31",
