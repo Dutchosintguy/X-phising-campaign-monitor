@@ -88,3 +88,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-16 16:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-16 16:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-16 16:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-16 18:19,activity,"@Conviasa 1 new lure reply 17:34 Amsterdam using reworded 'perspective for an upcoming article … DM me if you’re interested' template; target: @rossiadam (Adam Rossi, entrepreneur/investor)",https://x.com/Conviasa/status/2111118603739095353
+2026-10-16 18:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-16 18:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-16 18:20,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
