@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-16 10:28",
+ "updated": "2026-10-16 12:21",
  "timezone": "Europe/Amsterdam",
  "alerts": [
   {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@punk8739 tweets: 2385 \u2192 2518",
-   "link": "https://x.com/punk8739"
+   "time": "2026-10-16 12:21",
+   "type": "activity",
+   "details": "@Futana6 3 new lure replies 11:43\u201312:19 Amsterdam using known follow-up template (\"I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient\"); targets: @ElevenCreative (ElevenLabs creative suite, 10k), @npaka123 (JP tech author, 20k), @CauraAI (AI agent memory layer)",
+   "link": "https://x.com/Futana6/status/2111039246203318356"
   },
   {
    "time": "2026-10-16 08:23",
@@ -35,13 +35,13 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Futana6 following: 169 \u2192 168",
+   "details": "@Futana6 followers: 3924 \u2192 3925",
    "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Futana6 followers: 3924 \u2192 3925",
+   "details": "@Futana6 following: 169 \u2192 168",
    "link": "https://x.com/Futana6"
   },
   {
@@ -69,6 +69,12 @@
    "link": "https://x.com/punk8739"
   },
   {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 tweets: 2385 \u2192 2518",
+   "link": "https://x.com/punk8739"
+  },
+  {
    "time": "2026-10-16 08:20",
    "type": "activity",
    "details": "@punk8739 retweet flood continues: 103 posts since 00:00Z (hourly 0/10/20/30/21/11 +11 partial 06Z); still no non-retweet lure posts in Q1. Known operators otherwise quiet since Futana6 lures ~03:06 Amsterdam.",
@@ -89,14 +95,14 @@
   {
    "time": "2026-10-16 04:25",
    "type": "activity",
-   "details": "@punk8739 activity spike: about 50 posts (all plain retweets of unrelated crypto/news/random content, roughly one every 45 s in batches of 10) between 23:00 Oct 15 and 04:23 Oct 16 Amsterdam, after zero posts on Oct 14\u201315. Looks like automated feed-padding or account warming; no lure replies seen.",
-   "link": "https://x.com/punk8739"
+   "details": "@Futana6 back after 5 days quiet (last lure 2026-10-11): 4 new lure replies 02:47\u201303:06 Amsterdam using the known follow-up template (\"I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient\"); targets: @IlinVasily29521 (UW Math AI Lab / Axiom Math), @sai_borg (Simular AI), @CoreSpeedHQ + @Tiny_Fish (AI-agent startups), @tatsu_hashimoto (Stanford CS prof, 13k)",
+   "link": "https://x.com/Futana6/status/2110900175208079382"
   },
   {
    "time": "2026-10-16 04:25",
    "type": "activity",
-   "details": "@Futana6 back after 5 days quiet (last lure 2026-10-11): 4 new lure replies 02:47\u201303:06 Amsterdam using the known follow-up template (\"I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient\"); targets: @IlinVasily29521 (UW Math AI Lab / Axiom Math), @sai_borg (Simular AI), @CoreSpeedHQ + @Tiny_Fish (AI-agent startups), @tatsu_hashimoto (Stanford CS prof, 13k)",
-   "link": "https://x.com/Futana6/status/2110900175208079382"
+   "details": "@punk8739 activity spike: about 50 posts (all plain retweets of unrelated crypto/news/random content, roughly one every 45 s in batches of 10) between 23:00 Oct 15 and 04:23 Oct 16 Amsterdam, after zero posts on Oct 14\u201315. Looks like automated feed-padding or account warming; no lure replies seen.",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-16 02:26",
@@ -124,21 +130,15 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@Futana6 tweets: 1169 \u2192 1172",
-   "link": "https://x.com/Futana6"
+   "type": "activity",
+   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
+   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 followers: 3926 \u2192 3924",
+   "details": "@Futana6 following: 164 \u2192 169",
    "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@Conviasa followers: 1826 \u2192 1828",
-   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-15 08:20",
@@ -172,14 +172,8 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "activity",
-   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
-   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
-  },
-  {
-   "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 following: 164 \u2192 169",
+   "details": "@Futana6 followers: 3926 \u2192 3924",
    "link": "https://x.com/Futana6"
   },
   {
@@ -187,6 +181,12 @@
    "type": "profile",
    "details": "@KylieUncovered followers: 1348 \u2192 1349",
    "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1169 \u2192 1172",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-15 08:20",
@@ -217,6 +217,12 @@
    "type": "infra",
    "details": "Infra watch: crt.sh reachable again and returned historical certificates for the watched lookalike domains (18 campaign-era 2026 certs added to infra.csv as backfill, 1521 pre-2026 archived, 28 duplicates of known certs dropped). None issued in the last 14 days, so no new campaign certificate. Watcher now only alerts on certs issued within 14 days.",
    "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
+   "details": "@Conviasa followers: 1826 \u2192 1828",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-14 22:27",
