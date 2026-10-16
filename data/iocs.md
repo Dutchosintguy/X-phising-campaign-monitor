@@ -36,3 +36,10 @@
 | Apps: CalendarBookings, Booking Pass, Events Portal | X OAuth apps | Casco / SafeBrowz / blog | X app status not publicly queryable |
 | Accounts: RamIyer__ (suspended), punk8739 (active, unverified) | X | @nickgraynews / @OG_Mr_Diamond | see operators.csv |
 Note: Nosian's 13 accounts are not individually named in the article; only those named publicly elsewhere are added.
+
+## Infrastructure clusters (added 2026-10-16; credit @orlof_v https://x.com/orlof_v/status/2111081475277811880)
+All 7 domains below served the page title "Sign in — Twitta" on / and /login and the identical /static/css/panel.css (sha256 prefix 2ce123a1a60f, ?v=1787890490) on our passive GET 2026-10-16, and all use Cloudflare NS bill/paige → same phishing panel/operator infrastructure (high confidence).
+- Cluster B (Tucows; Njalla privacy per @orlof_v WHOIS screenshot, Saint Kitts & Nevis; RDAP redacted): xredirecting[.]com (reg 2026-07-28), petrilabs[.]app (2026-07-30), whitelistportal[.]com (2026-08-01), invitehandler[.]com (2026-08-15), hyperball[.]one (2026-08-25)
+- Cluster A (Dominet (HK)): cal-apis[.]com (2026-09-16), cal-api[.]com (2026-10-08); possibly login-api[.]com (2026-09-25, Dominet but NS felicity/tess, no Twitta page → medium)
+- Cluster C (Asteria, Casco): asteriapanls[.]com, 30min-meetings[.]com — Tucows but Njalla NS + IP 111.90.148.101, no Twitta page → separate cluster, link to A/B unproven.
+Panel class names seen by @orlof_v (oauth-app-form, account-grid, activity log badges) suggest an operator panel managing multiple X OAuth apps and hijacked accounts.

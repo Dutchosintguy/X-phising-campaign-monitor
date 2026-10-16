@@ -78,3 +78,10 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-16 08:23,profile,@punk8739 tweets: 2385 → 2518,https://x.com/punk8739
 2026-10-16 12:21,activity,"@Futana6 3 new lure replies 11:43–12:19 Amsterdam using known follow-up template (""I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient""); targets: @ElevenCreative (ElevenLabs creative suite, 10k), @npaka123 (JP tech author, 20k), @CauraAI (AI agent memory layer)",https://x.com/Futana6/status/2111039246203318356
 2026-10-16 14:30,activity,"@Futana6 2 new lure replies 12:21–12:33 Amsterdam using known follow-up template (""I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient""); targets: @Billy_Basso (Animal Well / game dev, 15k), @trycua (Cua agent spaces, 24k)",https://x.com/Futana6/status/2111042901119521249
+2026-10-16 15:52,infra,"New Twitta-panel domains (via @orlof_v, verified by us): xredirecting.com, petrilabs.app, hyperball.one — same panel.css hash as cal-apis/invitehandler/whitelistportal",https://x.com/orlof_v/status/2111081475277811880
+2026-10-16 15:51,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-16 15:51,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-16 15:51,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-16 15:52,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-16 15:53,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-16 15:53,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login

@@ -131,3 +131,13 @@ cert,*.calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 i
 cert,calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087530800",crt.sh (historical backfill),2026-10-15 08:20
 cert,*.calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087552738",crt.sh (historical backfill),2026-10-15 08:20
 cert,calapis.com,calapis.com,2026-01-30,"issuer=C=US, O=Let's Encrypt, CN=E7 id=24087552738",crt.sh (historical backfill),2026-10-15 08:20
+kit,xredirecting.com,xredirecting.com,2026-07-28,cluster=B (Tucows); title_twitta=y; panel.css=2ce123a1a60f; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,petrilabs.app,petrilabs.app,2026-07-30,cluster=B (Tucows); title_twitta=y; panel.css=2ce123a1a60f; registrar=Tucows Domains Inc,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,whitelistportal.com,whitelistportal.com,2026-08-01,cluster=B (Tucows); title_twitta=y; panel.css=2ce123a1a60f; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,invitehandler.com,invitehandler.com,2026-08-15,cluster=B (Tucows); title_twitta=y; panel.css=2ce123a1a60f; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,hyperball.one,hyperball.one,2026-08-25,cluster=B (Tucows); title_twitta=y; panel.css=2ce123a1a60f; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,cal-apis.com,cal-apis.com,2026-09-16,cluster=A (Dominet HK); title_twitta=y; panel.css=2ce123a1a60f; registrar=Dominet (HK) Limited,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,cal-api.com,cal-api.com,2026-10-08,cluster=A (Dominet HK); title_twitta=y; panel.css=2ce123a1a60f; registrar=Dominet (HK) Limited,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,login-api.com,login-api.com,2026-09-25,cluster=A? (Dominet HK); title_twitta=n (404 on / and /login); panel.css=-; registrar=Dominet (HK) Limited,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,asteriapanls.com,asteriapanls.com,2026-08-02,cluster=C (Asteria / Njalla NS); title_twitta=n (no response); panel.css=-; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
+kit,30min-meetings.com,30min-meetings.com,2026-08-02,cluster=C (Asteria / Njalla NS); title_twitta=n (no response); panel.css=-; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
