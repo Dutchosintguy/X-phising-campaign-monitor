@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-16 12:21",
+ "updated": "2026-10-16 14:30",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-16 14:30",
+   "type": "activity",
+   "details": "@Futana6 2 new lure replies 12:21\u201312:33 Amsterdam using known follow-up template (\"I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel free to message when convenient\"); targets: @Billy_Basso (Animal Well / game dev, 15k), @trycua (Cua agent spaces, 24k)",
+   "link": "https://x.com/Futana6/status/2111042901119521249"
+  },
   {
    "time": "2026-10-16 12:21",
    "type": "activity",
