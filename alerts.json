@@ -1,7 +1,85 @@
 {
- "updated": "2026-10-16 06:27",
+ "updated": "2026-10-16 08:25",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 tweets: 2385 \u2192 2518",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1172 \u2192 1176",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Conviasa following: 189 \u2192 190",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1619 \u2192 1628",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2203 \u2192 2202",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Futana6 following: 169 \u2192 168",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Futana6 followers: 3924 \u2192 3925",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@KylieUncovered following: 1229 \u2192 1228",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Jaydayritt followers: 137 \u2192 138",
+   "link": "https://x.com/Jaydayritt"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 followers: 26317 \u2192 26314",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 following: 35 \u2192 170",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:20",
+   "type": "activity",
+   "details": "@punk8739 retweet flood continues: 103 posts since 00:00Z (hourly 0/10/20/30/21/11 +11 partial 06Z); still no non-retweet lure posts in Q1. Known operators otherwise quiet since Futana6 lures ~03:06 Amsterdam.",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:20",
+   "type": "warning",
+   "details": "@ConstanceWaing (Pacifica / ex-FTX COO) publicly warned: DM from someone claiming @TechCrunch for annual AI feature interview \u2192 Calendly asked to authorize X account. Operator handle not named; pitch language matches known campaign templates. Reply @criptomaniac_ confirms \"same scam strategy\".",
+   "link": "https://x.com/ConstanceWaing/status/2110926542188827116"
+  },
   {
    "time": "2026-10-16 06:27",
    "type": "activity",
@@ -47,14 +125,14 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 followers: 3926 \u2192 3924",
+   "details": "@Futana6 tweets: 1169 \u2192 1172",
    "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "activity",
-   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
-   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
+   "type": "profile",
+   "details": "@Futana6 followers: 3926 \u2192 3924",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-15 08:20",
@@ -94,14 +172,14 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@Futana6 following: 164 \u2192 169",
-   "link": "https://x.com/Futana6"
+   "type": "activity",
+   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
+   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 tweets: 1169 \u2192 1172",
+   "details": "@Futana6 following: 164 \u2192 169",
    "link": "https://x.com/Futana6"
   },
   {
@@ -161,8 +239,8 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-14 08:22",
@@ -185,13 +263,19 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
+   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
    "details": "@SeoSamantha followers: 2203 \u2192 2204",
    "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "details": "@Conviasa following: 185 \u2192 186",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -199,12 +283,6 @@
    "type": "warning",
    "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
    "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@Conviasa following: 185 \u2192 186",
-   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-14 02:31",
@@ -257,32 +335,20 @@
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
-   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
-   "link": "https://x.com/Futana6/status/2109927161456955720"
-  },
-  {
-   "time": "2026-10-13 12:23",
-   "type": "activity",
    "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
    "link": "https://x.com/SeoSamantha/status/2109949222925881798"
   },
   {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=asteriapanls.com"
+   "time": "2026-10-13 12:23",
+   "type": "activity",
+   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
+   "link": "https://x.com/Futana6/status/2109927161456955720"
   },
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=whitelistportal.com"
+   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=login-api.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -299,8 +365,20 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=login-api.com"
+   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=asteriapanls.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=whitelistportal.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-13 10:22",
