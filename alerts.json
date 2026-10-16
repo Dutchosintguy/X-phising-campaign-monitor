@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-16 04:24",
+ "updated": "2026-10-16 06:27",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-16 06:27",
+   "type": "activity",
+   "details": "@punk8739 retweet flood continues: 60 more posts (plain retweets) between 04:00 and 06:27 Amsterdam (20, 30, 10 per hour), still no lure replies. Known operators otherwise quiet; no new template users since 04:00.",
+   "link": "https://x.com/punk8739"
+  },
   {
    "time": "2026-10-16 04:25",
    "type": "activity",
@@ -41,7 +47,7 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 following: 164 \u2192 169",
+   "details": "@Futana6 followers: 3926 \u2192 3924",
    "link": "https://x.com/Futana6"
   },
   {
@@ -89,7 +95,7 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Futana6 followers: 3926 \u2192 3924",
+   "details": "@Futana6 following: 164 \u2192 169",
    "link": "https://x.com/Futana6"
   },
   {
@@ -155,7 +161,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2204",
+   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
    "link": "https://x.com/SeoSamantha"
   },
   {
@@ -179,13 +185,13 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
+   "details": "@SeoSamantha followers: 2203 \u2192 2204",
    "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa following: 185 \u2192 186",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -197,7 +203,7 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "details": "@Conviasa following: 185 \u2192 186",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -245,6 +251,12 @@
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
+   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:09:10 PM Amsterdam): @stevelauda_ Hey Steve, just following up on my DM about our annual AI &amp; technology feature. Would love to hear your",
+   "link": "https://x.com/SeoSamantha/status/2109949557668999277"
+  },
+  {
+   "time": "2026-10-13 12:23",
+   "type": "activity",
    "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
    "link": "https://x.com/Futana6/status/2109927161456955720"
   },
@@ -253,18 +265,6 @@
    "type": "activity",
    "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
    "link": "https://x.com/SeoSamantha/status/2109949222925881798"
-  },
-  {
-   "time": "2026-10-13 12:23",
-   "type": "activity",
-   "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:09:10 PM Amsterdam): @stevelauda_ Hey Steve, just following up on my DM about our annual AI &amp; technology feature. Would love to hear your",
-   "link": "https://x.com/SeoSamantha/status/2109949557668999277"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=30min-meetings.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -287,14 +287,20 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=login-api.com"
+   "details": "Added wider-campaign domain caiendly.com: 0 cert names, first cert none; A=NXDOMAIN/none NS=-",
+   "link": "https://crt.sh/?q=caiendly.com"
   },
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain caiendly.com: 0 cert names, first cert none; A=NXDOMAIN/none NS=-",
-   "link": "https://crt.sh/?q=caiendly.com"
+   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=30min-meetings.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=login-api.com"
   },
   {
    "time": "2026-10-13 10:22",
