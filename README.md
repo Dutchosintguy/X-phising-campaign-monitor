@@ -1,7 +1,7 @@
 # X phishing campaign monitor — fake journalist / AI-lab interview → Calendly → X OAuth
 
 **Live dashboard:** https://dutchosintguy.github.io/X-phising-campaign-monitor/
-**Last updated:** 2026-10-17 12:29 CEST · updated automatically every 2 hours
+**Last updated:** 2026-10-17 14:26 CEST · updated automatically every 2 hours
 **Alert feeds:** [RSS](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.xml) · [JSON](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.json)
 
 Monitoring of an ongoing phishing campaign on X in which accounts posing as journalists (Bloomberg, TechCrunch, WIRED, Reuters) or AI-lab staff (OpenAI, Anthropic) publicly reply to mainly AI/ML researchers, startup founders and investors (also developers, crypto people, media/creators, security/OSINT people) ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** that leads into a malicious X OAuth app (e.g. "Events Portal", "CalendarBookings", "Booking Pass") or a fake X sign-in page (e.g. "Twitta" on `plugins[.]cal-apis[.]com`) to take over accounts.
@@ -29,14 +29,14 @@ Monitoring of an ongoing phishing campaign on X in which accounts posing as jour
 ## Pipeline health (at build time)
 | Component | Last success | Last error | State |
 |---|---|---|---|
-| ct_watcher | 2026-10-17 12:28 | 2026-10-17 10:24 | ok |
-| calendly_watch | 2026-10-17 12:28 | — | ok |
-| infra_watch | 2026-10-17 08:32 | — | ok |
-| x_search | 2026-10-17 12:28 | 2026-10-16 02:26 | ok |
+| ct_watcher | 2026-10-17 14:25 | 2026-10-17 10:24 | ok |
+| calendly_watch | 2026-10-17 14:26 | — | ok |
+| infra_watch | 2026-10-17 08:32 | — | ⚠ STALE |
+| x_search | 2026-10-17 14:25 | 2026-10-16 02:26 | ok |
 | gh_auth | 2026-10-13 10:26 | — | ⚠ STALE |
-| build | 2026-10-17 12:28 | — | ok |
-| publish | 2026-10-17 10:27 | — | ok |
-| twitta_watch | 2026-10-17 12:28 | — | ok |
+| build | 2026-10-17 14:26 | — | ok |
+| publish | 2026-10-17 12:29 | — | ok |
+| twitta_watch | 2026-10-17 14:26 | — | ok |
 
 ## Important caveats
 - **Targets listed are publicly *approached* accounts, NOT confirmed victims.** A public reply from an operator account does not mean the person received a DM, clicked a link or was compromised.
