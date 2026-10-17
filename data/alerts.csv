@@ -112,3 +112,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 04:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 04:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-17 04:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 06:24,activity,"SPIKE: @Futana6 13 'couldn't send a message so feel free to message when convenient' lure replies in ~52 min, 05:02–05:54 Amsterdam (largest Futana6 burst so far; 12 in 05:18–05:54). Targets: @gendal (R3 CEO), @alexmashrabov (re-targeted), @genaiassembling, @ZooWorkAI, @stalkermustang, @Bandana_HQ, @ElasticEnergy_, @anirudhbv_ce, @lucahjin, @liao_lucas, @gimletlabs, @DarthUtopian, @CharaspowerAI + @invideoOfficial. Mostly AI-infra/inference people & startups.",https://x.com/Futana6/status/2111304831789072601
+2026-10-17 06:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-17 06:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-17 06:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
