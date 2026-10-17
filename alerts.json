@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-17 08:33",
+ "updated": "2026-10-17 08:44",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-17 08:44",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-17 08:44",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-17 08:44",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-17 08:35",
+   "type": "calendly",
+   "details": "New campaign Calendly link shared by targeted victim @ConstanceWaing via Nico Dekens (17 Oct): calendly.com/d/d3sm-ypg-s4w \u2014 live routing form \"F30\" owner \"MM\", options Collaboration/Press Release (same as retired d336-3mq-q2z). Tied to her TechCrunch / annual-AI-feature warning. No OAuth/app/callback in public form data. @ConstanceWaing is a victim, not a suspect.",
+   "link": "https://calendly.com/d/d3sm-ypg-s4w"
+  },
   {
    "time": "2026-10-17 08:33",
    "type": "infra",
@@ -77,8 +101,8 @@
   {
    "time": "2026-10-17 08:29",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8773 \u2192 8779",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Conviasa following: 190 \u2192 191",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-17 08:29",
@@ -88,14 +112,8 @@
   },
   {
    "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763114666)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2202 \u2192 2204",
+   "details": "@SeoSamantha tweets: 8773 \u2192 8779",
    "link": "https://x.com/SeoSamantha"
   },
   {
@@ -106,8 +124,14 @@
   },
   {
    "time": "2026-10-17 08:29",
+   "type": "infra",
+   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763114666)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
    "type": "profile",
-   "details": "@Conviasa following: 190 \u2192 191",
+   "details": "@Conviasa followers: 1828 \u2192 1830",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -143,8 +167,8 @@
   {
    "time": "2026-10-17 08:29",
    "type": "profile",
-   "details": "@Conviasa followers: 1828 \u2192 1830",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha followers: 2202 \u2192 2204",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-17 08:29",
@@ -185,6 +209,12 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
+   "details": "New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763292927)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
    "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763292019)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
@@ -203,7 +233,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763292927)",
+   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763114666)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -215,37 +245,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763125147)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
    "details": "New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763144367)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763118732)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763125147)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -257,7 +257,31 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763114666)",
+   "details": "New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763125147)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
+   "details": "New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763125147)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
+   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763118732)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
+   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
+   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -305,14 +329,14 @@
   {
    "time": "2026-10-17 02:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-17 02:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-17 02:19",
@@ -352,6 +376,12 @@
   },
   {
    "time": "2026-10-16 22:19",
+   "type": "activity",
+   "details": "SPIKE: @Conviasa 10 lures since 20:02 Amsterdam (9 in 20:02\u201320:35, plus 22:13) using the new 'I\u2019m working on an article at Bloomberg and would love your insights. DM me if you\u2019re interested' wording; 3 new this run \u2192 @adam_karvonen (20:32), @afrazhaowang (20:35), @honam (22:13)",
+   "link": "https://x.com/Conviasa/status/2111188898240180321"
+  },
+  {
+   "time": "2026-10-16 22:19",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
@@ -369,10 +399,10 @@
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-16 22:19",
-   "type": "activity",
-   "details": "SPIKE: @Conviasa 10 lures since 20:02 Amsterdam (9 in 20:02\u201320:35, plus 22:13) using the new 'I\u2019m working on an article at Bloomberg and would love your insights. DM me if you\u2019re interested' wording; 3 new this run \u2192 @adam_karvonen (20:32), @afrazhaowang (20:35), @honam (22:13)",
-   "link": "https://x.com/Conviasa/status/2111188898240180321"
+   "time": "2026-10-16 20:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-16 20:27",
@@ -383,20 +413,14 @@
   {
    "time": "2026-10-16 20:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-16 20:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-16 20:27",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 20:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 20:26",
@@ -431,32 +455,38 @@
   {
    "time": "2026-10-16 16:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-16 16:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-16 16:23",
-   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-16 15:53",
+   "time": "2026-10-16 16:23",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-16 16:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-16 15:53",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 15:53",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-16 15:52",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-16 15:52",
@@ -465,18 +495,6 @@
    "link": "https://x.com/orlof_v/status/2111081475277811880"
   },
   {
-   "time": "2026-10-16 15:52",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-16 15:51",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
    "time": "2026-10-16 15:51",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
@@ -487,6 +505,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 15:51",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 14:30",
@@ -503,44 +527,26 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Conviasa tweets: 1619 \u2192 1628",
+   "details": "@Conviasa following: 189 \u2192 190",
    "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@punk8739 tweets: 2385 \u2192 2518",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@punk8739 following: 35 \u2192 170",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@punk8739 followers: 26317 \u2192 26314",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@Jaydayritt followers: 137 \u2192 138",
-   "link": "https://x.com/Jaydayritt"
-  },
-  {
-   "time": "2026-10-16 08:23",
-   "type": "profile",
-   "details": "@KylieUncovered following: 1229 \u2192 1228",
-   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
    "details": "@Futana6 tweets: 1172 \u2192 1176",
    "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1619 \u2192 1628",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2203 \u2192 2202",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-16 08:23",
@@ -557,19 +563,37 @@
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2202",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@KylieUncovered following: 1229 \u2192 1228",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-16 08:23",
    "type": "profile",
-   "details": "@Conviasa following: 189 \u2192 190",
-   "link": "https://x.com/Conviasa"
+   "details": "@punk8739 followers: 26317 \u2192 26314",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 following: 35 \u2192 170",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@punk8739 tweets: 2385 \u2192 2518",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-16 08:23",
+   "type": "profile",
+   "details": "@Jaydayritt followers: 137 \u2192 138",
+   "link": "https://x.com/Jaydayritt"
   },
   {
    "time": "2026-10-16 08:20",
    "type": "warning",
-   "details": "@ConstanceWaing (Pacifica / ex-FTX COO) publicly warned: DM from someone claiming @TechCrunch for annual AI feature interview \u2192 Calendly asked to authorize X account. Operator handle not named; pitch language matches known campaign templates. Reply @criptomaniac_ confirms \"same scam strategy\".",
+   "details": "VICTIM/warning source (not a suspect): @ConstanceWaing (Pacifica / ex-FTX COO) publicly warned: DM from someone claiming @TechCrunch for annual AI feature interview \u2192 Calendly asked to authorize X account. Operator handle not named; pitch language matches known campaign templates. Reply @criptomaniac_ confirms \"same scam strategy\".",
    "link": "https://x.com/ConstanceWaing/status/2110926542188827116"
   },
   {
@@ -629,20 +653,8 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2204 \u2192 2203",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
    "details": "@SeoSamantha following: 2800 \u2192 2799",
    "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "activity",
-   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
-   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
   },
   {
    "time": "2026-10-15 08:20",
@@ -653,8 +665,20 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
+   "details": "@Conviasa following: 186 \u2192 189",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
    "details": "@Conviasa followers: 1826 \u2192 1828",
    "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "activity",
+   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
+   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
   },
   {
    "time": "2026-10-15 08:20",
@@ -671,8 +695,8 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@Conviasa following: 186 \u2192 189",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha followers: 2204 \u2192 2203",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-15 08:20",
@@ -689,6 +713,12 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
+   "details": "@KylieUncovered followers: 1348 \u2192 1349",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
    "details": "@punk8739 followers: 26318 \u2192 26317",
    "link": "https://x.com/punk8739"
   },
@@ -697,12 +727,6 @@
    "type": "profile",
    "details": "@punk8739 following: 458 \u2192 35",
    "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@KylieUncovered followers: 1348 \u2192 1349",
-   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-15 08:20",

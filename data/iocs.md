@@ -47,3 +47,10 @@ All 7 domains below served the page title "Sign in — Twitta" on / and /login a
 - Cluster A (Dominet (HK)): cal-apis[.]com (2026-09-16), cal-api[.]com (2026-10-08); possibly login-api[.]com (2026-09-25, Dominet but NS felicity/tess, no Twitta page → medium)
 - Cluster C (Asteria, Casco): asteriapanls[.]com, 30min-meetings[.]com — Tucows but Njalla NS + IP 111.90.148.101, no Twitta page → separate cluster, link to A/B unproven.
 Panel class names seen by @orlof_v (oauth-app-form, account-grid, activity log badges) suggest an operator panel managing multiple X OAuth apps and hijacked accounts.
+
+## Calendly routing forms
+| Link | Status (last check) | Form | Owner | Options | Source |
+|---|---|---|---|---|---|
+| calendly[.]com/d/d336-3mq-q2z | 404 (removed by 2026-10-14) | (was Collaboration / Press Release → Events Portal OAuth) | — | Collaboration, Press Release | Nico blog / @mdisec |
+| calendly[.]com/d/d3sm-ypg-s4w | 200 live (2026-10-17) | FormBuilder "F30" uuid 48ea958b-…; scheduling_link uid d3sm-ypg-s4w | org owner display name "MM" (id 54480394) | Name + Meeting type radios: Collaboration, Press Release | shared by targeted victim @ConstanceWaing via Nico Dekens (17 Oct) |
+Identical public form options to the old lure. Downstream OAuth app/callback not visible without submitting the form (not done). No public X or urlscan hits for the new slug as of 2026-10-17.

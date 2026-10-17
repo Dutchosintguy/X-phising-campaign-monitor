@@ -1,9 +1,9 @@
 component,last_success,last_error,detail
-ct_watcher,2026-10-17 08:32,2026-10-14 02:28,running pid 14366; 14 raw hits
-calendly_watch,2026-10-17 08:33,,2 links checked
+ct_watcher,2026-10-17 08:43,2026-10-14 02:28,running pid 14366; 14 raw hits
+calendly_watch,2026-10-17 08:44,,3 links checked
 infra_watch,2026-10-17 08:32,,"539 rows, 23 new, 32 historical backfill"
 x_search,2026-10-17 08:29,2026-10-16 02:26,"15 calls, 46 new operator posts (1 Conviasa, 25 PetersonCouto, 20 nam_isay)"
 gh_auth,2026-10-13 10:26,,gh auth valid
-build,2026-10-17 08:33,,build started
-publish,2026-10-17 06:25,,pushed 2026-10-17 06:25 CEST
-twitta_watch,2026-10-17 08:33,,urlscan=2/2; new=0; checked=28
+build,2026-10-17 08:44,,build started
+publish,2026-10-17 08:33,,pushed 2026-10-17 08:33 CEST
+twitta_watch,2026-10-17 08:44,,urlscan=2/2; new=0; checked=28
