@@ -105,3 +105,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 00:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 00:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-17 00:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 02:18,activity,"6 new lure replies from known operators 00:24–01:32 Amsterdam: @Futana6 3 more 'couldn't send a message' replies 00:24–00:27 (@gas__901, @KaelixDebonair, @neko_mamire_yu); @SeoSamantha 3 more annual-feature follow-ups 01:27–01:32 (@barrald, @divgarg, @justinstorre; one shorter variant 'quick follow-up on my DM about our AI & technology feature. Open to a short chat?')",https://x.com/SeoSamantha/status/2111238962845250035
+2026-10-17 02:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-17 02:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 02:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
