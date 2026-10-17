@@ -1,0 +1,4 @@
+url,source,first_reported,note
+https://calendly.com/d/d336-3mq-q2z,Nico Dekens blog / @mdisec,2026-09-17,routing form (Collaboration / Press Release) -> Events Portal OAuth
+https://calendly.com/30min-calls/interviews,Casco (Anthony Gibbs),2026-09-11,CALENDLY_URL in recovered Asteria booking code (final calendar destination)
+https://calendly.com/d/d3sm-ypg-s4w,shared by targeted victim @ConstanceWaing via Nico Dekens (17 Oct),2026-10-17,routing form F30; owner org 'MM'; Meeting type radios Collaboration/Press Release — same options as d336-3mq-q2z; scheduling_link uid d3sm-ypg-s4w -> FormBuilder uuid 48ea958b-f14f-44f3-8dab-f43bc46011cd; TechCrunch persona + annual AI feature pitch; Calendly asked to authorize X (per her public warning). No OAuth app/callback in public form JSON (submit not done).
