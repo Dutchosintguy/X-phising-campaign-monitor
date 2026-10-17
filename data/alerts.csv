@@ -176,3 +176,8 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 10:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-17 10:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-17 10:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-17 12:28,activity,"@PetersonCouto 6 Reuters-persona lures 10:06–10:25Z (12:06–12:25 CEST) → @wulfie_bain_ (OpenAI), @pnpmjs, @haidut, @calif_io, @chompie1337, @brucedang (security researchers); logged, below spike threshold",https://x.com/PetersonCouto/status/2111403169594933309
+2026-10-17 12:28,activity,"@Futana6 2 ""couldn't send a message"" lures 09:50–10:08Z → @QPHutu, @inferact; logged",https://x.com/Futana6/status/2111399055243047274
+2026-10-17 12:28,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 12:28,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-17 12:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
