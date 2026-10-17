@@ -116,3 +116,46 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 06:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 06:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-17 06:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 08:29,warning,"New public victim warning: @lordx64 (founder @adverserialAI, ~9.4k followers) DM-ed by fake Reuters journalist @PetersonCouto; Calendly invite redirected to cal-api[.]com fake X login form (video + screenshots).",https://x.com/lordx64/status/2111196660219121732
+2026-10-17 08:29,new_operator,"NEW OPERATOR @PetersonCouto (Peterson Couto, fake Reuters/@Opinion, 2009 account, blue since Oct 2026): named by @lordx64 with cal-api IOC; 24 new-template lure replies 15–17 Oct (""I would love to work with you on a piece... send me a DM""), latest 07:46 Amsterdam today to @sweis. Confirmed by us.",https://x.com/PetersonCouto
+2026-10-17 08:29,new_operator,"NEW LIKELY OPERATOR @nam_isay (Isaac Namm, fake Bloomberg sr correspondent @opinion): same new template, 20 lure replies 8–12 Oct (13 on Oct 8) to AI researchers/startups; not named by a victim; quiet since 12 Oct.",https://x.com/nam_isay
+2026-10-17 08:29,activity,"@Conviasa 1 lure 06:36 Amsterdam to @Ekaeoq (watchmaker), new topic: future of independent watch brands.",https://x.com/Conviasa/status/2111315353657892984
+2026-10-17 08:29,profile,@Conviasa followers: 1828 → 1830,https://x.com/Conviasa
+2026-10-17 08:29,profile,@Conviasa following: 190 → 191,https://x.com/Conviasa
+2026-10-17 08:29,profile,@Conviasa tweets: 1628 → 1644,https://x.com/Conviasa
+2026-10-17 08:29,profile,@SeoSamantha followers: 2202 → 2204,https://x.com/SeoSamantha
+2026-10-17 08:29,profile,@SeoSamantha tweets: 8773 → 8779,https://x.com/SeoSamantha
+2026-10-17 08:29,profile,@Futana6 followers: 3925 → 3924,https://x.com/Futana6
+2026-10-17 08:29,profile,@Futana6 following: 168 → 174,https://x.com/Futana6
+2026-10-17 08:29,profile,@Futana6 tweets: 1176 → 1200,https://x.com/Futana6
+2026-10-17 08:29,profile,@KylieUncovered followers: 1349 → 1348,https://x.com/KylieUncovered
+2026-10-17 08:29,profile,@Jaydayritt followers: 138 → 137,https://x.com/Jaydayritt
+2026-10-17 08:29,profile,@punk8739 followers: 26314 → 26316,https://x.com/punk8739
+2026-10-17 08:29,profile,@punk8739 following: 170 → 244,https://x.com/punk8739
+2026-10-17 08:29,profile,@punk8739 tweets: 2518 → 2588,https://x.com/punk8739
+2026-10-17 08:29,infra,New dns: xredirecting.com (A=104.21.16.141 172.67.212.245 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co),https://crt.sh/?q=xredirecting.com
+2026-10-17 08:29,infra,New dns: petrilabs.app (A=104.21.9.30 172.67.141.49 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.),https://crt.sh/?q=petrilabs.app
+2026-10-17 08:29,infra,New dns: hyperball.one (A=104.21.56.218 172.67.136.238 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co),https://crt.sh/?q=hyperball.one
+2026-10-17 08:29,infra,New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763114666),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763114666),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763114666),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763118732),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763118732),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763118732),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763125147),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763125147),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763125147),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763144367),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763144367),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763144367),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763292019),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763292019),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763292019),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.guests.invitehandler.com (issuer=Google Trust Services id=17763292927),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763292927),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17763292927),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: *.invitehandler.com (issuer=Google Trust Services id=17766819279),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:29,infra,New cert: invitehandler.com (issuer=Google Trust Services id=17766819279),https://crt.sh/?q=invitehandler.com
+2026-10-17 08:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-17 08:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-17 08:33,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login

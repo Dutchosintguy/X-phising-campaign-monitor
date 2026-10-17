@@ -142,3 +142,26 @@ kit,login-api.com,login-api.com,2026-09-25,cluster=A? (Dominet HK); title_twitta
 kit,asteriapanls.com,asteriapanls.com,2026-08-02,cluster=C (Asteria / Njalla NS); title_twitta=n (no response); panel.css=-; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
 kit,30min-meetings.com,30min-meetings.com,2026-08-02,cluster=C (Asteria / Njalla NS); title_twitta=n (no response); panel.css=-; registrar=Tucows Domains Inc.,passive GET/RDAP 2026-10-16,2026-10-16 15:52
 ct_stream,preview-fix-search-fixes.calendlycms.com,calendlycms.com,2026-10-16,CertPatrol live CT match,certpatrol,2026-10-16 18:52
+dns,xredirecting.com,xredirecting.com,2026-10-17,A=104.21.16.141 172.67.212.245 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-17 08:29
+dns,petrilabs.app,petrilabs.app,2026-10-17,A=104.21.9.30 172.67.141.49 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-17 08:29
+dns,hyperball.one,hyperball.one,2026-10-17,A=104.21.56.218 172.67.136.238 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.,dns.google DoH,2026-10-17 08:29
+cert,*.guest.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763114666,certspotter,2026-10-17 08:29
+cert,guest.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763114666,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763114666,certspotter,2026-10-17 08:29
+cert,*.guest.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763118732,certspotter,2026-10-17 08:29
+cert,guest.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763118732,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763118732,certspotter,2026-10-17 08:29
+cert,*.guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763125147,certspotter,2026-10-17 08:29
+cert,guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763125147,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763125147,certspotter,2026-10-17 08:29
+cert,*.guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763144367,certspotter,2026-10-17 08:29
+cert,guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763144367,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763144367,certspotter,2026-10-17 08:29
+cert,*.guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292019,certspotter,2026-10-17 08:29
+cert,guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292019,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292019,certspotter,2026-10-17 08:29
+cert,*.guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292927,certspotter,2026-10-17 08:29
+cert,guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292927,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292927,certspotter,2026-10-17 08:29
+cert,*.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17766819279,certspotter,2026-10-17 08:29
+cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17766819279,certspotter,2026-10-17 08:29

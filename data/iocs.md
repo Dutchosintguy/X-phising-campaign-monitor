@@ -11,11 +11,15 @@
 | Futana6 | Chloe Futana | TechCrunch correspondent | 2019-05-17 | 3924 | yes |
 | KylieUncovered | Kylie | @Techcrunch & @opinion, prev @bloomberg @google | 2020-11-13 | 1348 | yes |
 | Jaydayritt | Jay Dayrit | @WIRED, prev Bloomberg/Reuters | 2010-02-17 | 138 | yes |
+| PetersonCouto | Peterson Couto | @Reuters tech & AI correspondent (fake; added 2026-10-17, named by victim @lordx64 with cal-api[.]com redirect) | 2009-10-05 | 3315 | yes |
+| nam_isay | Isaac Namm | Sr correspondent @bloomberg (fake; added 2026-10-17, likely – same template, not victim-named) | 2018-04-15 | 1691 | yes |
+
 ## Related, suspended (from public warnings)
 - MiaEsswein (shared same calendly d336-3mq-q2z, per @mdisec 2026-09-17) – suspended
 - SimonHill_ (fake WIRED Simon Hill, per @GergelyOrosz/@consumerxai) – suspended
 - Personas reported, handles unknown: "Tifafny Wu"/"Keyaki Yuu" (Reuters, @OfirPress 2026-09-28), Reuters persona (@daveg 2026-09-27)
 ## Lure phrasing
+- (2026-10-17) "I'd love to work with you on a piece but I can't send you a message. Please send me a dm whenever you're free" / "I'd love to write about this and feature your team in an article. Please send me a DM" (PetersonCouto, nam_isay)
 - "I’m writing an article on <topic>[.| and] Would value your insight. DM me if interested, thanks."
 - "...would be valuable for an article I’m working on. DM me if you’re interested in a short interview chat."
 - "Hey <Name>, just following up on my DM about our annual AI & technology feature."
