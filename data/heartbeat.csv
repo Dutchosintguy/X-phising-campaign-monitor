@@ -1,10 +1,9 @@
 component,last_success,last_error,detail
-ct_watcher,2026-10-17 08:46,2026-10-17 10:24,"CT watcher failed to start: e 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory
-/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol"
-calendly_watch,2026-10-17 10:25,,3 links checked
+ct_watcher,2026-10-17 10:26,2026-10-17 10:24,running pid 19174; 14 raw hits
+calendly_watch,2026-10-17 10:27,,3 links checked
 infra_watch,2026-10-17 08:32,,"539 rows, 23 new, 32 historical backfill"
 x_search,2026-10-17 10:24,2026-10-16 02:26,"8 calls, 2 new operator posts (Conviasa); 52 pending targets cached"
 gh_auth,2026-10-13 10:26,,gh auth valid
-build,2026-10-17 10:25,,build started
-publish,2026-10-17 08:47,,pushed 2026-10-17 08:47 CEST
-twitta_watch,2026-10-17 10:25,,urlscan=2/2; new=0; checked=28
+build,2026-10-17 10:27,,build started
+publish,2026-10-17 10:25,,pushed 2026-10-17 10:25 CEST
+twitta_watch,2026-10-17 10:27,,urlscan=2/2; new=0; checked=28
