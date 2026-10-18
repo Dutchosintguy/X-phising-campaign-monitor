@@ -191,3 +191,23 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 18:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-17 18:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 18:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-18 10:03,activity,"Catch-up (gap 17 Oct 18:17 – 18 Oct 10:01 Amsterdam): @Futana6 6 'couldn't send a message' lures 17 Oct 18:27 – 18 Oct 09:02 Amsterdam → @AsteraInstitute, @zainasgar, @theermann, @squeekchain, @FonziAI (+@OpenAI), @SkildAI; other operators 0 new lures; punk8739 2 posts (1 non-lure)",https://x.com/Futana6
+2026-10-18 10:03,new_operator,"Suspected new operator @DobosDorina4 ('Phoenix', claims @TechCrunch, blue, created 2014, 1962 followers): exact Futana6 'couldn't send a message' lure to @scale_at_gmi 17 Oct 20:38 Amsterdam; score 7 (suspected, not victim-reported)",https://x.com/DobosDorina4/status/2111527319240368566
+2026-10-18 10:03,warning,"New public warning by @bencb789 (17 Oct 14:54 Amsterdam, ~7.9k views) naming @Conviasa (fake Bloomberg) as a scam targeting poker players/content creators, with 'how it works' screenshots",https://x.com/bencb789/status/2111440746855190652
+2026-10-18 10:03,status,@punk8739 lost blue check (verified_type blue → none) and following dropped 244 → 37 (detected 18 Oct daily lookup),https://x.com/punk8739
+2026-10-18 10:03,profile,@Conviasa tweets: 1644 → 1646,https://x.com/Conviasa
+2026-10-18 10:03,profile,@SeoSamantha followers: 2204 → 2203,https://x.com/SeoSamantha
+2026-10-18 10:03,profile,"@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. Stories • Perspectives • Emerging trends → | ",https://x.com/Futana6
+2026-10-18 10:03,profile,@Futana6 followers: 3924 → 3925,https://x.com/Futana6
+2026-10-18 10:03,profile,@Futana6 following: 174 → 179,https://x.com/Futana6
+2026-10-18 10:03,profile,@Futana6 tweets: 1200 → 1208,https://x.com/Futana6
+2026-10-18 10:03,profile,@KylieUncovered followers: 1348 → 1349,https://x.com/KylieUncovered
+2026-10-18 10:03,profile,@punk8739 followers: 26316 → 26314,https://x.com/punk8739
+2026-10-18 10:03,profile,@punk8739 following: 244 → 37,https://x.com/punk8739
+2026-10-18 10:03,profile,@punk8739 tweets: 2588 → 2586,https://x.com/punk8739
+2026-10-18 10:03,profile,@PetersonCouto followers: 3315 → 3320,https://x.com/PetersonCouto
+2026-10-18 10:03,profile,@PetersonCouto following: 4353 → 4364,https://x.com/PetersonCouto
+2026-10-18 10:03,profile,@PetersonCouto tweets: 22421 → 22435,https://x.com/PetersonCouto
+2026-10-18 10:05,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-18 10:05,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-18 10:06,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
