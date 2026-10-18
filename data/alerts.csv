@@ -226,3 +226,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-18 16:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-18 16:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-18 16:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-18 18:21,activity,"@Futana6 1 'couldn't send a message' lure 15:05Z (17:05 CEST) → @TapeAIAgent (same target PetersonCouto hit at 13:21Z — cross-operator overlap); known operator, logged only",https://x.com/Futana6/status/2111836046707266022
+2026-10-18 18:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-18 18:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-18 18:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
