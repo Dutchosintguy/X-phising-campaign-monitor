@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-18 12:20",
+ "updated": "2026-10-18 14:23",
  "timezone": "Europe/Amsterdam",
  "alerts": [
+  {
+   "time": "2026-10-18 14:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-18 14:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-18 14:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-18 14:22",
+   "type": "activity",
+   "details": "@Futana6 1 'couldn't send a message' lure 10:32Z (12:32 CEST) \u2192 @orrdavid; known operator small batch, logged only",
+   "link": "https://x.com/Futana6/status/2111767258360090988"
+  },
   {
    "time": "2026-10-18 12:20",
    "type": "infra",
@@ -29,12 +53,6 @@
   {
    "time": "2026-10-18 10:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-18 10:19",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -43,6 +61,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-18 10:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-18 10:06",
@@ -53,14 +77,14 @@
   {
    "time": "2026-10-18 10:05",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-18 10:05",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-18 10:03",
@@ -76,6 +100,12 @@
   },
   {
    "time": "2026-10-18 10:03",
+   "type": "new_operator",
+   "details": "Suspected new operator @DobosDorina4 ('Phoenix', claims @TechCrunch, blue, created 2014, 1962 followers): exact Futana6 'couldn't send a message' lure to @scale_at_gmi 17 Oct 20:38 Amsterdam; score 7 (suspected, not victim-reported)",
+   "link": "https://x.com/DobosDorina4/status/2111527319240368566"
+  },
+  {
+   "time": "2026-10-18 10:03",
    "type": "warning",
    "details": "New public warning by @bencb789 (17 Oct 14:54 Amsterdam, ~7.9k views) naming @Conviasa (fake Bloomberg) as a scam targeting poker players/content creators, with 'how it works' screenshots",
    "link": "https://x.com/bencb789/status/2111440746855190652"
@@ -85,12 +115,6 @@
    "type": "status",
    "details": "@punk8739 lost blue check (verified_type blue \u2192 none) and following dropped 244 \u2192 37 (detected 18 Oct daily lookup)",
    "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-18 10:03",
-   "type": "profile",
-   "details": "@Conviasa tweets: 1644 \u2192 1646",
-   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-18 10:03",
@@ -112,21 +136,15 @@
   },
   {
    "time": "2026-10-18 10:03",
-   "type": "new_operator",
-   "details": "Suspected new operator @DobosDorina4 ('Phoenix', claims @TechCrunch, blue, created 2014, 1962 followers): exact Futana6 'couldn't send a message' lure to @scale_at_gmi 17 Oct 20:38 Amsterdam; score 7 (suspected, not victim-reported)",
-   "link": "https://x.com/DobosDorina4/status/2111527319240368566"
+   "type": "profile",
+   "details": "@Conviasa tweets: 1644 \u2192 1646",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-18 10:03",
    "type": "profile",
    "details": "@Futana6 tweets: 1200 \u2192 1208",
    "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-18 10:03",
-   "type": "profile",
-   "details": "@KylieUncovered followers: 1348 \u2192 1349",
-   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-18 10:03",
@@ -165,6 +183,12 @@
    "link": "https://x.com/PetersonCouto"
   },
   {
+   "time": "2026-10-18 10:03",
+   "type": "profile",
+   "details": "@KylieUncovered followers: 1348 \u2192 1349",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
    "time": "2026-10-17 18:19",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
@@ -203,14 +227,14 @@
   {
    "time": "2026-10-17 14:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-17 14:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-17 14:26",
@@ -223,12 +247,6 @@
    "type": "activity",
    "details": "SPIKE: @PetersonCouto 6 more Reuters-persona lures 10:28\u201310:41Z (12:28\u201312:41 CEST) \u2192 @jesskah (Sequoia CPO), @edwardfhughes, @inherent_labs, @joedaroo (OpenAI Agent Security), @humanlayer_dev, @atmo_ai; burst now 12 lures in 35 min since 10:06Z (\u226510 spike threshold); plus 1 more 12:19Z \u2192 @svemyh",
    "link": "https://x.com/PetersonCouto/status/2111407206889664928"
-  },
-  {
-   "time": "2026-10-17 12:28",
-   "type": "activity",
-   "details": "@PetersonCouto 6 Reuters-persona lures 10:06\u201310:25Z (12:06\u201312:25 CEST) \u2192 @wulfie_bain_ (OpenAI), @pnpmjs, @haidut, @calif_io, @chompie1337, @brucedang (security researchers); logged, below spike threshold",
-   "link": "https://x.com/PetersonCouto/status/2111403169594933309"
   },
   {
    "time": "2026-10-17 12:28",
@@ -253,6 +271,12 @@
    "type": "activity",
    "details": "@Futana6 2 \"couldn't send a message\" lures 09:50\u201310:08Z \u2192 @QPHutu, @inferact; logged",
    "link": "https://x.com/Futana6/status/2111399055243047274"
+  },
+  {
+   "time": "2026-10-17 12:28",
+   "type": "activity",
+   "details": "@PetersonCouto 6 Reuters-persona lures 10:06\u201310:25Z (12:06\u201312:25 CEST) \u2192 @wulfie_bain_ (OpenAI), @pnpmjs, @haidut, @calif_io, @chompie1337, @brucedang (security researchers); logged, below spike threshold",
+   "link": "https://x.com/PetersonCouto/status/2111403169594933309"
   },
   {
    "time": "2026-10-17 10:27",
@@ -298,27 +322,27 @@
   },
   {
    "time": "2026-10-17 10:24",
-   "type": "ct_error",
-   "details": "ct_watcher: CT watcher failed to start: e 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory\n/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
-   "link": ""
-  },
-  {
-   "time": "2026-10-17 10:24",
    "type": "activity",
    "details": "Conviasa 2 lures 07:20-07:29Z (@paulbohm, @LuxuryWatchGuy1); routine batch, no new accounts",
    "link": "https://x.com/Conviasa/status/2111358899760582837"
   },
   {
-   "time": "2026-10-17 08:46",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "time": "2026-10-17 10:24",
+   "type": "ct_error",
+   "details": "ct_watcher: CT watcher failed to start: e 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory\n/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
+   "link": ""
   },
   {
    "time": "2026-10-17 08:46",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-17 08:46",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-17 08:46",
@@ -353,6 +377,12 @@
   {
    "time": "2026-10-17 08:33",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-17 08:33",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -361,12 +391,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-17 08:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-17 08:29",
@@ -395,7 +419,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763114666)",
+   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -431,7 +455,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "profile",
-   "details": "@Conviasa following: 190 \u2192 191",
+   "details": "@Conviasa followers: 1828 \u2192 1830",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -454,15 +478,15 @@
   },
   {
    "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New dns: hyperball.one (A=104.21.56.218 172.67.136.238 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
-   "link": "https://crt.sh/?q=hyperball.one"
+   "type": "profile",
+   "details": "@Conviasa following: 190 \u2192 191",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-17 08:29",
-   "type": "profile",
-   "details": "@Conviasa followers: 1828 \u2192 1830",
-   "link": "https://x.com/Conviasa"
+   "type": "infra",
+   "details": "New dns: hyperball.one (A=104.21.56.218 172.67.136.238 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
+   "link": "https://crt.sh/?q=hyperball.one"
   },
   {
    "time": "2026-10-17 08:29",
@@ -497,7 +521,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763114666)",
+   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -509,7 +533,7 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763144367)",
+   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763114666)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
@@ -563,6 +587,12 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
+   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763144367)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-17 08:29",
+   "type": "infra",
    "details": "New cert: guests.invitehandler.com (issuer=Google Trust Services id=17763144367)",
    "link": "https://crt.sh/?q=invitehandler.com"
   },
@@ -599,26 +629,20 @@
   {
    "time": "2026-10-17 08:29",
    "type": "infra",
-   "details": "New cert: guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
+   "details": "New cert: invitehandler.com (issuer=Google Trust Services id=17763114666)",
    "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 08:29",
-   "type": "infra",
-   "details": "New cert: *.guest.invitehandler.com (issuer=Google Trust Services id=17763118732)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-17 06:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-17 06:25",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-17 06:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-17 06:24",
@@ -701,14 +725,14 @@
   {
    "time": "2026-10-16 22:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 22:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "type": "activity",
+   "details": "SPIKE: @Conviasa 10 lures since 20:02 Amsterdam (9 in 20:02\u201320:35, plus 22:13) using the new 'I\u2019m working on an article at Bloomberg and would love your insights. DM me if you\u2019re interested' wording; 3 new this run \u2192 @adam_karvonen (20:32), @afrazhaowang (20:35), @honam (22:13)",
+   "link": "https://x.com/Conviasa/status/2111188898240180321"
   },
   {
    "time": "2026-10-16 22:19",
@@ -718,9 +742,21 @@
   },
   {
    "time": "2026-10-16 22:19",
-   "type": "activity",
-   "details": "SPIKE: @Conviasa 10 lures since 20:02 Amsterdam (9 in 20:02\u201320:35, plus 22:13) using the new 'I\u2019m working on an article at Bloomberg and would love your insights. DM me if you\u2019re interested' wording; 3 new this run \u2192 @adam_karvonen (20:32), @afrazhaowang (20:35), @honam (22:13)",
-   "link": "https://x.com/Conviasa/status/2111188898240180321"
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 20:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-16 20:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 20:27",
@@ -733,18 +769,6 @@
    "type": "infra",
    "details": "CT watcher: new certificate for preview-fix-search-fixes.calendlycms.com (likely benign: calendlycms.com is Calendly CMS infra; same pattern as 2026-10-13 preview-fix-cors-search hit)",
    "link": "https://crt.sh/?q=preview-fix-search-fixes.calendlycms.com"
-  },
-  {
-   "time": "2026-10-16 20:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-16 20:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-16 20:26",
@@ -809,14 +833,20 @@
   {
    "time": "2026-10-16 15:52",
    "type": "infra",
-   "details": "New Twitta-panel domains (via @orlof_v, verified by us): xredirecting.com, petrilabs.app, hyperball.one \u2014 same panel.css hash as cal-apis/invitehandler/whitelistportal",
-   "link": "https://x.com/orlof_v/status/2111081475277811880"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-16 15:52",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "New Twitta-panel domains (via @orlof_v, verified by us): xredirecting.com, petrilabs.app, hyperball.one \u2014 same panel.css hash as cal-apis/invitehandler/whitelistportal",
+   "link": "https://x.com/orlof_v/status/2111081475277811880"
+  },
+  {
+   "time": "2026-10-16 15:51",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 15:51",
@@ -829,12 +859,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-16 15:51",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-16 14:30",
@@ -970,15 +994,21 @@
   },
   {
    "time": "2026-10-15 08:20",
-   "type": "activity",
-   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
-   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
+   "type": "profile",
+   "details": "@SeoSamantha following: 2800 \u2192 2799",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
    "details": "@Futana6 followers: 3926 \u2192 3924",
    "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "activity",
+   "details": "4 new lure replies from known operators 06:20\u201307:45 Amsterdam: @Futana6 3\u00d7 I'm working on something\u2026 couldn't send a message so feel free to message (@RoboPapers, @agentmail, @nfergus); @SeoSamantha 1\u00d7 just following up on my DM about our annual AI & technology feature (@CJHandmer)",
+   "link": "https://x.com/SeoSamantha/status/2110607950045732989"
   },
   {
    "time": "2026-10-15 08:20",
@@ -1007,12 +1037,6 @@
   {
    "time": "2026-10-15 08:20",
    "type": "profile",
-   "details": "@SeoSamantha following: 2800 \u2192 2799",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
    "details": "@SeoSamantha tweets: 8770 \u2192 8773",
    "link": "https://x.com/SeoSamantha"
   },
@@ -1026,6 +1050,12 @@
    "time": "2026-10-15 08:20",
    "type": "profile",
    "details": "@Futana6 following: 164 \u2192 169",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-15 08:20",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1169 \u2192 1172",
    "link": "https://x.com/Futana6"
   },
   {
@@ -1059,12 +1089,6 @@
    "link": "https://x.com/punk8739"
   },
   {
-   "time": "2026-10-15 08:20",
-   "type": "profile",
-   "details": "@Futana6 tweets: 1169 \u2192 1172",
-   "link": "https://x.com/Futana6"
-  },
-  {
    "time": "2026-10-14 22:27",
    "type": "activity",
    "details": "@Conviasa evening burst: 10 lure replies 20:38\u201321:55 Amsterdam (10\u00d7 \"I'm writing an article on \u2026 Would value your insight/perspective. DM me if interested\"); targets: @MarleSpragg @steren/@GoogleDeepMind/@aisdk/@vercel @JonahBlake @leap_xyz @sotoalt_/@monad @nicoletteduclar @risi1979 @Tim_Denning @gdechichi @ajaymehta",
@@ -1085,32 +1109,20 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Futana6 tweets: 1167 \u2192 1169",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@Futana6 following: 163 \u2192 164",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@Futana6 followers: 3925 \u2192 3926",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
-   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-14 08:22",
-   "type": "profile",
    "details": "@SeoSamantha followers: 2203 \u2192 2204",
    "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "warning",
+   "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
+   "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Conviasa followers: 1823 \u2192 1826",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-14 08:22",
@@ -1121,14 +1133,26 @@
   {
    "time": "2026-10-14 08:22",
    "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1826",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha tweets: 8756 \u2192 8770",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-14 08:22",
-   "type": "warning",
-   "details": "New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products\u2026' then sent calendly.com link; same chain (Calendly \u2192 X account takeover). Persona not yet tied to a handle",
-   "link": "https://x.com/MaxHirsch13/status/2110006739915678045"
+   "type": "profile",
+   "details": "@Futana6 following: 163 \u2192 164",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1167 \u2192 1169",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-14 08:22",
+   "type": "profile",
+   "details": "@Futana6 followers: 3925 \u2192 3926",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-14 02:31",
@@ -1175,12 +1199,6 @@
   {
    "time": "2026-10-13 12:23",
    "type": "activity",
-   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
-   "link": "https://x.com/Futana6/status/2109927161456955720"
-  },
-  {
-   "time": "2026-10-13 12:23",
-   "type": "activity",
    "details": "@SeoSamantha new lure reply (Oct 13, 2026, 12:07:50 PM Amsterdam): @marcelkargul Hey Marcel, just following up on my DM about our annual AI &amp; technology feature. Would love to hear yo",
    "link": "https://x.com/SeoSamantha/status/2109949222925881798"
   },
@@ -1191,28 +1209,16 @@
    "link": "https://x.com/SeoSamantha/status/2109949557668999277"
   },
   {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=asteriapanls.com"
+   "time": "2026-10-13 12:23",
+   "type": "activity",
+   "details": "@Futana6 new lure reply (Oct 13, 2026, 10:40:10 AM Amsterdam): @nananauno I'm working on something I think you'd be interested in, would love to chat, couldn't send a message so feel ",
+   "link": "https://x.com/Futana6/status/2109927161456955720"
   },
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=whitelistportal.com"
-  },
-  {
-   "time": "2026-10-13 10:24",
-   "type": "infra",
-   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
-   "link": "https://crt.sh/?q=30min-meetings.com"
+   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=login-api.com"
   },
   {
    "time": "2026-10-13 10:24",
@@ -1223,32 +1229,32 @@
   {
    "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "Added wider-campaign domain login-api.com: 6 cert names, first cert 2026-09-25; A=104.21.4.212 172.67.132.128 NS=felicity.ns.cloudflare.com. tess.ns.cloudflare.com.",
-   "link": "https://crt.sh/?q=login-api.com"
+   "details": "Added wider-campaign domain 30min-meetings.com: 9 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=30min-meetings.com"
   },
   {
-   "time": "2026-10-13 10:22",
-   "type": "warning",
-   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
-   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
-  },
-  {
-   "time": "2026-10-13 10:22",
+   "time": "2026-10-13 10:24",
    "type": "infra",
-   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
-   "link": "https://crt.sh/?q=events-portal.com"
+   "details": "Added wider-campaign domain asteriapanls.com: 2 cert names, first cert 2026-08-02; A=111.90.148.101 NS=1-you.njalla.no. 2-can.njalla.in. 3-get.njalla.fo.",
+   "link": "https://crt.sh/?q=asteriapanls.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain whitelistportal.com: 42 cert names, first cert 2026-08-01; A=104.21.35.196 172.67.179.22 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=whitelistportal.com"
+  },
+  {
+   "time": "2026-10-13 10:24",
+   "type": "infra",
+   "details": "Added wider-campaign domain invitehandler.com: 18 cert names, first cert 2026-08-15; A=104.21.74.68 172.67.200.43 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.com.",
+   "link": "https://crt.sh/?q=invitehandler.com"
   },
   {
    "time": "2026-10-13 10:22",
-   "type": "infra",
-   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
-   "link": "https://crt.sh/?q=cal-api.com"
-  },
-  {
-   "time": "2026-10-13 10:22",
-   "type": "infra",
-   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
-   "link": "https://crt.sh/?q=cal-apis.com"
+   "type": "profile",
+   "details": "@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. \u2192 | TechCrunch Correspondent Covering tech, s",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-13 10:22",
@@ -1264,9 +1270,27 @@
   },
   {
    "time": "2026-10-13 10:22",
-   "type": "profile",
-   "details": "@Futana6 bio: | TechCrunch Correspondent Covering tech, startups, social media & the people shaping the industry. \u2192 | TechCrunch Correspondent Covering tech, s",
-   "link": "https://x.com/Futana6"
+   "type": "warning",
+   "details": "@dutch_osintguy public warning: Calendly\u2192fake Bloomberg interview phishing chain (video)",
+   "link": "https://x.com/dutch_osintguy/status/2109893832837906779"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: cal-apis.com (A=104.21.75.171 172.67.179.69 NS=paige.ns.cloudflare.com. bill.ns.cloudflare.com)",
+   "link": "https://crt.sh/?q=cal-apis.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: cal-api.com (A=172.67.165.209 104.21.73.202 NS=bill.ns.cloudflare.com. paige.ns.cloudflare.co)",
+   "link": "https://crt.sh/?q=cal-api.com"
+  },
+  {
+   "time": "2026-10-13 10:22",
+   "type": "infra",
+   "details": "New dns: events-portal.com (A=178.159.12.213 NS=ns57.prowebdns.com. ns58.prowebdns.com.)",
+   "link": "https://crt.sh/?q=events-portal.com"
   },
   {
    "time": "2026-10-13 10:22",
