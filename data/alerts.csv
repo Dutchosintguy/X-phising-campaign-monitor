@@ -25,9 +25,7 @@ time,type,details,link
 2026-10-13 20:36,infra,CT watcher: new certificate for calendlycms.com (likely benign: Calendly CMS; reg. 2025-12-02 GoDaddy; CF NS cleo/maisie; internal-style subdomain preview-fix-cors-search),https://crt.sh/?q=calendlycms.com
 2026-10-13 20:36,infra,CT watcher: new certificate for preview-fix-cors-search.calendlycms.com (likely benign: calendlycms.com Calendly CMS infra),https://crt.sh/?q=preview-fix-cors-search.calendlycms.com
 2026-10-14 02:30,activity,"@SeoSamantha overnight burst: 11 lure replies 00:26–00:46 Amsterdam (10× ""just following up on my DM about our annual AI & technology feature"" + 1 new opener variant ""we’re putting together our annual AI & technology feature… feel free to reach out"" to @joelhellermark); targets incl. @PimDeWitte @E0M/@GeneralistAI @madiator @tiboel @genevieve__h (Google AI Studio)",https://x.com/SeoSamantha/status/2110140056619172333
-2026-10-14 02:28,ct_error,"ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout:
-BrokenPipeError: [Errno 32] Broken pipe
-/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
+2026-10-14 02:28,ct_error,ct_watcher: CT watcher failed to start because .venv/bin/certpatrol was missing (venv gone),
 2026-10-14 02:31,infra,"CT watcher recovered: .venv (CertPatrol) had gone missing between 00:24 and 02:28; recreated venv + reinstalled certpatrol, watcher restarted (pid 14366). Possible CT gap ~00:24–02:31",
 2026-10-14 08:22,warning,"New public warning by @MaxHirsch13 (2026-10-13 15:56 Amsterdam): fake Reuters journalist 'Max Brown' (blue check, joined Mar 2013, 921 followers; handle not visible) DM'd 'writing a piece on how founders are building products…' then sent calendly.com link; same chain (Calendly → X account takeover). Persona not yet tied to a handle",https://x.com/MaxHirsch13/status/2110006739915678045
 2026-10-14 08:22,profile,@Conviasa followers: 1823 → 1826,https://x.com/Conviasa
@@ -167,8 +165,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-17 08:46,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 08:46,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-17 10:24,activity,"Conviasa 2 lures 07:20-07:29Z (@paulbohm, @LuxuryWatchGuy1); routine batch, no new accounts",https://x.com/Conviasa/status/2111358899760582837
-2026-10-17 10:24,ct_error,"ct_watcher: CT watcher failed to start: e 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory
-/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory",
+2026-10-17 10:24,ct_error,ct_watcher: CT watcher failed to start because .venv/bin/certpatrol was missing (venv gone),
 2026-10-17 10:25,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-17 10:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-17 10:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
@@ -230,3 +227,6 @@ BrokenPipeError: [Errno 32] Broken pipe
 2026-10-18 18:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-18 18:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-18 18:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-18 18:37,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-18 18:37,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-18 18:37,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
