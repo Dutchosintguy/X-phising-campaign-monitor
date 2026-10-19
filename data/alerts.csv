@@ -295,3 +295,7 @@ time,type,details,link
 2026-10-19 20:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-19 20:26,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 20:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 22:26,activity,Quiet run: 0 new lures from 12 known operators since 17:28Z; 0 new template accounts since 18:00Z; punk8739 0 posts 18Z-20:26Z (flood paused); logged only,
+2026-10-19 22:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 22:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-19 22:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
