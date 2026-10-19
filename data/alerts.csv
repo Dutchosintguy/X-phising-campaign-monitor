@@ -284,3 +284,9 @@ time,type,details,link
 2026-10-19 16:22,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 16:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-19 16:22,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 18:54,activity,"@Conviasa back after ~2.3 days quiet (last lure 17 Oct 07:29Z) with 6 lures 15:46Z-16:33Z (17:46-18:33 CEST) in a NEW reworded template: ""Really interesting work … I am working on an article in this space, and your insight would be valuable. Feel free to DM me if you are interested"" → @echelon, @protosphinx, @ajratner, @ben_burtenshaw, @songhan_mit, @eriknewsha, @GenAI_is_real; below 10+ spike threshold, logged only",https://x.com/Conviasa/status/2112220542116008354
+2026-10-19 18:54,activity,"@PetersonCouto 7 Reuters-persona lures 14:26Z-16:27Z (16:26-18:27 CEST) → @StarcatOKX, @JasonDClinton (both re-targeted, Futana6 hit them earlier today), @AsideAI (also hit by Futana6), @MacroOps, @weiihannng(+@poteto, DMs-closed variant), @executorsh, @AvaloniaUI; known operator, logged only",https://x.com/PetersonCouto/status/2112219058892644362
+2026-10-19 18:54,activity,"punk8739 16 posts 16:00Z-16:52Z (18:00-18:52 CEST), 0 non-RT per Q1 — retweet flood resuming; continuing behaviour, logged only",https://x.com/punk8739
+2026-10-19 18:54,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 18:54,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 18:54,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
