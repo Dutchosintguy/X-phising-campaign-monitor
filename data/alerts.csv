@@ -250,3 +250,8 @@ time,type,details,link
 2026-10-19 04:28,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-19 04:28,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 04:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 06:28,activity,"@Futana6 1 'couldn't send a message' lure 04:26Z (06:26 CEST) → @stevenstrogatz (Cornell mathematician); known operator, first lure since 15:05Z 18 Oct, logged only",https://x.com/Futana6/status/2112037751323304086
+2026-10-19 06:28,activity,"punk8739 retweet flood continuing: 63 posts 02Z-04:27Z (30/23/10 per hour), 0 non-retweets, no lures; continuing behaviour, logged only",https://x.com/punk8739
+2026-10-19 06:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 06:29,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-19 06:29,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
