@@ -242,3 +242,7 @@ time,type,details,link
 2026-10-19 00:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-19 00:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-19 00:25,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-19 02:29,activity,"punk8739 retweet flood continuing: 60 posts 22Z-00:26Z (28/24/8 per hour), 0 non-retweets, no lures; continuing behaviour, logged only",https://x.com/punk8739
+2026-10-19 02:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 02:30,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 02:30,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
