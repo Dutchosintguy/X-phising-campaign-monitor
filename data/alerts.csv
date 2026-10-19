@@ -255,3 +255,22 @@ time,type,details,link
 2026-10-19 06:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-19 06:29,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 06:29,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 12:22,activity,"@Futana6 12 lures 04:28Z-10:18Z (06:28-12:18 CEST): 8 'couldn't send a message' (→ @stephen_wolfram, @Math_files, @marcusgnt+@OpenAI, @3blue1brown, @JasonDClinton, @BenStiller, @ttunguz, @AsideAI) and 4 using the 'annual AI & technology feature' template (→ @m_kumagai, @miskitano, @SDLerner, @StarcatOKX); known operator, spread over ~6h (max 8 in ~65 min), logged only",https://x.com/Futana6/status/2112126305718149458
+2026-10-19 12:22,activity,"punk8739 96 posts 04Z-10:21Z (24/26/29/9/0/8/0 per hour), 0 non-retweets, no lures; retweet flood continuing, logged only; following 37→408",https://x.com/punk8739
+2026-10-19 12:22,profile,@Conviasa followers: 1830 → 1828,https://x.com/Conviasa
+2026-10-19 12:22,profile,@SeoSamantha followers: 2203 → 2205,https://x.com/SeoSamantha
+2026-10-19 12:22,profile,@Futana6 followers: 3925 → 3922,https://x.com/Futana6
+2026-10-19 12:22,profile,@Futana6 following: 179 → 191,https://x.com/Futana6
+2026-10-19 12:22,profile,@Futana6 tweets: 1208 → 1226,https://x.com/Futana6
+2026-10-19 12:22,profile,@Jaydayritt followers: 137 → 138,https://x.com/Jaydayritt
+2026-10-19 12:22,profile,@punk8739 followers: 26314 → 26315,https://x.com/punk8739
+2026-10-19 12:22,profile,@punk8739 following: 37 → 408,https://x.com/punk8739
+2026-10-19 12:22,profile,@punk8739 tweets: 2586 → 2953,https://x.com/punk8739
+2026-10-19 12:22,profile,@PetersonCouto following: 4364 → 4367,https://x.com/PetersonCouto
+2026-10-19 12:22,profile,@PetersonCouto tweets: 22435 → 22438,https://x.com/PetersonCouto
+2026-10-19 12:22,profile,@nam_isay following: 2767 → 2766,https://x.com/nam_isay
+2026-10-19 12:22,profile,@DobosDorina4 followers: 1962 → 1928,https://x.com/DobosDorina4
+2026-10-19 12:22,profile,@DobosDorina4 following: 103 → 106,https://x.com/DobosDorina4
+2026-10-19 12:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 12:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-19 12:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
