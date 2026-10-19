@@ -279,3 +279,8 @@ time,type,details,link
 2026-10-19 14:33,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 14:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-19 14:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-19 16:22,activity,"@PetersonCouto 2 Reuters-persona lures 12:44Z-13:11Z (14:44-15:11 CEST) → @flywheelcash ('feature your team in an article'), @bryan_johnson ('can't message you … piece I'm working on'); @Futana6 1 'annual AI & technology feature' lure 12:54Z → @RodolfoBits; known operators, small batch, logged only",https://x.com/PetersonCouto/status/2112169728718364820
+2026-10-19 16:22,activity,"punk8739 8 posts 14:00Z-14:21Z (16:00-16:21 CEST), 0 non-RT per Q1 — retweet flood may be resuming; continuing behaviour, logged only",https://x.com/punk8739
+2026-10-19 16:22,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-19 16:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-19 16:22,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
