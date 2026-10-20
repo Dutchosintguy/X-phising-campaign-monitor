@@ -373,3 +373,8 @@ time,type,details,link
 2026-10-20 20:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-20 20:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-20 20:21,infra,Twitta page gone/changed on cal-apis.com: HTTP ERR title=,https://cal-apis.com/login
+2026-10-20 20:22,status,"STATUS CHANGE: cal-apis.com (core Events Portal callback + Twitta panel domain, Cluster A, Dominet HK) - registrar switched nameservers from Cloudflare bill/paige to NS1/NS2.NONVERIFIEDDOMAIN.COM at 17:37Z (19:37 CEST) per Verisign RDAP; domain no longer resolves and /login is unreachable. Looks like a registrar hold/suspension for unverified registrant data (verified by us via RDAP+DoH; reason not confirmed). Sibling lookalikes cal-api.com and invitehandler.com still on Cloudflare bill/paige - watch for migration.",https://rdap.verisign.com/com/v1/domain/cal-apis.com
+2026-10-20 20:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 20:23,infra,Twitta page gone/changed on cal-apis.com: HTTP ERR title=,https://cal-apis.com/login
+2026-10-20 20:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-20 20:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
