@@ -1,9 +1,9 @@
 component,last_success,last_error,detail
-ct_watcher,2026-10-20 18:26,2026-10-17 10:24,running pid 19174; 14 raw hits
-calendly_watch,2026-10-20 18:27,2026-10-20 00:24,3 links checked
+ct_watcher,2026-10-20 20:20,2026-10-17 10:24,running pid 19174; 14 raw hits
+calendly_watch,2026-10-20 20:21,2026-10-20 00:24,3 links checked
 infra_watch,2026-10-20 08:23,,"160 rows, 2 new, 0 historical backfill"
-x_search,2026-10-20 18:26,2026-10-16 02:26,"7 calls, 17 new posts (PetersonCouto 12-lure burst)"
+x_search,2026-10-20 20:20,2026-10-16 02:26,"8 calls, 2 new posts (Futana6 public Calendly hand-off)"
 gh_auth,2026-10-13 10:26,,gh auth valid
-build,2026-10-20 18:27,,build started
-publish,2026-10-20 16:33,2026-10-20 00:33,pushed 2026-10-20 16:33 CEST
-twitta_watch,2026-10-20 18:27,,urlscan=3/3; new=0; checked=28
+build,2026-10-20 20:21,,build started
+publish,2026-10-20 18:27,2026-10-20 00:33,pushed 2026-10-20 18:27 CEST
+twitta_watch,2026-10-20 20:21,,urlscan=3/3; new=0; checked=28

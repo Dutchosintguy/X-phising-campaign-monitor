@@ -368,3 +368,8 @@ time,type,details,link
 2026-10-20 18:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-20 18:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-20 18:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 20:20,activity,"NEW STAGE SEEN PUBLICLY: @Futana6 (fake TechCrunch, confirmed) replied 17:56Z (19:56 CEST) to @eva_roytburg (Citrini; ex-Fortune/CNN reporter) with the second-stage Calendly hand-off text: 'Lets setup a call with my team so we can brief you on what we had in mind. Here's our Calendly, feel free to pick a time that suits you best.' No link in the post (reply to an unrelated post of hers) - first time the Calendly hand-off wording is seen in a public reply; suggests a DM conversation may be under way. Also @Futana6 'couldn't send a message' lure 16:27Z -> @JesusFerna7026 (hit by @PetersonCouto 16:13Z, cross-operator overlap). Q2/Q2b/Q3/Q3b 0 new accounts since 16:00Z; punk8739 0 posts 16Z-18:20Z.",https://x.com/Futana6/status/2112603929884168448
+2026-10-20 20:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 20:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-20 20:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 20:21,infra,Twitta page gone/changed on cal-apis.com: HTTP ERR title=,https://cal-apis.com/login
