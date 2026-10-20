@@ -358,3 +358,8 @@ time,type,details,link
 2026-10-20 14:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-20 14:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-20 14:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-20 16:32,new_operator,"RETURNING OPERATOR: @nam_isay (Isaac Namm, fake Bloomberg persona, likely involved) back after 8 days quiet (last lure 12 Oct) with 3 'I'd love to work with you on a piece but I can't send you a message' lures 13:26-14:22Z (15:26-16:22 CEST) -> @spisallyouneed (Skyfall AI), @dreamlabs_ai(+@fal), @aleks_madry (OpenAI/MIT); @spisallyouneed and @dreamlabs_ai were hit by @Futana6 (TechCrunch persona) at ~00:00Z today: cross-persona target overlap",https://x.com/nam_isay/status/2112550058541351283
+2026-10-20 16:32,activity,"@PetersonCouto 1 'feature your team in an article' lure 13:41Z (15:41 CEST) -> @playgigaverse; @Futana6 1 'annual AI & technology feature' lure 14:24Z (16:24 CEST) -> @zachdive (Adam co-founder); known operators, logged only; 0 new template accounts since 12:00Z; punk8739 0 posts 12Z-14:27Z",https://x.com/Futana6/status/2112550537627369647
+2026-10-20 16:32,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 16:32,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 16:32,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
