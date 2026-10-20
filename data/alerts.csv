@@ -386,3 +386,7 @@ time,type,details,link
 2026-10-20 22:20,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-20 22:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-20 22:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 00:27,activity,@PetersonCouto 1 'feature your team in an article' lure → @IntelTrade (logged only),https://x.com/PetersonCouto/status/2112667665122873805
+2026-10-21 00:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 00:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-21 00:26,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
