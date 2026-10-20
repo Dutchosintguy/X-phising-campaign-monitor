@@ -378,3 +378,7 @@ time,type,details,link
 2026-10-20 20:23,infra,Twitta page gone/changed on cal-apis.com: HTTP ERR title=,https://cal-apis.com/login
 2026-10-20 20:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-20 20:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 22:20,activity,@PetersonCouto 1 'feature your team' lure → @HyperFrames_; @Futana6 1 'couldn't send a message' lure → @taida88 (Binance VP),https://x.com/Futana6/status/2112617945587134958
+2026-10-20 22:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 22:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 22:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
