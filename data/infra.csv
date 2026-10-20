@@ -168,3 +168,4 @@ cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services
 cert,*.petrilabs.app,petrilabs.app,2026-10-19,issuer=Let's Encrypt id=17873342017,certspotter,2026-10-20 08:23
 cert,petrilabs.app,petrilabs.app,2026-10-19,issuer=Let's Encrypt id=17873342017,certspotter,2026-10-20 08:23
 dns,cal-apis.com,cal-apis.com,2026-10-20,NS=NS1.NONVERIFIEDDOMAIN.COM NS2.NONVERIFIEDDOMAIN.COM (registry last changed 2026-10-20T17:37Z; was bill/paige.ns.cloudflare.com); A=none (REFUSED); /login TLS EOF,Verisign RDAP + dns.google DoH,2026-10-20 20:25
+dns,cal-apis.com,cal-apis.com,2026-10-20,"NS back to bill/paige.ns.cloudflare.com (registry last changed 2026-10-20T18:38:51Z, status active); A=172.67.179.69,104.21.75.171; /login HTTP 200 title 'Sign in — Twitta', panel.css hash 2ce123a1a60f (same kit) — hold lifted after ~1h",Verisign RDAP + dns.google DoH + passive GET,2026-10-20 22:22

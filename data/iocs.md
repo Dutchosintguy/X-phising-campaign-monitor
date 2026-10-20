@@ -57,3 +57,5 @@ Panel class names seen by @orlof_v (oauth-app-form, account-grid, activity log b
 Identical public form options to the old lure. Downstream OAuth app/callback not visible without submitting the form (not done). No public X or urlscan hits for the new slug as of 2026-10-17.
 
 - 2026-10-20 20:25 CEST: cal-apis.com nameservers switched by registrar to NS1/NS2.NONVERIFIEDDOMAIN.COM at 17:37Z (Verisign RDAP 'last changed'); domain no longer resolves (REFUSED), /login unreachable. Pattern consistent with a registrar hold for unverified registrant contact data (likely suspension; not confirmed by registrar). cal-api.com and invitehandler.com still on Cloudflare bill/paige.
+
+- 2026-10-20 22:22 CEST: cal-apis.com REACTIVATED — NS back on Cloudflare bill/paige at 18:38:51Z (hold from 17:37Z lasted ~1h), status active, /login 200 with same Twitta kit (panel.css 2ce123a1a60f). Verified by us.
