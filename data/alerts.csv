@@ -300,17 +300,22 @@ time,type,details,link
 2026-10-19 22:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-19 22:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-20 00:24,activity,"DobosDorina4 (suspect, TechCrunch 'Phoenix' persona) 2nd identical 'couldn't send a message' lure 20:29Z -> @QuasarBuilder (first since 17 Oct); 0 new template accounts since 20:00Z; punk8739 0 posts 20Z-22:23Z; logged only",https://x.com/DobosDorina4/status/2112279956638335422
-2026-10-20 00:24,infra,Twitta page gone/changed on xredirecting.com: HTTP ERR title=,https://xredirecting.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
-2026-10-20 00:24,infra,Twitta page gone/changed on cal-apis.com: HTTP ERR title=,https://cal-apis.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
-2026-10-20 00:24,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on cal-api.com: HTTP ERR title=,https://cal-api.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
-2026-10-20 00:24,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
-2026-10-20 00:24,calendly,Calendly link status changed 404/http error -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/d/d336-3mq-q2z,https://calendly.com/d/d336-3mq-q2z
-2026-10-20 00:24,calendly,Calendly link status changed 404/http error -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/30min-calls/interviews,https://calendly.com/30min-calls/interviews
-2026-10-20 00:24,calendly,Calendly link status changed 200/page served -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/d/d3sm-ypg-s4w,https://calendly.com/d/d3sm-ypg-s4w
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on xredirecting.com: HTTP ERR title=",https://xredirecting.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",https://asteriapanls.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on hyperball.one: HTTP ERR title=",https://hyperball.one/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on cal-apis.com: HTTP ERR title=",https://cal-apis.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",https://30min-meetings.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on petrilabs.app: HTTP ERR title=",https://petrilabs.app/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on invitehandler.com: HTTP ERR title=",https://invitehandler.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on cal-api.com: HTTP ERR title=",https://cal-api.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on login-api.com: HTTP ERR title=",https://login-api.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",https://whitelistportal.com/login
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Calendly link status changed 404/http error -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/d/d336-3mq-q2z",https://calendly.com/d/d336-3mq-q2z
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Calendly link status changed 404/http error -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/30min-calls/interviews",https://calendly.com/30min-calls/interviews
+2026-10-20 00:24,status_check_failed,"[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Calendly link status changed 200/page served -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/d/d3sm-ypg-s4w",https://calendly.com/d/d3sm-ypg-s4w
 2026-10-20 00:24,calendly_error,calendly_watch: 3 link checks failed,
+2026-10-20 00:24,push_error,publish: git push failed at 2026-10-20 00:24 CEST,
+2026-10-20 02:23,activity,"@Futana6 7 lures 23:43Z-00:14Z (01:43-02:14 CEST): 4 'couldn't send a message' → @karnerosen (Anthropic), @TrumpAccounts (US Treasury gov acct), @Schuldensuehner (Welt), @KhalaResearch; 3 'annual AI & technology feature' → @dreamlabs_ai(+@fal), @mayabarkin (SemiAnalysis), @spisallyouneed (Skyfall AI); known operator, 7 in 31 min, below spike threshold, logged only; 0 new template accounts since 22:00Z; punk8739 0 posts 22Z-00:22Z",https://x.com/Futana6/status/2112336568283492418
+2026-10-20 02:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-20 02:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 02:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
