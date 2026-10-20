@@ -325,3 +325,25 @@ time,type,details,link
 2026-10-20 06:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-20 06:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-20 06:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-20 08:22,profile,@Conviasa followers: 1828 → 1829,https://x.com/Conviasa
+2026-10-20 08:22,profile,@Conviasa tweets: 1646 → 1654,https://x.com/Conviasa
+2026-10-20 08:22,profile,@SeoSamantha followers: 2205 → 2204,https://x.com/SeoSamantha
+2026-10-20 08:22,profile,@Futana6 following: 191 → 194,https://x.com/Futana6
+2026-10-20 08:22,profile,@Futana6 tweets: 1226 → 1238,https://x.com/Futana6
+2026-10-20 08:22,profile,@KylieUncovered following: 1228 → 1229,https://x.com/KylieUncovered
+2026-10-20 08:22,profile,@Jaydayritt followers: 138 → 137,https://x.com/Jaydayritt
+2026-10-20 08:22,profile,@punk8739 followers: 26315 → 26313,https://x.com/punk8739
+2026-10-20 08:22,profile,@punk8739 following: 408 → 431,https://x.com/punk8739
+2026-10-20 08:22,profile,@punk8739 tweets: 2953 → 2977,https://x.com/punk8739
+2026-10-20 08:22,profile,@PetersonCouto following: 4367 → 4374,https://x.com/PetersonCouto
+2026-10-20 08:22,profile,@PetersonCouto tweets: 22438 → 22447,https://x.com/PetersonCouto
+2026-10-20 08:22,profile,@nam_isay followers: 1691 → 1692,https://x.com/nam_isay
+2026-10-20 08:22,profile,@DobosDorina4 followers: 1928 → 1916,https://x.com/DobosDorina4
+2026-10-20 08:22,profile,@DobosDorina4 following: 106 → 108,https://x.com/DobosDorina4
+2026-10-20 08:22,profile,@DobosDorina4 tweets: 710 → 711,https://x.com/DobosDorina4
+2026-10-20 08:23,activity,"@Futana6 3 lures 05:32Z-05:39Z (07:32-07:39 CEST): 2 'couldn't send a message' → @Petermarocco(+@USADF), @ajcimino (Anthropic Public Policy); 1 'annual AI & technology feature' → @CrusoeAI; known operator, small batch, logged only; 0 new template accounts since 04:00Z; Q4/Q4b/Q5 0 new warnings/infra mentions since 19 Oct 08:00Z (noise only); punk8739 0 posts 04Z-06:21Z",https://x.com/Futana6/status/2112418336290001190
+2026-10-20 08:23,infra,New cert: *.petrilabs.app (issuer=Let's Encrypt id=17873342017),https://crt.sh/?q=petrilabs.app
+2026-10-20 08:23,infra,New cert: petrilabs.app (issuer=Let's Encrypt id=17873342017),https://crt.sh/?q=petrilabs.app
+2026-10-20 08:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 08:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 08:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login

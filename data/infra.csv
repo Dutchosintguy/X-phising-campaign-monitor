@@ -165,3 +165,5 @@ cert,guests.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust S
 cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17763292927,certspotter,2026-10-17 08:29
 cert,*.invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17766819279,certspotter,2026-10-17 08:29
 cert,invitehandler.com,invitehandler.com,2026-10-13,issuer=Google Trust Services id=17766819279,certspotter,2026-10-17 08:29
+cert,*.petrilabs.app,petrilabs.app,2026-10-19,issuer=Let's Encrypt id=17873342017,certspotter,2026-10-20 08:23
+cert,petrilabs.app,petrilabs.app,2026-10-19,issuer=Let's Encrypt id=17873342017,certspotter,2026-10-20 08:23
