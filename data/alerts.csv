@@ -354,3 +354,7 @@ time,type,details,link
 2026-10-20 12:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-20 12:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-20 12:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 14:20,activity,"@Futana6 1 'couldn't send a message' lure 11:19Z (13:19 CEST) → @tornikegomareli (software builder, @insaneartsio); known operator, single lure, logged only; 0 new template accounts since 10:00Z; punk8739 0 posts 10Z-12:18Z",https://x.com/Futana6/status/2112503923189960784
+2026-10-20 14:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-20 14:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-20 14:19,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
