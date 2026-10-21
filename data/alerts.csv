@@ -445,3 +445,7 @@ time,type,details,link
 2026-10-21 14:22,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-21 14:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-21 14:22,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 16:25,activity,"DobosDorina4 2 more 'couldn't send a message' lures → @Seanfrank, @shivanipod (9 total, suspected)",https://x.com/DobosDorina4/status/2112907962469761481
+2026-10-21 16:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 16:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 16:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
