@@ -397,3 +397,7 @@ time,type,details,link
 2026-10-21 04:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-21 04:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-21 04:26,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 06:28,activity,"@Futana6 2 'couldn't send a message' lures 03:53–04:06Z → @aleks_madry (also hit by nam_isay 20 Oct, cross-operator overlap), @BNBStandard (Nasdaq-listed BNB treasury co., new target) (logged only)",https://x.com/Futana6/status/2112757302227009913
+2026-10-21 06:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-21 06:28,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 06:28,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
