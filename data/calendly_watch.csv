@@ -235,3 +235,6 @@ checked,url,http_status,final_url,page_state
 2026-10-21 00:26,https://calendly.com/d/d336-3mq-q2z,404,https://calendly.com/d/d336-3mq-q2z,http error
 2026-10-21 00:26,https://calendly.com/30min-calls/interviews,404,https://calendly.com/30min-calls/interviews,http error
 2026-10-21 00:26,https://calendly.com/d/d3sm-ypg-s4w,200,https://calendly.com/d/d3sm-ypg-s4w,page served
+2026-10-21 02:25,https://calendly.com/d/d336-3mq-q2z,404,https://calendly.com/d/d336-3mq-q2z,http error
+2026-10-21 02:25,https://calendly.com/30min-calls/interviews,404,https://calendly.com/30min-calls/interviews,http error
+2026-10-21 02:25,https://calendly.com/d/d3sm-ypg-s4w,200,https://calendly.com/d/d3sm-ypg-s4w,page served
