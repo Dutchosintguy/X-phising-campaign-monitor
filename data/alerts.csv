@@ -429,3 +429,8 @@ time,type,details,link
 2026-10-21 10:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-21 10:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-21 10:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 12:25,activity,"4 lures 09:12–10:07Z: @DobosDorina4 4th 'couldn't send a message' lure → @firesidealpha (suspect); @Futana6 2 → @zerohedge, @HyperFrames_ (also hit by PetersonCouto 20 Oct, cross-operator overlap); @nam_isay 1 'work with you on a piece' → @troyluhman (logged only)",https://x.com/nam_isay/status/2112848188226846984
+2026-10-21 12:26,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 12:27,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-21 12:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 12:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
