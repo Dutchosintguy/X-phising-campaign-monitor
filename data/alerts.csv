@@ -425,3 +425,7 @@ time,type,details,link
 2026-10-21 08:29,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-21 08:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-21 08:29,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-21 10:22,activity,"@PetersonCouto 7 Reuters-persona lures 07:25–07:52Z → @onevcat, @justvugg, @ghostai, @TesterArmy (already-known target), @thechrisbuskirk (1789 Capital CIO), @inworld, @jurlycat; new variant 'feature you in an article' (logged only)",https://x.com/PetersonCouto/status/2112814345147265473
+2026-10-21 10:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-21 10:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-21 10:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
