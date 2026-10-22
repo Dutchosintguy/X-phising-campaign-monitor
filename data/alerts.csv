@@ -468,3 +468,7 @@ time,type,details,link
 2026-10-22 02:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-22 02:22,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-22 02:22,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-22 04:24,activity,"@PetersonCouto 4 Reuters-persona lures 01:03–01:24Z (03:03–03:24 Amsterdam) → @MarathonFusion, @LaunchOnPangea, @xinjin, @Ayaan (605k); small batch, logged only",https://x.com/PetersonCouto/status/2113079095810506932
+2026-10-22 04:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-22 04:24,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-22 04:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
