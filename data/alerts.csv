@@ -431,7 +431,7 @@ time,type,details,link
 2026-10-21 10:23,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-21 12:25,activity,"4 lures 09:12–10:07Z: @DobosDorina4 4th 'couldn't send a message' lure → @firesidealpha (suspect); @Futana6 2 → @zerohedge, @HyperFrames_ (also hit by PetersonCouto 20 Oct, cross-operator overlap); @nam_isay 1 'work with you on a piece' → @troyluhman (logged only)",https://x.com/nam_isay/status/2112848188226846984
 2026-10-21 12:26,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
-2026-10-21 12:27,status_check_failed,"petrilabs.app /login transient fetch error (re-checked 12:29: HTTP 200; DNS unchanged on Cloudflare bill/paige) — not a takedown",https://petrilabs.app/login
+2026-10-21 12:27,status_check_failed,petrilabs.app /login transient fetch error (re-checked 12:29: HTTP 200; DNS unchanged on Cloudflare bill/paige) — not a takedown,https://petrilabs.app/login
 2026-10-21 12:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-21 12:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-21 12:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
@@ -475,3 +475,27 @@ time,type,details,link
 2026-10-22 06:25,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-22 06:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-22 06:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-22 08:30,warning,"New public victim warning: @ziv_ravid (Meta/NYU AI researcher, 15.9k) screenshot calls out 'Liv from @Bloomberg' (= @Conviasa persona) for copying his bio; @tanayj (Wing VC) replies that fake-journalist Calendly phishing attempts are going around",https://x.com/ziv_ravid/status/2113109358112596091
+2026-10-22 08:30,activity,"12 lures 04:33–05:14Z (06:33–07:14 Amsterdam): @Conviasa 6 'DM me, I’m working on an article' → @recouso(+@CitizenX), @mhluongo, @MatthewChang, @AtomsNotBits(+@TheNuclearCo), @mashadrokova, @KennethCassel; @Futana6 6 (5 'couldn't send a message', 1 'annual AI & technology feature') → @joyjiao12, @yunyunash, @MarathonFusion, @MatthewGranade, @jang_yoel, @LaunchOnPangea — @joyjiao12/@MarathonFusion/@LaunchOnPangea already hit by @PetersonCouto (cross-operator overlap); small batches, logged only",https://x.com/Futana6/status/2113136997342581177
+2026-10-22 08:25,profile,@Conviasa followers: 1828 → 1826,https://x.com/Conviasa
+2026-10-22 08:25,profile,@Conviasa tweets: 1662 → 1672,https://x.com/Conviasa
+2026-10-22 08:25,profile,@SeoSamantha tweets: 8779 → 8780,https://x.com/SeoSamantha
+2026-10-22 08:25,profile,@Futana6 followers: 3924 → 3926,https://x.com/Futana6
+2026-10-22 08:25,profile,@Futana6 following: 204 → 215,https://x.com/Futana6
+2026-10-22 08:25,profile,@Futana6 tweets: 1251 → 1263,https://x.com/Futana6
+2026-10-22 08:25,profile,@KylieUncovered followers: 1348 → 1349,https://x.com/KylieUncovered
+2026-10-22 08:25,profile,@punk8739 followers: 26313 → 26312,https://x.com/punk8739
+2026-10-22 08:25,profile,@punk8739 following: 45 → 39,https://x.com/punk8739
+2026-10-22 08:25,profile,@punk8739 tweets: 2976 → 2975,https://x.com/punk8739
+2026-10-22 08:25,profile,@PetersonCouto followers: 3323 → 3329,https://x.com/PetersonCouto
+2026-10-22 08:25,profile,@PetersonCouto following: 4389 → 4407,https://x.com/PetersonCouto
+2026-10-22 08:25,profile,@PetersonCouto tweets: 22465 → 22486,https://x.com/PetersonCouto
+2026-10-22 08:25,profile,@nam_isay followers: 1692 → 1693,https://x.com/nam_isay
+2026-10-22 08:25,profile,@nam_isay following: 2767 → 2768,https://x.com/nam_isay
+2026-10-22 08:25,profile,@nam_isay tweets: 206 → 207,https://x.com/nam_isay
+2026-10-22 08:25,profile,@DobosDorina4 followers: 1785 → 1726,https://x.com/DobosDorina4
+2026-10-22 08:25,profile,@DobosDorina4 following: 117 → 121,https://x.com/DobosDorina4
+2026-10-22 08:25,profile,@DobosDorina4 tweets: 712 → 720,https://x.com/DobosDorina4
+2026-10-22 08:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-22 08:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-22 08:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
