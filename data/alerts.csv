@@ -502,3 +502,7 @@ time,type,details,link
 2026-10-22 10:33,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-22 10:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-22 10:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-22 12:22,activity,"@DobosDorina4 (suspected, TechCrunch persona) 12th 'couldn't send a message' lure to @markminervini (767k)",https://x.com/DobosDorina4/status/2113192562852761612
+2026-10-22 12:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-22 12:21,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-22 12:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
