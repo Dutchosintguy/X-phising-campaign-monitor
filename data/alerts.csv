@@ -536,3 +536,7 @@ time,type,details,link
 2026-10-22 22:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-22 22:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-22 22:24,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 00:28,activity,"@DobosDorina4 13th exact 'couldn't send a message' lure 20:42Z → @swyx (205k, Latent Space/smol_ai); small batch",https://x.com/DobosDorina4/status/2113370351413719399
+2026-10-23 00:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 00:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 00:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
