@@ -53,7 +53,7 @@ Panel class names seen by @orlof_v (oauth-app-form, account-grid, activity log b
 | Link | Status (last check) | Form | Owner | Options | Source |
 |---|---|---|---|---|---|
 | calendly[.]com/d/d336-3mq-q2z | 404 (removed by 2026-10-14) | (was Collaboration / Press Release → Events Portal OAuth) | — | Collaboration, Press Release | Nico blog / @mdisec |
-| calendly[.]com/d/d3sm-ypg-s4w | 200 live (2026-10-17) | FormBuilder "F30" uuid 48ea958b-…; scheduling_link uid d3sm-ypg-s4w | org owner display name "MM" (id 54480394) | Name + Meeting type radios: Collaboration, Press Release | shared by targeted victim @ConstanceWaing via Nico Dekens (17 Oct) |
+| calendly[.]com/d/d3sm-ypg-s4w | 200 live (2026-10-17); **404 since 2026-10-22 ~20:26 CEST (last 200 at 18:20) — taken down/removed** | FormBuilder "F30" uuid 48ea958b-…; scheduling_link uid d3sm-ypg-s4w | org owner display name "MM" (id 54480394) | Name + Meeting type radios: Collaboration, Press Release | shared by targeted victim @ConstanceWaing via Nico Dekens (17 Oct) |
 Identical public form options to the old lure. Downstream OAuth app/callback not visible without submitting the form (not done). No public X or urlscan hits for the new slug as of 2026-10-17.
 
 - 2026-10-20 20:25 CEST: cal-apis.com nameservers switched by registrar to NS1/NS2.NONVERIFIEDDOMAIN.COM at 17:37Z (Verisign RDAP 'last changed'); domain no longer resolves (REFUSED), /login unreachable. Pattern consistent with a registrar hold for unverified registrant contact data (likely suspension; not confirmed by registrar). cal-api.com and invitehandler.com still on Cloudflare bill/paige.
