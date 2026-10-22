@@ -511,3 +511,10 @@ time,type,details,link
 2026-10-22 14:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-22 14:27,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
 2026-10-22 14:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-22 16:30,activity,"@Futana6 1 'couldn't send a message' lure 14:23Z → @pollenrobotics (Pollen Robotics, Hugging Face robotics, 20.8k; new target)",https://x.com/Futana6/status/2113275073704628708
+2026-10-22 16:30,activity,"@punk8739 plain-retweet flood continuing: 58 posts 12Z–14:24Z (27/21/10 per hour, 0 non-RT); continuing behaviour",https://x.com/punk8739
+2026-10-22 16:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-22 16:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-22 16:25,infra,Twitta page gone/changed on login-api.com: HTTP 404 title=,https://login-api.com/login
+2026-10-22 16:26,calendly,Calendly link status changed 200/page served -> ERR/<urlopen error timed out>: https://calendly.com/d/d3sm-ypg-s4w,https://calendly.com/d/d3sm-ypg-s4w
+2026-10-22 16:26,calendly_error,calendly_watch: 1 link checks failed,
