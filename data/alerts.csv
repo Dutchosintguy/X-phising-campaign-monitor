@@ -573,3 +573,7 @@ time,type,details,link
 2026-10-23 08:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-23 08:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-23 08:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 10:24,activity,"@Futana6 4 lures 06:39–07:08Z: 3 'couldn't send a message' → @theoremlabs (Theorem), @usekernel (Kernel), @manohar_paluri; 1 'annual AI & technology feature' → @AgentM_Tech (Margaret Rosenfeld, CSLO of @BNBStandard, whose company account Futana6 hit 21 Oct); small batch",https://x.com/Futana6/status/2113528064575705268
+2026-10-23 10:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 10:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-23 10:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
