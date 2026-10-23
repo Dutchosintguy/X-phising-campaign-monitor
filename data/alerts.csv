@@ -544,3 +544,8 @@ time,type,details,link
 2026-10-23 02:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-23 02:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-23 02:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 04:20,activity,"@Futana6 6 lures 00:51–01:22Z (5 'couldn't send a message', 1 shorter 'feel free to message') → @MariaDavidson, @shellenberger (1.4M), @johnarnold (Arnold Ventures), @zerohedge (re-targeted), @thejesonlee, @zainasgar (re-targeted); small batch",https://x.com/Futana6/status/2113440851875488032
+2026-10-23 04:20,activity,"@PetersonCouto 3 Reuters-persona lures 00:25–00:35Z → @juanbuis ('I sent you a DM … collaborate on a piece'), @SuperAppIOS, @_Kavsoft ('feature your team'); small batch",https://x.com/PetersonCouto/status/2113428966908530954
+2026-10-23 04:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 04:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-23 04:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
