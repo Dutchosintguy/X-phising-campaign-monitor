@@ -583,3 +583,7 @@ time,type,details,link
 2026-10-23 14:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-23 14:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-23 14:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 16:25,activity,"@PetersonCouto 1 Reuters-persona lure 13:57Z 'collaborate with you on an upcoming article' → @Padierfind (Patrick Tobler, NMKR/Masumi founder, 35.5k; new target); small batch",https://x.com/PetersonCouto/status/2113630918690914695
+2026-10-23 16:25,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 16:25,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 16:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
