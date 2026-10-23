@@ -593,3 +593,7 @@ time,type,details,link
 2026-10-23 20:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-23 20:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-23 20:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 22:30,activity,"@Conviasa 4 Bloomberg-persona lures 19:59–20:14Z in slightly reworded template 'DM me I’m working on an article and your insights would be greatly appreciated' → @Karmedge (Stormy/infra), @chem_safety (re-targeted), @dakshgup (Greptile CEO), @RyanSael; small batch",https://x.com/Conviasa/status/2113725712884449482
+2026-10-23 22:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-23 22:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 22:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
