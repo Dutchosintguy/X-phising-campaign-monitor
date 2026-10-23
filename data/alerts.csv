@@ -549,3 +549,7 @@ time,type,details,link
 2026-10-23 04:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-23 04:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-23 04:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-23 06:25,activity,"@Conviasa 3 Bloomberg-persona lures 03:49–03:56Z, reworded ""DM me, I have an article to write and your insights are needed"" → @untillabs (cryopreservation startup), @maxmarchione (Superpower founder, 35k), @melisatokmak (Netic AI founder, 33k); small batch",https://x.com/Conviasa/status/2113479615209447700
+2026-10-23 06:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-23 06:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-23 06:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
