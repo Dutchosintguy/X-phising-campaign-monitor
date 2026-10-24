@@ -611,3 +611,24 @@ time,type,details,link
 2026-10-24 06:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-24 06:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-24 06:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-24 08:30,status,"@Futana6 (fake TechCrunch ""Chloe Futana"", most active lure operator) now SUSPENDED per X lookup; last lure 23 Oct 07:08Z",https://x.com/Futana6
+2026-10-24 08:30,profile,"@DobosDorina4 (suspected, fake TechCrunch ""Phoenix"") lost blue check (blue→none)",https://x.com/DobosDorina4
+2026-10-24 08:30,warning,"New public awareness post @zshjzls (Chinese): fake WIRED/OpenAI/Anthropic personas, Calendly → X OAuth apps CalendarBookings/Booking Pass; cites Peter Reinhardt (Segment) takeover",https://x.com/zshjzls/status/2113556566162977156
+2026-10-24 08:27,profile,@Conviasa tweets: 1675 → 1679,https://x.com/Conviasa
+2026-10-24 08:27,profile,@Futana6 status: active → suspended,https://x.com/Futana6
+2026-10-24 08:27,profile,"@KylieUncovered bio: Correspondent covering AI, Tech & Financial markets. @Techcrunch and @opinion currently Previously @bloomberg & @google → Correspondent covering ",https://x.com/KylieUncovered
+2026-10-24 08:27,profile,@KylieUncovered following: 1230 → 1229,https://x.com/KylieUncovered
+2026-10-24 08:27,profile,"@Jaydayritt bio: AI, Tech & Culture Journalist. Exploring the people, ideas & technology shaping what comes next. Currently @WIRED Previously @Bloomberg & @Reuter",https://x.com/Jaydayritt
+2026-10-24 08:27,profile,@punk8739 followers: 26311 → 26313,https://x.com/punk8739
+2026-10-24 08:27,profile,@punk8739 following: 422 → 760,https://x.com/punk8739
+2026-10-24 08:27,profile,@punk8739 tweets: 3111 → 3108,https://x.com/punk8739
+2026-10-24 08:27,profile,@PetersonCouto followers: 3333 → 3334,https://x.com/PetersonCouto
+2026-10-24 08:27,profile,@PetersonCouto following: 4417 → 4431,https://x.com/PetersonCouto
+2026-10-24 08:27,profile,@PetersonCouto tweets: 22497 → 22504,https://x.com/PetersonCouto
+2026-10-24 08:27,profile,@nam_isay followers: 1693 → 1692,https://x.com/nam_isay
+2026-10-24 08:27,profile,@DobosDorina4 followers: 1658 → 1604,https://x.com/DobosDorina4
+2026-10-24 08:27,profile,@DobosDorina4 following: 132 → 134,https://x.com/DobosDorina4
+2026-10-24 08:27,profile,@DobosDorina4 tweets: 722 → 721,https://x.com/DobosDorina4
+2026-10-24 08:30,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-24 08:30,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-24 08:30,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
