@@ -650,3 +650,7 @@ time,type,details,link
 2026-10-24 20:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-24 20:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-24 20:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-24 22:30,activity,"@Conviasa 1 Bloomberg-persona lure 18:22Z, slightly reworded 'Love your perspective on this, I’m working on an article and would really value your insights. DM Would love to connect' (double self-mention kept) → @charliekerr (Charlie Kerr, talent, 6.5k, new target); small batch",https://x.com/Conviasa/status/2114059959478738962
+2026-10-24 22:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-24 22:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-24 22:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
