@@ -604,3 +604,7 @@ time,type,details,link
 2026-10-24 02:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-24 02:28,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-24 02:28,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-24 04:22,activity,"@PetersonCouto 1 Reuters-persona 'I sent you a DM … work with you on a piece' lure 01:26Z → @jonathan_wilke (Jonathan Wilke, German developer, 30k, new target); small batch",https://x.com/PetersonCouto/status/2113804208906588363
+2026-10-24 04:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-24 04:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-24 04:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
