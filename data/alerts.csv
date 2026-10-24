@@ -654,3 +654,7 @@ time,type,details,link
 2026-10-24 22:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-24 22:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-24 22:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-25 00:25,activity,"@Conviasa 1 Bloomberg-persona lure 21:19Z → @andrewwhite01 (Andrew White, FutureHouse/Edison co-founder, 34k)",https://x.com/Conviasa/status/2114104447744033223
+2026-10-25 00:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-25 00:24,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-25 00:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
