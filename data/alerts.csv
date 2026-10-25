@@ -705,3 +705,7 @@ time,type,details,link
 2026-10-25 18:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-25 18:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-25 18:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-25 20:21,activity,"@PetersonCouto 3 Reuters-persona lures 18:17–19:10Z → @yueban07, @jaysonhu2018, @YuvalRooz (Digital Asset CEO)",https://x.com/PetersonCouto/status/2114434388088041527
+2026-10-25 20:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-25 20:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-25 20:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
