@@ -698,3 +698,7 @@ time,type,details,link
 2026-10-25 14:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-25 14:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-25 14:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-25 16:24,activity,"@PetersonCouto 2 Reuters-persona lures 13:26–13:31Z (14:26–14:31 CET) → @MOVNTDQ (Xiangpeng Hao, database/storage researcher; 'feature you in an article'), @Hi_Mrinal (backend engineer, 24k; 'working on a piece together'); first since 24 Oct 01:26Z",https://x.com/PetersonCouto/status/2114349039278031180
+2026-10-25 16:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-25 16:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-25 16:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
