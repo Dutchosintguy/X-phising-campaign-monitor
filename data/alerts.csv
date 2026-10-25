@@ -670,3 +670,22 @@ time,type,details,link
 2026-10-25 06:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-25 06:19,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-25 06:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-25 08:20,activity,"SPIKE: @Conviasa (fake Bloomberg 'Liv' persona) burst of 10 lures in 36 min 05:31–06:07Z (06:31–07:07 CET), reworded 'Really interesting/fascinating work … I’m working on an article and would love to hear your perspective. Dm Would be great to connect!' (double self-mention kept) → @divy93t (Gemini/DeepMind), @wgussml (ex-OpenAI), @RagavanThurair (+@carajzp; AI lab for @jack), @jennyzhangzt, @behrouz_ali (Google), @ljin18 (Li Jin, 177k), @rohunvora, @evantana (+@spc), @pplpleasr1 (70k), @aka_suje (OpenAI)",https://x.com/Conviasa/status/2114237317452058718
+2026-10-25 08:20,profile,@Conviasa followers: 1826 → 1824,https://x.com/Conviasa
+2026-10-25 08:20,profile,@Conviasa following: 191 → 190,https://x.com/Conviasa
+2026-10-25 08:20,profile,@Conviasa tweets: 1679 → 1691,https://x.com/Conviasa
+2026-10-25 08:20,profile,@SeoSamantha following: 2798 → 2797,https://x.com/SeoSamantha
+2026-10-25 08:20,profile,@KylieUncovered followers: 1349 → 1347,https://x.com/KylieUncovered
+2026-10-25 08:20,profile,@KylieUncovered following: 1229 → 1228,https://x.com/KylieUncovered
+2026-10-25 08:20,profile,"@punk8739 bio now recorded with full text ""General Partner @BeaconLayer; investing in $ETH, healthcare; alum of endeca, HST, MIT."" (earlier snapshots likely lost ""$ETH,"" to shell expansion — data correction, not a confirmed change)",https://x.com/punk8739
+2026-10-25 08:20,profile,@punk8739 followers: 26313 → 26314,https://x.com/punk8739
+2026-10-25 08:20,profile,@punk8739 following: 760 → 758,https://x.com/punk8739
+2026-10-25 08:20,profile,@punk8739 tweets: 3108 → 3107,https://x.com/punk8739
+2026-10-25 08:20,profile,@PetersonCouto following: 4431 → 4430,https://x.com/PetersonCouto
+2026-10-25 08:20,profile,@nam_isay followers: 1692 → 1694,https://x.com/nam_isay
+2026-10-25 08:20,profile,@DobosDorina4 followers: 1604 → 1578,https://x.com/DobosDorina4
+2026-10-25 08:21,infra,New cert: *.hyperball.one (issuer=Google Trust Services id=17936240119),https://crt.sh/?q=hyperball.one
+2026-10-25 08:21,infra,New cert: hyperball.one (issuer=Google Trust Services id=17936240119),https://crt.sh/?q=hyperball.one
+2026-10-25 08:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-25 08:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-25 08:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
