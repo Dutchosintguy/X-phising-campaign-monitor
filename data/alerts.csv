@@ -766,3 +766,7 @@ time,type,details,link
 2026-10-26 20:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-26 20:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-26 20:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-26 22:24,activity,"@SeoSamantha returned after ~4.4 days quiet (last lure 22 Oct 13:34): 2 'quick follow-up on my DM about our AI & technology feature' lures 22:22–22:24 → @shiyi_peng (AnyAlpha CEO, YC F26), @getjonwithit (Jonathan Gorard, Lanyon AI CEO, 47.8k)",https://x.com/SeoSamantha/status/2114830480264827292
+2026-10-26 22:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-26 22:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-26 22:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
