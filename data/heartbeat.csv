@@ -1,9 +1,9 @@
 component,last_success,last_error,detail
-ct_watcher,2026-10-26 22:26,2026-10-17 10:24,running pid 36542; 18 raw hits
-calendly_watch,2026-10-26 22:26,2026-10-22 16:26,3 links checked
+ct_watcher,2026-10-27 00:27,2026-10-17 10:24,running pid 36542; 18 raw hits
+calendly_watch,2026-10-27 00:28,2026-10-22 16:26,3 links checked
 infra_watch,2026-10-26 08:33,,"1584 rows, 0 new, 0 historical backfill"
-x_search,2026-10-26 22:26,2026-10-16 02:26,"7 calls, 2 new posts"
+x_search,2026-10-27 00:27,2026-10-16 02:26,"6 calls, 8 new posts"
 gh_auth,2026-10-13 10:26,,gh auth valid
-build,2026-10-26 22:26,,build started
-publish,2026-10-26 20:22,2026-10-20 00:33,pushed 2026-10-26 20:21 CET
-twitta_watch,2026-10-26 22:26,,urlscan=3/3; new=0; checked=28
+build,2026-10-27 00:28,,build started
+publish,2026-10-26 22:27,2026-10-20 00:33,pushed 2026-10-26 22:27 CET
+twitta_watch,2026-10-27 00:28,,urlscan=3/3; new=0; checked=28
