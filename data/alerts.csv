@@ -759,3 +759,7 @@ time,type,details,link
 2026-10-26 16:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-26 16:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-26 16:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-26 18:28,activity,"@sayozain (suspected fake TechCrunch ""zay"") 4 non-lure TechCrunch link-share posts 15:40-17:16Z (persona upkeep); 0 public lures",https://x.com/sayozain/status/2114768157260824686
+2026-10-26 18:28,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-26 18:28,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-26 18:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
