@@ -755,3 +755,7 @@ time,type,details,link
 2026-10-26 14:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-26 14:33,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-26 14:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-26 16:27,activity,@PetersonCouto 1 Reuters-persona lure (DMs closed / work with you on a piece) -> @fireant_korea,https://x.com/PetersonCouto/status/2114737189741330853
+2026-10-26 16:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-26 16:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-26 16:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
