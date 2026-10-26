@@ -39,7 +39,7 @@
 | x[.]login-api[.]com | credential phishing (Bloomberg-persona bot) | @eversinc33 | login-api.com reg 2026-09-25 **Dominet (HK)** (same registrar as cal-apis/cal-api); Cloudflare felicity/tess; resolves |
 | calendly[.]com/30min-calls/interviews | Calendly destination | Casco | HTTP 404 (gone) |
 | Apps: CalendarBookings, Booking Pass, Events Portal | X OAuth apps | Casco / SafeBrowz / blog | X app status not publicly queryable |
-| Accounts: RamIyer__ (suspended), punk8739 (active, unverified) | X | @nickgraynews / @OG_Mr_Diamond | see operators.csv |
+| Accounts: RamIyer__ (suspended), punk8739 (renamed to @punk9962 on or before 2026-10-26, same id 893162896259198977, bio now "GP @0xBlockwire"; unverified) | X | @nickgraynews / @OG_Mr_Diamond | see operators.csv |
 Note: Nosian's 13 accounts are not individually named in the article; only those named publicly elsewhere are added.
 
 ## Infrastructure clusters (added 2026-10-16; credit @orlof_v https://x.com/orlof_v/status/2111081475277811880)

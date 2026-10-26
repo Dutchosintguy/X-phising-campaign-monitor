@@ -727,3 +727,22 @@ time,type,details,link
 2026-10-26 08:07,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-26 08:07,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-26 08:07,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-26 08:28,profile,@Conviasa followers: 1824 → 1826,https://x.com/Conviasa
+2026-10-26 08:28,profile,@Conviasa following: 190 → 191,https://x.com/Conviasa
+2026-10-26 08:28,profile,@SeoSamantha following: 2797 → 2798,https://x.com/SeoSamantha
+2026-10-26 08:28,profile,@KylieUncovered followers: 1347 → 1348,https://x.com/KylieUncovered
+2026-10-26 08:28,profile,@KylieUncovered following: 1228 → 1229,https://x.com/KylieUncovered
+2026-10-26 08:28,profile,"@punk8739 bio: General Partner @BeaconLayer; investing in $ETH, healthcare; alum of endeca, HST, MIT. → GP @0xBlockwire; investing in $ETH, healthcare; alum of ",https://x.com/punk8739
+2026-10-26 08:28,profile,@punk8739 followers: 26314 → 26310,https://x.com/punk8739
+2026-10-26 08:28,profile,@punk8739 following: 758 → 48,https://x.com/punk8739
+2026-10-26 08:28,profile,@punk8739 tweets: 3107 → 3134,https://x.com/punk8739
+2026-10-26 08:28,profile,@punk8739 status: active → renamed to @punk9962,https://x.com/punk8739
+2026-10-26 08:28,profile,@PetersonCouto followers: 3334 → 3336,https://x.com/PetersonCouto
+2026-10-26 08:28,profile,@PetersonCouto following: 4430 → 4436,https://x.com/PetersonCouto
+2026-10-26 08:28,profile,@PetersonCouto tweets: 22504 → 22510,https://x.com/PetersonCouto
+2026-10-26 08:28,profile,@DobosDorina4 followers: 1578 → 1555,https://x.com/DobosDorina4
+2026-10-26 08:30,status,"@punk8739 (Kieran Elvborg, BeaconLayer VC persona) RENAMED to @punk9962 (same id 893162896259198977); bio employer @BeaconLayer → @0xBlockwire; following 422 → 48",https://x.com/punk9962
+2026-10-26 08:30,activity,"@PetersonCouto 1 Reuters-persona lure 06:51Z → @nanbeige (Nanbeige LLM Lab, BOSS Zhipin) ""feature your team in an article""",https://x.com/PetersonCouto/status/2114610827080740969
+2026-10-26 08:33,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-26 08:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-26 08:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
