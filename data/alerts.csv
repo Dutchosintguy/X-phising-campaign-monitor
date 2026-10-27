@@ -831,3 +831,11 @@ time,type,details,link
 2026-10-27 20:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-27 20:22,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-10-27 20:22,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-27 20:30,status,"STATUS CHANGE Cluster B: invitehandler.com, whitelistportal.com, petrilabs.app, hyperball.one moved nameservers from Cloudflare bill/paige to Njalla (1-ceci.njalla.do / 2-nest.pipe.ma / 3-pas.njalla.in) at ~19:17Z; no A records now, Twitta /login pages offline. xredirecting.com, cal-apis.com, cal-api.com still on Cloudflare bill/paige and serving. Operator-side change (client update/transfer prohibited, no hold status) — likely moving off Cloudflare or parking; watch for re-pointing.",https://rdap.verisign.com/com/v1/domain/invitehandler.com
+2026-10-27 20:24,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-27 20:24,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-27 20:24,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-10-27 20:24,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-27 20:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-27 20:24,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-27 20:24,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
