@@ -784,3 +784,7 @@ time,type,details,link
 2026-10-27 04:25,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-27 04:25,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-27 04:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-27 06:22,activity,"@Conviasa 2 Bloomberg-persona lures 06:07–06:10 after ~2 days quiet, reworded 'I’m working on an article and your insights would be valuable / would love your insight … open to a quick chat? Feel free to DM me' (→ @jessiicawu (Altos VC investor), @joshsum_ (Morphic founder)); @PetersonCouto 1 'feature your team in an article' lure 06:00 (→ @psipbc, Physical Superintelligence)",https://x.com/Conviasa/status/2114947686369837246
+2026-10-27 06:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-27 06:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-27 06:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
