@@ -777,3 +777,7 @@ time,type,details,link
 2026-10-27 00:28,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-27 00:29,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-27 00:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-27 02:20,activity,"@PetersonCouto 2 Reuters-persona 'collaborate with you on an upcoming article' lures 00:33–00:35 (→ @luki_cavalieri, @wayne_nelmz; both ex-SIG quant founders)",https://x.com/PetersonCouto/status/2114863408616968544
+2026-10-27 02:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-27 02:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-27 02:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
