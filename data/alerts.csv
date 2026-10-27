@@ -816,7 +816,11 @@ time,type,details,link
 2026-10-27 14:33,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-27 14:33,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-27 14:33,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
-2026-10-27 16:30,activity,"@KylieUncovered (fake TechCrunch 'Kylie') RETURNED after 16 days quiet (last lure 11 Oct): 'potential piece' lure 14:22Z → @Azaliamirh (Azalia Mirhoseini, Stanford/ex-DeepMind/Anthropic, founder @RicursiveAI) + @RicursiveAI",https://x.com/KylieUncovered/status/2115086698749297130
+2026-10-27 16:26,activity,"@KylieUncovered (fake TechCrunch 'Kylie') RETURNED after 16 days quiet (last lure 11 Oct): 'potential piece' lure 14:22Z → @Azaliamirh (Azalia Mirhoseini, Stanford/ex-DeepMind/Anthropic, founder @RicursiveAI) + @RicursiveAI",https://x.com/KylieUncovered/status/2115086698749297130
 2026-10-27 16:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-27 16:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-10-27 16:27,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-27 18:32,activity,"SPIKE: @Conviasa (fake Bloomberg 'Liv') 10 lures in 62 min 15:33–16:35Z (16:33–17:35 CET), wording ""I’m working on an article and would love your insight. Feel free to DM me if you’re open to a quick chat"" → mostly VCs/fintech: @EmilyHerrera, @iankar_ (+@OpenAI), @fintechjunkie, @chudson, @CCgong, @kirstenagreen (re-targeted), @annimaniac, @rebeccakaden (+@efficient_hq), @joshk (+@upfrontvc), @FTPartners (+@tryramp, @Intuit, @acorns …)",https://x.com/Conviasa/status/2115120099954741475
+2026-10-27 18:30,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-27 18:30,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-27 18:30,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
