@@ -914,3 +914,11 @@ time,type,details,link
 2026-10-28 08:32,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-10-28 08:32,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-10-28 08:32,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-28 10:22,activity,"@KylieUncovered 6 more potential-piece lures 07:26–07:50Z (→ @jeffclune, @OHichwa, @FeiziSoheil, @Peprika_Inferno, @joshavata, @juanbenet); 8 since 07:20Z, below spike threshold",https://x.com/KylieUncovered/status/2115350418125664720
+2026-10-28 10:19,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-28 10:19,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-10-28 10:19,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-28 10:19,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-28 10:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-28 10:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-28 10:19,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
