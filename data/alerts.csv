@@ -876,3 +876,34 @@ time,type,details,link
 2026-10-28 06:27,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-10-28 06:27,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-10-28 06:27,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-28 08:30,activity,"@KylieUncovered 2 'potential piece' lures 07:20–07:22Z → @Prince_Canuma, @velvetatom (Lux Capital)",https://x.com/KylieUncovered/status/2115343547239202985
+2026-10-28 08:30,profile,@KylieUncovered lost blue check (verified_type blue → none),https://x.com/KylieUncovered
+2026-10-28 08:28,profile,@Conviasa followers: 1823 → 1822,https://x.com/Conviasa
+2026-10-28 08:28,profile,@Conviasa tweets: 1693 → 1703,https://x.com/Conviasa
+2026-10-28 08:28,profile,@SeoSamantha following: 2798 → 2797,https://x.com/SeoSamantha
+2026-10-28 08:28,profile,@SeoSamantha tweets: 8786 → 8798,https://x.com/SeoSamantha
+2026-10-28 08:28,profile,@KylieUncovered followers: 1347 → 1345,https://x.com/KylieUncovered
+2026-10-28 08:28,profile,@KylieUncovered tweets: 1064 → 1068,https://x.com/KylieUncovered
+2026-10-28 08:28,profile,@Jaydayritt followers: 139 → 138,https://x.com/Jaydayritt
+2026-10-28 08:28,profile,@Jaydayritt following: 725 → 726,https://x.com/Jaydayritt
+2026-10-28 08:28,profile,@punk8739 followers: 26306 → 26315,https://x.com/punk8739
+2026-10-28 08:28,profile,@punk8739 following: 47 → 292,https://x.com/punk8739
+2026-10-28 08:28,profile,@punk8739 tweets: 3133 → 3132,https://x.com/punk8739
+2026-10-28 08:28,profile,@PetersonCouto followers: 3337 → 3336,https://x.com/PetersonCouto
+2026-10-28 08:28,profile,@DobosDorina4 followers: 1294 → 1415,https://x.com/DobosDorina4
+2026-10-28 08:28,profile,@filipe_eh followers: 1747 → 1744,https://x.com/filipe_eh
+2026-10-28 08:28,profile,@filipe_eh following: 1019 → 1018,https://x.com/filipe_eh
+2026-10-28 08:28,profile,@sayozain followers: 2551 → 2550,https://x.com/sayozain
+2026-10-28 08:28,infra,New dns: petrilabs.app (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) — daily DoH record of 27 Oct Njalla move (already reported),https://crt.sh/?q=petrilabs.app
+2026-10-28 08:28,infra,New dns: hyperball.one (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) — daily DoH record of 27 Oct Njalla move (already reported),https://crt.sh/?q=hyperball.one
+2026-10-28 08:28,infra,New dns: invitehandler.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) — daily DoH record of 27 Oct Njalla move (already reported),https://crt.sh/?q=invitehandler.com
+2026-10-28 08:28,infra,New dns: whitelistportal.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) — daily DoH record of 27 Oct Njalla move (already reported),https://crt.sh/?q=whitelistportal.com
+2026-10-28 08:31,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-28 08:31,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-28 08:31,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-28 08:31,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-10-28 08:31,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-28 08:31,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-28 08:31,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-28 08:31,calendly,Calendly link status changed 404/http error -> ERR/<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur: https://calendly.com/d/d336-3mq-q2z,https://calendly.com/d/d336-3mq-q2z
+2026-10-28 08:31,calendly_error,calendly_watch: 1 link checks failed,
