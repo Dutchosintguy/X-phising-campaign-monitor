@@ -986,3 +986,21 @@ time,type,details,link
 2026-10-29 06:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-10-29 06:26,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-10-29 06:26,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-29 08:20,profile,@Conviasa followers: 1822 → 1825,https://x.com/Conviasa
+2026-10-29 08:20,profile,@SeoSamantha followers: 2200 → 2201,https://x.com/SeoSamantha
+2026-10-29 08:20,profile,@KylieUncovered followers: 1345 → 1346,https://x.com/KylieUncovered
+2026-10-29 08:20,profile,@KylieUncovered tweets: 1068 → 1073,https://x.com/KylieUncovered
+2026-10-29 08:20,profile,@punk8739 followers: 26315 → 26313,https://x.com/punk8739
+2026-10-29 08:20,profile,@punk8739 following: 292 → 338,https://x.com/punk8739
+2026-10-29 08:20,profile,@punk8739 tweets: 3132 → 3137,https://x.com/punk8739
+2026-10-29 08:20,profile,@nam_isay following: 2767 → 2766,https://x.com/nam_isay
+2026-10-29 08:20,profile,@DobosDorina4 followers: 1415 → 1413,https://x.com/DobosDorina4
+2026-10-29 08:20,profile,@filipe_eh followers: 1744 → 1743,https://x.com/filipe_eh
+2026-10-29 08:20,profile,@sayozain tweets: 72613 → 72623,https://x.com/sayozain
+2026-10-29 08:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-29 08:23,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-29 08:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-29 08:23,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-29 08:23,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-29 08:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-29 08:23,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
