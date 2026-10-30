@@ -1,30 +1,72 @@
 {
- "updated": "2026-10-30 16:26",
+ "updated": "2026-10-30 18:26",
  "timezone": "Europe/Amsterdam",
  "alerts": [
   {
-   "time": "2026-10-30 16:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-30 16:26",
+   "time": "2026-10-30 18:26",
    "type": "infra",
    "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
    "link": "https://whitelistportal.com/login"
   },
   {
-   "time": "2026-10-30 16:26",
+   "time": "2026-10-30 18:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-30 18:26",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-30 18:26",
+   "type": "activity",
+   "details": "@sayozain (suspected fake TechCrunch \"zay\") 1 non-lure TechCrunch link-share post 17:11Z (persona upkeep); 0 public lures",
+   "link": "https://x.com/sayozain/status/2116216357633368324"
+  },
+  {
+   "time": "2026-10-30 18:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-30 18:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-30 18:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 18:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-30 16:26",
    "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-30 16:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-30 16:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-30 16:26",
@@ -35,14 +77,20 @@
   {
    "time": "2026-10-30 16:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-30 16:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-30 16:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-30 14:27",
@@ -71,14 +119,14 @@
   {
    "time": "2026-10-30 14:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-30 14:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-30 14:27",
@@ -89,8 +137,44 @@
   {
    "time": "2026-10-30 12:26",
    "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 12:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 12:26",
@@ -99,40 +183,10 @@
    "link": "https://x.com/sayozain/status/2116105745574003101"
   },
   {
-   "time": "2026-10-30 12:26",
+   "time": "2026-10-30 10:28",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-30 12:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-30 12:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-30 12:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-30 12:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-30 12:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-30 10:28",
@@ -163,12 +217,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-30 10:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 10:27",
@@ -179,26 +227,8 @@
   {
    "time": "2026-10-30 10:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-30 10:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-30 10:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-30 10:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-30 10:26",
@@ -209,14 +239,32 @@
   {
    "time": "2026-10-30 10:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-30 10:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 10:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-30 10:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-30 10:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 10:24",
@@ -227,18 +275,6 @@
   {
    "time": "2026-10-30 08:31",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-30 08:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-30 08:31",
-   "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
@@ -249,16 +285,28 @@
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-30 08:30",
+   "time": "2026-10-30 08:31",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-30 08:30",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-30 08:30",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-30 08:30",
@@ -281,8 +329,8 @@
   {
    "time": "2026-10-30 08:29",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-30 08:29",
@@ -293,14 +341,14 @@
   {
    "time": "2026-10-30 08:29",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 08:29",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-30 08:29",
@@ -319,42 +367,42 @@
    "type": "infra",
    "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
    "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-30 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-30 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-30 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-30 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-30 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-30 08:29",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-30 08:29",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-30 08:29",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-30 08:29",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 08:29",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-30 08:29",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-30 08:29",
@@ -383,8 +431,8 @@
   {
    "time": "2026-10-30 08:26",
    "type": "profile",
-   "details": "@nam_isay followers: 1695 \u2192 1696",
-   "link": "https://x.com/nam_isay"
+   "details": "@PetersonCouto status: active \u2192 suspended",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-30 08:26",
@@ -407,8 +455,14 @@
   {
    "time": "2026-10-30 08:26",
    "type": "profile",
-   "details": "@PetersonCouto status: active \u2192 suspended",
-   "link": "https://x.com/PetersonCouto"
+   "details": "@DobosDorina4 followers: 1413 \u2192 1208",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-30 08:26",
+   "type": "profile",
+   "details": "@nam_isay followers: 1695 \u2192 1696",
+   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-30 08:26",
@@ -425,8 +479,8 @@
   {
    "time": "2026-10-30 08:26",
    "type": "profile",
-   "details": "@DobosDorina4 followers: 1413 \u2192 1208",
-   "link": "https://x.com/DobosDorina4"
+   "details": "@nam_isay following: 2766 \u2192 2769",
+   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-30 08:26",
@@ -453,22 +507,16 @@
    "link": "https://x.com/sayozain"
   },
   {
-   "time": "2026-10-30 08:26",
-   "type": "profile",
-   "details": "@nam_isay following: 2766 \u2192 2769",
-   "link": "https://x.com/nam_isay"
+   "time": "2026-10-30 06:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 06:25",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-30 06:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-30 06:25",
@@ -503,14 +551,14 @@
   {
    "time": "2026-10-30 04:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-30 04:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-30 04:26",
@@ -583,18 +631,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
    "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-29 22:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-29 22:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-29 22:19",
@@ -605,8 +641,20 @@
   {
    "time": "2026-10-29 22:19",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-29 22:19",
+   "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-29 22:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-29 22:19",
@@ -682,12 +730,6 @@
   },
   {
    "time": "2026-10-29 18:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-29 18:28",
    "type": "activity",
    "details": "@sayozain (suspected fake TechCrunch \"zay\") 5 non-lure TechCrunch link-share posts 15:27-16:46Z (persona upkeep); 0 public lures",
    "link": "https://x.com/sayozain/status/2115847760868200887"
@@ -713,14 +755,14 @@
   {
    "time": "2026-10-29 18:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-29 18:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-29 18:28",
@@ -735,10 +777,10 @@
    "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-29 16:25",
-   "type": "activity",
-   "details": "@PetersonCouto 1 Reuters-persona 'write about \u2026 and feature you in an article' lure 13:23Z \u2192 @micmakarov (Spacesheep, ex-Anthropic)",
-   "link": "https://x.com/PetersonCouto/status/2115796736408973577"
+   "time": "2026-10-29 18:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-29 16:25",
@@ -747,16 +789,34 @@
    "link": "https://x.com/nam_isay/status/2115825712938766585"
   },
   {
-   "time": "2026-10-29 16:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "time": "2026-10-29 16:25",
+   "type": "activity",
+   "details": "@PetersonCouto 1 Reuters-persona 'write about \u2026 and feature you in an article' lure 13:23Z \u2192 @micmakarov (Spacesheep, ex-Anthropic)",
+   "link": "https://x.com/PetersonCouto/status/2115796736408973577"
   },
   {
    "time": "2026-10-29 16:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-29 16:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-29 16:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-29 16:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-29 16:24",
@@ -767,26 +827,14 @@
   {
    "time": "2026-10-29 16:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-29 16:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-29 16:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-29 16:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-29 14:24",
@@ -803,6 +851,12 @@
   {
    "time": "2026-10-29 14:23",
    "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-29 14:23",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -815,20 +869,14 @@
   {
    "time": "2026-10-29 14:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-29 14:23",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-29 14:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-29 14:23",
@@ -839,20 +887,14 @@
   {
    "time": "2026-10-29 14:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-29 14:22",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-29 14:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-29 14:22",
@@ -861,6 +903,12 @@
    "link": "https://cal-apis.com/login"
   },
   {
+   "time": "2026-10-29 14:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
    "time": "2026-10-29 14:21",
    "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
@@ -886,24 +934,6 @@
   },
   {
    "time": "2026-10-29 14:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-29 12:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-29 12:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-29 12:22",
    "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
@@ -917,14 +947,20 @@
   {
    "time": "2026-10-29 12:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-29 12:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-29 12:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-29 12:22",
@@ -933,25 +969,13 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-29 10:25",
+   "time": "2026-10-29 12:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-29 10:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-29 10:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-29 10:25",
+   "time": "2026-10-29 12:22",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
@@ -961,18 +985,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-29 10:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-29 10:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-29 10:25",
@@ -981,34 +993,40 @@
    "link": "https://x.com/sayozain/status/2115706642293784790"
   },
   {
-   "time": "2026-10-29 08:23",
+   "time": "2026-10-29 10:25",
    "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-29 08:23",
+   "time": "2026-10-29 10:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-29 08:23",
+   "time": "2026-10-29 10:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
-   "time": "2026-10-29 08:23",
+   "time": "2026-10-29 10:25",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-29 08:23",
+   "time": "2026-10-29 10:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-29 10:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-29 08:23",
@@ -1023,15 +1041,39 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-29 08:20",
-   "type": "profile",
-   "details": "@SeoSamantha followers: 2200 \u2192 2201",
-   "link": "https://x.com/SeoSamantha"
+   "time": "2026-10-29 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-29 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-29 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-29 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-29 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-29 08:20",
    "type": "profile",
-   "details": "@punk8739 followers: 26315 \u2192 26313",
+   "details": "@punk8739 following: 292 \u2192 338",
    "link": "https://x.com/punk8739"
   },
   {
@@ -1039,6 +1081,12 @@
    "type": "profile",
    "details": "@Conviasa followers: 1822 \u2192 1825",
    "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-29 08:20",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2200 \u2192 2201",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-29 08:20",
@@ -1055,20 +1103,20 @@
   {
    "time": "2026-10-29 08:20",
    "type": "profile",
-   "details": "@punk8739 following: 292 \u2192 338",
+   "details": "@punk8739 followers: 26315 \u2192 26313",
    "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-29 08:20",
+   "type": "profile",
+   "details": "@sayozain tweets: 72613 \u2192 72623",
+   "link": "https://x.com/sayozain"
   },
   {
    "time": "2026-10-29 08:20",
    "type": "profile",
    "details": "@punk8739 tweets: 3132 \u2192 3137",
    "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-29 08:20",
-   "type": "profile",
-   "details": "@nam_isay following: 2767 \u2192 2766",
-   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-29 08:20",
@@ -1085,8 +1133,8 @@
   {
    "time": "2026-10-29 08:20",
    "type": "profile",
-   "details": "@sayozain tweets: 72613 \u2192 72623",
-   "link": "https://x.com/sayozain"
+   "details": "@nam_isay following: 2767 \u2192 2766",
+   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-29 06:27",
@@ -1097,32 +1145,14 @@
   {
    "time": "2026-10-29 06:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-29 06:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-29 06:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-29 06:26",
-   "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-29 06:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-29 06:26",
@@ -1133,20 +1163,26 @@
   {
    "time": "2026-10-29 06:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-29 04:28",
+   "time": "2026-10-29 06:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
-   "time": "2026-10-29 04:28",
+   "time": "2026-10-29 06:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-29 06:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-29 04:28",
@@ -1163,6 +1199,24 @@
   {
    "time": "2026-10-29 04:28",
    "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-29 04:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-29 04:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-29 04:28",
+   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -1173,7 +1227,19 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-29 04:28",
+   "time": "2026-10-29 02:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-29 02:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-29 02:19",
    "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
@@ -1181,8 +1247,8 @@
   {
    "time": "2026-10-29 02:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-29 02:19",
@@ -1199,23 +1265,17 @@
   {
    "time": "2026-10-29 02:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-29 02:19",
+   "time": "2026-10-29 00:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-29 02:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-29 02:19",
+   "time": "2026-10-29 00:24",
    "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
@@ -1223,8 +1283,14 @@
   {
    "time": "2026-10-29 00:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-29 00:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-29 00:24",
@@ -1241,44 +1307,32 @@
   {
    "time": "2026-10-29 00:24",
    "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-28 20:23",
+   "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-29 00:24",
+   "time": "2026-10-28 20:23",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-29 00:24",
+   "time": "2026-10-28 20:23",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-29 00:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 20:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
    "time": "2026-10-28 20:23",
    "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 20:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 20:23",
@@ -1289,29 +1343,11 @@
   {
    "time": "2026-10-28 20:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 20:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-28 20:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-28 18:20",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-28 18:20",
    "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
@@ -1319,20 +1355,14 @@
   {
    "time": "2026-10-28 18:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-28 18:20",
-   "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-28 18:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-28 18:20",
@@ -1343,8 +1373,26 @@
   {
    "time": "2026-10-28 18:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-28 18:20",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-28 18:20",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-28 18:20",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-28 16:24",
@@ -1361,14 +1409,20 @@
   {
    "time": "2026-10-28 16:24",
    "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-28 16:24",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 16:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-28 16:24",
@@ -1383,40 +1437,16 @@
    "link": "https://invitehandler.com/login"
   },
   {
-   "time": "2026-10-28 16:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 14:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-28 14:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 14:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-28 14:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
    "time": "2026-10-28 14:31",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-28 14:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-28 14:31",
@@ -1426,6 +1456,54 @@
   },
   {
    "time": "2026-10-28 14:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-28 14:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-28 14:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-28 14:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-28 12:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-28 12:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-28 12:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-28 12:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-28 12:28",
    "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
@@ -1441,36 +1519,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-28 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-28 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-28 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-28 10:22",
@@ -1481,20 +1529,14 @@
   {
    "time": "2026-10-28 10:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-28 10:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-28 10:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-28 10:19",
@@ -1511,44 +1553,20 @@
   {
    "time": "2026-10-28 10:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-28 10:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-28 08:32",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-28 08:32",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-28 08:32",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 08:32",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-28 08:32",
-   "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 10:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 08:32",
@@ -1559,50 +1577,44 @@
   {
    "time": "2026-10-28 08:32",
    "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 08:32",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-28 08:31",
+   "time": "2026-10-28 08:32",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
-   "time": "2026-10-28 08:31",
+   "time": "2026-10-28 08:32",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-28 08:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-28 08:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 08:31",
+   "time": "2026-10-28 08:32",
    "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
   },
   {
-   "time": "2026-10-28 08:31",
+   "time": "2026-10-28 08:32",
    "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-28 08:31",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "type": "status_check_failed",
+   "details": "calendly_watch: 1 link checks failed",
+   "link": ""
   },
   {
    "time": "2026-10-28 08:31",
@@ -1612,15 +1624,45 @@
   },
   {
    "time": "2026-10-28 08:31",
-   "type": "status_check_failed",
-   "details": "calendly_watch: 1 link checks failed",
-   "link": ""
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
-   "time": "2026-10-28 08:30",
-   "type": "profile",
-   "details": "@KylieUncovered lost blue check (verified_type blue \u2192 none)",
-   "link": "https://x.com/KylieUncovered"
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-28 08:31",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-28 08:30",
@@ -1629,57 +1671,9 @@
    "link": "https://x.com/KylieUncovered/status/2115343547239202985"
   },
   {
-   "time": "2026-10-28 08:28",
-   "type": "infra",
-   "details": "New dns: invitehandler.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
-   "link": "https://crt.sh/?q=invitehandler.com"
-  },
-  {
-   "time": "2026-10-28 08:28",
+   "time": "2026-10-28 08:30",
    "type": "profile",
-   "details": "@Jaydayritt following: 725 \u2192 726",
-   "link": "https://x.com/Jaydayritt"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "infra",
-   "details": "New dns: hyperball.one (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
-   "link": "https://crt.sh/?q=hyperball.one"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@Conviasa followers: 1823 \u2192 1822",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@Conviasa tweets: 1693 \u2192 1703",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@SeoSamantha following: 2798 \u2192 2797",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@SeoSamantha tweets: 8786 \u2192 8798",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@KylieUncovered followers: 1347 \u2192 1345",
-   "link": "https://x.com/KylieUncovered"
-  },
-  {
-   "time": "2026-10-28 08:28",
-   "type": "profile",
-   "details": "@KylieUncovered tweets: 1064 \u2192 1068",
+   "details": "@KylieUncovered lost blue check (verified_type blue \u2192 none)",
    "link": "https://x.com/KylieUncovered"
   },
   {
@@ -1690,15 +1684,21 @@
   },
   {
    "time": "2026-10-28 08:28",
-   "type": "infra",
-   "details": "New dns: whitelistportal.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
-   "link": "https://crt.sh/?q=whitelistportal.com"
+   "type": "profile",
+   "details": "@SeoSamantha tweets: 8786 \u2192 8798",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-28 08:28",
    "type": "profile",
-   "details": "@punk8739 followers: 26306 \u2192 26315",
-   "link": "https://x.com/punk8739"
+   "details": "@Jaydayritt following: 725 \u2192 726",
+   "link": "https://x.com/Jaydayritt"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@KylieUncovered tweets: 1064 \u2192 1068",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-28 08:28",
@@ -1709,14 +1709,38 @@
   {
    "time": "2026-10-28 08:28",
    "type": "profile",
-   "details": "@punk8739 tweets: 3133 \u2192 3132",
+   "details": "@SeoSamantha following: 2798 \u2192 2797",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1693 \u2192 1703",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@Conviasa followers: 1823 \u2192 1822",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@punk8739 followers: 26306 \u2192 26315",
    "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-28 08:28",
    "type": "profile",
-   "details": "@PetersonCouto followers: 3337 \u2192 3336",
-   "link": "https://x.com/PetersonCouto"
+   "details": "@KylieUncovered followers: 1347 \u2192 1345",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@punk8739 tweets: 3133 \u2192 3132",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-28 08:28",
@@ -1729,6 +1753,12 @@
    "type": "profile",
    "details": "@filipe_eh followers: 1747 \u2192 1744",
    "link": "https://x.com/filipe_eh"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "profile",
+   "details": "@PetersonCouto followers: 3337 \u2192 3336",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-28 08:28",
@@ -1749,10 +1779,28 @@
    "link": "https://crt.sh/?q=petrilabs.app"
   },
   {
+   "time": "2026-10-28 08:28",
+   "type": "infra",
+   "details": "New dns: hyperball.one (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
+   "link": "https://crt.sh/?q=hyperball.one"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "infra",
+   "details": "New dns: invitehandler.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
+   "link": "https://crt.sh/?q=invitehandler.com"
+  },
+  {
+   "time": "2026-10-28 08:28",
+   "type": "infra",
+   "details": "New dns: whitelistportal.com (A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.) \u2014 daily DoH record of 27 Oct Njalla move (already reported)",
+   "link": "https://crt.sh/?q=whitelistportal.com"
+  },
+  {
    "time": "2026-10-28 06:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 06:27",
@@ -1769,8 +1817,8 @@
   {
    "time": "2026-10-28 06:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-28 06:27",
@@ -1781,32 +1829,14 @@
   {
    "time": "2026-10-28 06:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
-  },
-  {
-   "time": "2026-10-28 06:27",
-   "type": "infra",
    "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
    "link": "https://whitelistportal.com/login"
   },
   {
-   "time": "2026-10-28 04:24",
+   "time": "2026-10-28 06:27",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 04:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 04:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-28 04:24",
@@ -1817,20 +1847,38 @@
   {
    "time": "2026-10-28 04:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
-  },
-  {
-   "time": "2026-10-28 04:24",
-   "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-28 04:24",
    "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-28 04:24",
+   "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-28 04:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-28 04:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 04:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-28 02:25",
@@ -1841,20 +1889,38 @@
   {
    "time": "2026-10-28 02:23",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-28 02:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 02:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-28 02:23",
+   "type": "infra",
    "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
    "link": "https://petrilabs.app/login"
   },
   {
    "time": "2026-10-28 02:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
   },
   {
    "time": "2026-10-28 02:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-28 02:23",
@@ -1863,36 +1929,6 @@
    "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-28 02:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-28 02:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-28 02:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-28 00:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-28 00:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
-   "link": "https://invitehandler.com/login"
-  },
-  {
    "time": "2026-10-28 00:26",
    "type": "infra",
    "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
@@ -1901,8 +1937,8 @@
   {
    "time": "2026-10-28 00:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-28 00:26",
@@ -1913,8 +1949,20 @@
   {
    "time": "2026-10-28 00:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-28 00:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
+   "link": "https://invitehandler.com/login"
+  },
+  {
+   "time": "2026-10-28 00:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-28 00:26",
@@ -1931,26 +1979,8 @@
   {
    "time": "2026-10-27 22:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-27 22:23",
-   "type": "infra",
    "details": "Twitta page gone/changed on invitehandler.com: HTTP ERR title=",
    "link": "https://invitehandler.com/login"
-  },
-  {
-   "time": "2026-10-27 22:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-27 22:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
-   "link": "https://whitelistportal.com/login"
   },
   {
    "time": "2026-10-27 22:23",
@@ -1961,14 +1991,32 @@
   {
    "time": "2026-10-27 22:23",
    "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-27 22:23",
+   "type": "infra",
    "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
    "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-27 22:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-27 22:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on whitelistportal.com: HTTP ERR title=",
+   "link": "https://whitelistportal.com/login"
+  },
+  {
+   "time": "2026-10-27 22:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-27 20:30",
@@ -1979,20 +2027,8 @@
   {
    "time": "2026-10-27 20:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
-  },
-  {
-   "time": "2026-10-27 20:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-27 20:24",
-   "type": "infra",
-   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
-   "link": "https://petrilabs.app/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-27 20:24",
@@ -2009,8 +2045,20 @@
   {
    "time": "2026-10-27 20:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
+  },
+  {
+   "time": "2026-10-27 20:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on petrilabs.app: HTTP ERR title=",
+   "link": "https://petrilabs.app/login"
+  },
+  {
+   "time": "2026-10-27 20:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 20:24",
@@ -2027,8 +2075,8 @@
   {
    "time": "2026-10-27 20:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
+   "link": "https://hyperball.one/login"
   },
   {
    "time": "2026-10-27 20:22",
@@ -2039,8 +2087,8 @@
   {
    "time": "2026-10-27 20:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on hyperball.one: HTTP ERR title=",
-   "link": "https://hyperball.one/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 20:22",
@@ -2111,23 +2159,17 @@
   {
    "time": "2026-10-27 14:33",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-27 14:33",
+   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-27 14:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-27 14:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-27 12:21",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
@@ -2143,6 +2185,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-27 12:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 10:18",
@@ -2171,14 +2219,14 @@
   {
    "time": "2026-10-27 08:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 08:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-27 08:24",
@@ -2213,20 +2261,8 @@
   {
    "time": "2026-10-27 08:24",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8781 \u2192 8786",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-27 08:24",
-   "type": "profile",
    "details": "@KylieUncovered followers: 1348 \u2192 1347",
    "link": "https://x.com/KylieUncovered"
-  },
-  {
-   "time": "2026-10-27 08:24",
-   "type": "profile",
-   "details": "@punk8739 followers: 26310 \u2192 26306",
-   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-27 08:24",
@@ -2237,19 +2273,37 @@
   {
    "time": "2026-10-27 08:24",
    "type": "profile",
+   "details": "@punk8739 followers: 26310 \u2192 26306",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-27 08:24",
+   "type": "profile",
+   "details": "@SeoSamantha tweets: 8781 \u2192 8786",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-27 08:24",
+   "type": "profile",
    "details": "@punk8739 tweets: 3134 \u2192 3133",
    "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-27 08:24",
    "type": "profile",
-   "details": "@PetersonCouto followers: 3336 \u2192 3337",
-   "link": "https://x.com/PetersonCouto"
+   "details": "@sayozain tweets: 72599 \u2192 72613",
+   "link": "https://x.com/sayozain"
   },
   {
    "time": "2026-10-27 08:24",
    "type": "profile",
    "details": "@PetersonCouto following: 4436 \u2192 4441",
+   "link": "https://x.com/PetersonCouto"
+  },
+  {
+   "time": "2026-10-27 08:24",
+   "type": "profile",
+   "details": "@PetersonCouto followers: 3336 \u2192 3337",
    "link": "https://x.com/PetersonCouto"
   },
   {
@@ -2271,16 +2325,16 @@
    "link": "https://x.com/DobosDorina4"
   },
   {
-   "time": "2026-10-27 08:24",
-   "type": "profile",
-   "details": "@sayozain tweets: 72599 \u2192 72613",
-   "link": "https://x.com/sayozain"
-  },
-  {
    "time": "2026-10-27 06:22",
    "type": "activity",
    "details": "@Conviasa 2 Bloomberg-persona lures 06:07\u201306:10 after ~2 days quiet, reworded 'I\u2019m working on an article and your insights would be valuable / would love your insight \u2026 open to a quick chat? Feel free to DM me' (\u2192 @jessiicawu (Altos VC investor), @joshsum_ (Morphic founder)); @PetersonCouto 1 'feature your team in an article' lure 06:00 (\u2192 @psipbc, Physical Superintelligence)",
    "link": "https://x.com/Conviasa/status/2114947686369837246"
+  },
+  {
+   "time": "2026-10-27 06:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 06:21",
@@ -2293,12 +2347,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-27 06:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 04:26",
@@ -2345,26 +2393,20 @@
   {
    "time": "2026-10-27 00:29",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-27 00:29",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-27 00:28",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-27 00:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-27 00:27",
@@ -2383,6 +2425,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-27 00:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-26 22:26",
@@ -2411,12 +2459,6 @@
   {
    "time": "2026-10-26 20:21",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-26 20:21",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -2425,30 +2467,36 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-26 20:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-26 18:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-26 18:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-26 18:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-26 18:28",
    "type": "activity",
    "details": "@sayozain (suspected fake TechCrunch \"zay\") 4 non-lure TechCrunch link-share posts 15:40-17:16Z (persona upkeep); 0 public lures",
    "link": "https://x.com/sayozain/status/2114768157260824686"
-  },
-  {
-   "time": "2026-10-26 18:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-26 18:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-26 18:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-26 16:27",
@@ -2459,8 +2507,8 @@
   {
    "time": "2026-10-26 16:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-26 16:26",
@@ -2471,6 +2519,18 @@
   {
    "time": "2026-10-26 16:26",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-26 14:33",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-26 14:33",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -2479,18 +2539,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-26 14:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-26 14:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-26 12:21",
@@ -2531,14 +2579,14 @@
   {
    "time": "2026-10-26 08:33",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-26 08:33",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-26 08:33",
@@ -2561,20 +2609,20 @@
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
+   "details": "@KylieUncovered followers: 1347 \u2192 1348",
+   "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-26 08:28",
+   "type": "profile",
    "details": "@KylieUncovered following: 1228 \u2192 1229",
    "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
-   "details": "@SeoSamantha following: 2797 \u2192 2798",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-26 08:28",
-   "type": "profile",
-   "details": "@KylieUncovered followers: 1347 \u2192 1348",
-   "link": "https://x.com/KylieUncovered"
+   "details": "@Conviasa followers: 1824 \u2192 1826",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-26 08:28",
@@ -2585,13 +2633,13 @@
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
-   "details": "@Conviasa following: 190 \u2192 191",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha following: 2797 \u2192 2798",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
-   "details": "@Conviasa followers: 1824 \u2192 1826",
+   "details": "@Conviasa following: 190 \u2192 191",
    "link": "https://x.com/Conviasa"
   },
   {
@@ -2603,13 +2651,19 @@
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
-   "details": "@DobosDorina4 followers: 1578 \u2192 1555",
-   "link": "https://x.com/DobosDorina4"
+   "details": "@PetersonCouto followers: 3334 \u2192 3336",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
    "details": "@punk8739 following: 758 \u2192 48",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-26 08:28",
+   "type": "profile",
+   "details": "@punk8739 status: active \u2192 renamed to @punk9962",
    "link": "https://x.com/punk8739"
   },
   {
@@ -2627,22 +2681,16 @@
   {
    "time": "2026-10-26 08:28",
    "type": "profile",
+   "details": "@DobosDorina4 followers: 1578 \u2192 1555",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-26 08:28",
+   "type": "profile",
    "details": "@punk8739 tweets: 3107 \u2192 3134",
    "link": "https://x.com/punk8739"
   },
   {
-   "time": "2026-10-26 08:28",
-   "type": "profile",
-   "details": "@PetersonCouto followers: 3334 \u2192 3336",
-   "link": "https://x.com/PetersonCouto"
-  },
-  {
-   "time": "2026-10-26 08:28",
-   "type": "profile",
-   "details": "@punk8739 status: active \u2192 renamed to @punk9962",
-   "link": "https://x.com/punk8739"
-  },
-  {
    "time": "2026-10-26 08:07",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
@@ -2681,12 +2729,6 @@
   {
    "time": "2026-10-26 04:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-26 04:24",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -2697,6 +2739,18 @@
    "link": "https://asteriapanls.com/login"
   },
   {
+   "time": "2026-10-26 04:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-26 02:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
    "time": "2026-10-26 02:28",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
@@ -2709,7 +2763,13 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-26 02:28",
+   "time": "2026-10-26 00:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-26 00:21",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
@@ -2719,24 +2779,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-26 00:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-26 00:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-25 22:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 22:22",
@@ -2749,6 +2791,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-25 22:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 20:21",
@@ -2759,6 +2807,12 @@
   {
    "time": "2026-10-25 20:20",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-25 20:20",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -2769,10 +2823,10 @@
    "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-25 20:20",
+   "time": "2026-10-25 18:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-25 18:23",
@@ -2785,12 +2839,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-25 18:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-25 16:24",
@@ -2807,32 +2855,32 @@
   {
    "time": "2026-10-25 16:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 16:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-25 14:26",
-   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-25 14:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 14:26",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-25 14:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-25 14:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 12:20",
@@ -2855,12 +2903,6 @@
   {
    "time": "2026-10-25 10:18",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-25 10:18",
-   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
@@ -2871,10 +2913,10 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-25 08:23",
+   "time": "2026-10-25 10:18",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-25 08:23",
@@ -2887,6 +2929,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-25 08:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-25 08:21",
@@ -2903,26 +2951,8 @@
   {
    "time": "2026-10-25 08:20",
    "type": "profile",
-   "details": "@Conviasa following: 191 \u2192 190",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-25 08:20",
-   "type": "profile",
-   "details": "@SeoSamantha following: 2798 \u2192 2797",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-25 08:20",
-   "type": "profile",
-   "details": "@Conviasa tweets: 1679 \u2192 1691",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-25 08:20",
-   "type": "profile",
-   "details": "@punk8739 followers: 26313 \u2192 26314",
-   "link": "https://x.com/punk8739"
+   "details": "@KylieUncovered following: 1229 \u2192 1228",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-25 08:20",
@@ -2939,8 +2969,20 @@
   {
    "time": "2026-10-25 08:20",
    "type": "profile",
-   "details": "@KylieUncovered following: 1229 \u2192 1228",
-   "link": "https://x.com/KylieUncovered"
+   "details": "@Conviasa following: 191 \u2192 190",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-25 08:20",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1679 \u2192 1691",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-25 08:20",
+   "type": "profile",
+   "details": "@SeoSamantha following: 2798 \u2192 2797",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-25 08:20",
@@ -2951,13 +2993,25 @@
   {
    "time": "2026-10-25 08:20",
    "type": "profile",
-   "details": "@punk8739 following: 760 \u2192 758",
-   "link": "https://x.com/punk8739"
+   "details": "@nam_isay followers: 1692 \u2192 1694",
+   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-25 08:20",
    "type": "profile",
    "details": "@punk8739 bio now recorded with full text \"General Partner @BeaconLayer; investing in $ETH, healthcare; alum of endeca, HST, MIT.\" (earlier snapshots likely lost \"$ETH,\" to shell expansion \u2014 data correction, not a confirmed change)",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-25 08:20",
+   "type": "profile",
+   "details": "@punk8739 followers: 26313 \u2192 26314",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-25 08:20",
+   "type": "profile",
+   "details": "@punk8739 following: 760 \u2192 758",
    "link": "https://x.com/punk8739"
   },
   {
@@ -2971,12 +3025,6 @@
    "type": "profile",
    "details": "@PetersonCouto following: 4431 \u2192 4430",
    "link": "https://x.com/PetersonCouto"
-  },
-  {
-   "time": "2026-10-25 08:20",
-   "type": "profile",
-   "details": "@nam_isay followers: 1692 \u2192 1694",
-   "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-25 08:20",
@@ -3041,8 +3089,8 @@
   {
    "time": "2026-10-25 02:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-25 02:22",
@@ -3053,8 +3101,8 @@
   {
    "time": "2026-10-25 02:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-25 00:25",
@@ -3089,6 +3137,12 @@
   {
    "time": "2026-10-24 22:27",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-24 22:27",
+   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
@@ -3099,10 +3153,10 @@
    "link": "https://login-api.com/login"
   },
   {
-   "time": "2026-10-24 22:27",
+   "time": "2026-10-24 20:20",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-24 20:20",
@@ -3115,12 +3169,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-24 20:20",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-24 18:19",
@@ -3143,12 +3191,6 @@
   {
    "time": "2026-10-24 16:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-24 16:19",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -3159,6 +3201,18 @@
    "link": "https://asteriapanls.com/login"
   },
   {
+   "time": "2026-10-24 16:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-24 14:18",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
    "time": "2026-10-24 14:18",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
@@ -3171,7 +3225,7 @@
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-24 14:18",
+   "time": "2026-10-24 12:22",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
@@ -3187,12 +3241,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-24 12:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-24 10:19",
@@ -3211,24 +3259,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-24 08:30",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-24 08:30",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-24 08:30",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-24 08:30",
@@ -3238,15 +3268,51 @@
   },
   {
    "time": "2026-10-24 08:30",
+   "type": "warning",
+   "details": "New public awareness post @zshjzls (Chinese): fake WIRED/OpenAI/Anthropic personas, Calendly \u2192 X OAuth apps CalendarBookings/Booking Pass; cites Peter Reinhardt (Segment) takeover",
+   "link": "https://x.com/zshjzls/status/2113556566162977156"
+  },
+  {
+   "time": "2026-10-24 08:30",
    "type": "profile",
    "details": "@DobosDorina4 (suspected, fake TechCrunch \"Phoenix\") lost blue check (blue\u2192none)",
    "link": "https://x.com/DobosDorina4"
   },
   {
    "time": "2026-10-24 08:30",
-   "type": "warning",
-   "details": "New public awareness post @zshjzls (Chinese): fake WIRED/OpenAI/Anthropic personas, Calendly \u2192 X OAuth apps CalendarBookings/Booking Pass; cites Peter Reinhardt (Segment) takeover",
-   "link": "https://x.com/zshjzls/status/2113556566162977156"
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-24 08:30",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-24 08:30",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@punk8739 followers: 26311 \u2192 26313",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1675 \u2192 1679",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@Futana6 status: active \u2192 suspended",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-24 08:27",
@@ -3263,38 +3329,8 @@
   {
    "time": "2026-10-24 08:27",
    "type": "profile",
-   "details": "@punk8739 followers: 26311 \u2192 26313",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
-   "details": "@Futana6 status: active \u2192 suspended",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
-   "details": "@Conviasa tweets: 1675 \u2192 1679",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
    "details": "@Jaydayritt bio: AI, Tech & Culture Journalist. Exploring the people, ideas & technology shaping what comes next. Currently @WIRED Previously @Bloomberg & @Reuter",
    "link": "https://x.com/Jaydayritt"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
-   "details": "@PetersonCouto followers: 3333 \u2192 3334",
-   "link": "https://x.com/PetersonCouto"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
-   "details": "@punk8739 following: 422 \u2192 760",
-   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-24 08:27",
@@ -3305,26 +3341,20 @@
   {
    "time": "2026-10-24 08:27",
    "type": "profile",
-   "details": "@punk8739 tweets: 3111 \u2192 3108",
+   "details": "@punk8739 following: 422 \u2192 760",
    "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-24 08:27",
    "type": "profile",
-   "details": "@DobosDorina4 following: 132 \u2192 134",
-   "link": "https://x.com/DobosDorina4"
+   "details": "@PetersonCouto followers: 3333 \u2192 3334",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-24 08:27",
    "type": "profile",
-   "details": "@DobosDorina4 followers: 1658 \u2192 1604",
-   "link": "https://x.com/DobosDorina4"
-  },
-  {
-   "time": "2026-10-24 08:27",
-   "type": "profile",
-   "details": "@DobosDorina4 tweets: 722 \u2192 721",
-   "link": "https://x.com/DobosDorina4"
+   "details": "@PetersonCouto following: 4417 \u2192 4431",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-24 08:27",
@@ -3335,8 +3365,32 @@
   {
    "time": "2026-10-24 08:27",
    "type": "profile",
-   "details": "@PetersonCouto following: 4417 \u2192 4431",
-   "link": "https://x.com/PetersonCouto"
+   "details": "@punk8739 tweets: 3111 \u2192 3108",
+   "link": "https://x.com/punk8739"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@DobosDorina4 followers: 1658 \u2192 1604",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@DobosDorina4 following: 132 \u2192 134",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-24 08:27",
+   "type": "profile",
+   "details": "@DobosDorina4 tweets: 722 \u2192 721",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-24 06:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-24 06:21",
@@ -3349,12 +3403,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-24 06:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-24 04:22",
@@ -3382,15 +3430,9 @@
   },
   {
    "time": "2026-10-24 02:28",
-   "type": "activity",
-   "details": "@PetersonCouto 5 Reuters-persona 'feature your team in an article' lures 23:47Z\u201300:12Z \u2192 @theoremlabs (re-targeted, also hit by Futana6 23 Oct), @squeekchain (re-targeted), @extendedapp (Extended perp DEX, 31k), @eToro (353k), @cyberfund (cyber\u2022Fund); small batch",
-   "link": "https://x.com/PetersonCouto/status/2113785664764526597"
-  },
-  {
-   "time": "2026-10-24 02:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-24 02:28",
@@ -3401,8 +3443,14 @@
   {
    "time": "2026-10-24 02:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-24 02:28",
+   "type": "activity",
+   "details": "@PetersonCouto 5 Reuters-persona 'feature your team in an article' lures 23:47Z\u201300:12Z \u2192 @theoremlabs (re-targeted, also hit by Futana6 23 Oct), @squeekchain (re-targeted), @extendedapp (Extended perp DEX, 31k), @eToro (353k), @cyberfund (cyber\u2022Fund); small batch",
+   "link": "https://x.com/PetersonCouto/status/2113785664764526597"
   },
   {
    "time": "2026-10-24 00:22",
@@ -3467,26 +3515,20 @@
   {
    "time": "2026-10-23 18:21",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-23 18:21",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-23 18:21",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-23 18:21",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-23 16:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-23 16:25",
@@ -3499,6 +3541,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-23 16:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-23 16:25",
@@ -3527,12 +3575,6 @@
   {
    "time": "2026-10-23 12:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-23 12:19",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -3541,6 +3583,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-23 12:19",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-23 10:24",
@@ -3551,12 +3599,6 @@
   {
    "time": "2026-10-23 10:23",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-23 10:23",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -3565,6 +3607,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-23 10:23",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-23 08:27",
@@ -3595,6 +3643,12 @@
    "type": "profile",
    "details": "@Conviasa tweets: 1672 \u2192 1675",
    "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-23 08:22",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2203 \u2192 2201",
+   "link": "https://x.com/SeoSamantha"
   },
   {
    "time": "2026-10-23 08:22",
@@ -3635,8 +3689,8 @@
   {
    "time": "2026-10-23 08:22",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2203 \u2192 2201",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@DobosDorina4 tweets: 720 \u2192 722",
+   "link": "https://x.com/DobosDorina4"
   },
   {
    "time": "2026-10-23 08:22",
@@ -3671,19 +3725,13 @@
   {
    "time": "2026-10-23 08:22",
    "type": "profile",
-   "details": "@DobosDorina4 following: 121 \u2192 132",
-   "link": "https://x.com/DobosDorina4"
-  },
-  {
-   "time": "2026-10-23 08:22",
-   "type": "profile",
-   "details": "@DobosDorina4 tweets: 720 \u2192 722",
-   "link": "https://x.com/DobosDorina4"
-  },
-  {
-   "time": "2026-10-23 08:22",
-   "type": "profile",
    "details": "@DobosDorina4 followers: 1726 \u2192 1658",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-23 08:22",
+   "type": "profile",
+   "details": "@DobosDorina4 following: 121 \u2192 132",
    "link": "https://x.com/DobosDorina4"
   },
   {
@@ -3773,6 +3821,12 @@
   {
    "time": "2026-10-23 00:27",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-23 00:27",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
   },
@@ -3781,12 +3835,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-23 00:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 22:27",
@@ -3797,12 +3845,6 @@
   {
    "time": "2026-10-22 22:24",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-22 22:24",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -3813,6 +3855,12 @@
    "link": "https://asteriapanls.com/login"
   },
   {
+   "time": "2026-10-22 22:24",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
    "time": "2026-10-22 20:27",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
@@ -3829,12 +3877,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-22 20:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 20:26",
@@ -3843,16 +3885,22 @@
    "link": "https://calendly.com/d/d3sm-ypg-s4w"
   },
   {
-   "time": "2026-10-22 20:25",
+   "time": "2026-10-22 20:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 20:25",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-22 20:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 403 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-22 18:22",
@@ -3881,14 +3929,20 @@
   {
    "time": "2026-10-22 16:30",
    "type": "activity",
-   "details": "@Futana6 1 'couldn't send a message' lure 14:23Z \u2192 @pollenrobotics (Pollen Robotics, Hugging Face robotics, 20.8k; new target)",
-   "link": "https://x.com/Futana6/status/2113275073704628708"
+   "details": "@punk8739 plain-retweet flood continuing: 58 posts 12Z\u201314:24Z (27/21/10 per hour, 0 non-RT); continuing behaviour",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-22 16:30",
    "type": "activity",
-   "details": "@punk8739 plain-retweet flood continuing: 58 posts 12Z\u201314:24Z (27/21/10 per hour, 0 non-RT); continuing behaviour",
-   "link": "https://x.com/punk8739"
+   "details": "@Futana6 1 'couldn't send a message' lure 14:23Z \u2192 @pollenrobotics (Pollen Robotics, Hugging Face robotics, 20.8k; new target)",
+   "link": "https://x.com/Futana6/status/2113275073704628708"
+  },
+  {
+   "time": "2026-10-22 16:27",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 16:27",
@@ -3901,18 +3955,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-22 16:27",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-22 16:26",
-   "type": "calendly_error",
-   "details": "calendly_watch: 1 link checks failed",
-   "link": ""
   },
   {
    "time": "2026-10-22 16:26",
@@ -3921,6 +3963,12 @@
    "link": "https://calendly.com/d/d3sm-ypg-s4w"
   },
   {
+   "time": "2026-10-22 16:26",
+   "type": "calendly_error",
+   "details": "calendly_watch: 1 link checks failed",
+   "link": ""
+  },
+  {
    "time": "2026-10-22 16:25",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
@@ -3929,14 +3977,14 @@
   {
    "time": "2026-10-22 16:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 16:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-22 14:30",
@@ -3977,6 +4025,12 @@
   {
    "time": "2026-10-22 12:21",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-22 12:21",
+   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -3985,18 +4039,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-22 12:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-22 10:33",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 10:33",
@@ -4009,6 +4051,12 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-22 10:33",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-22 08:30",
@@ -4043,32 +4091,14 @@
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@KylieUncovered followers: 1348 \u2192 1349",
-   "link": "https://x.com/KylieUncovered"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
-   "details": "@Futana6 tweets: 1251 \u2192 1263",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
-   "details": "@Futana6 following: 204 \u2192 215",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
    "details": "@punk8739 following: 45 \u2192 39",
    "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@SeoSamantha tweets: 8779 \u2192 8780",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Conviasa followers: 1828 \u2192 1826",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-22 08:25",
@@ -4079,8 +4109,26 @@
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@Conviasa followers: 1828 \u2192 1826",
-   "link": "https://x.com/Conviasa"
+   "details": "@SeoSamantha tweets: 8779 \u2192 8780",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@Futana6 following: 204 \u2192 215",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@Futana6 tweets: 1251 \u2192 1263",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@KylieUncovered followers: 1348 \u2192 1349",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-22 08:25",
@@ -4103,43 +4151,25 @@
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@PetersonCouto following: 4389 \u2192 4407",
-   "link": "https://x.com/PetersonCouto"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
-   "details": "@PetersonCouto tweets: 22465 \u2192 22486",
-   "link": "https://x.com/PetersonCouto"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
-   "details": "@nam_isay followers: 1692 \u2192 1693",
-   "link": "https://x.com/nam_isay"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
-   "details": "@nam_isay following: 2767 \u2192 2768",
-   "link": "https://x.com/nam_isay"
-  },
-  {
-   "time": "2026-10-22 08:25",
-   "type": "profile",
    "details": "@nam_isay tweets: 206 \u2192 207",
    "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@DobosDorina4 followers: 1785 \u2192 1726",
-   "link": "https://x.com/DobosDorina4"
+   "details": "@PetersonCouto followers: 3323 \u2192 3329",
+   "link": "https://x.com/PetersonCouto"
   },
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
    "details": "@DobosDorina4 following: 117 \u2192 121",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@DobosDorina4 followers: 1785 \u2192 1726",
    "link": "https://x.com/DobosDorina4"
   },
   {
@@ -4151,8 +4181,32 @@
   {
    "time": "2026-10-22 08:25",
    "type": "profile",
-   "details": "@PetersonCouto followers: 3323 \u2192 3329",
+   "details": "@nam_isay following: 2767 \u2192 2768",
+   "link": "https://x.com/nam_isay"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@nam_isay followers: 1692 \u2192 1693",
+   "link": "https://x.com/nam_isay"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@PetersonCouto tweets: 22465 \u2192 22486",
    "link": "https://x.com/PetersonCouto"
+  },
+  {
+   "time": "2026-10-22 08:25",
+   "type": "profile",
+   "details": "@PetersonCouto following: 4389 \u2192 4407",
+   "link": "https://x.com/PetersonCouto"
+  },
+  {
+   "time": "2026-10-22 06:25",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-22 06:25",
@@ -4165,12 +4219,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-22 06:25",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-22 04:24",
@@ -4199,12 +4247,6 @@
   {
    "time": "2026-10-22 02:22",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-22 02:22",
-   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -4213,30 +4255,36 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-22 02:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-22 00:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-22 00:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-22 00:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-22 00:21",
    "type": "activity",
    "details": "3 new lures 21:58\u201322:14Z: @PetersonCouto 2 (\u2192 @dreamlabs_ai 'feature your team', already hit by Futana6/nam_isay; \u2192 @joyjiao12 OpenAI life-sci research lead 'working on a piece together'); @Futana6 new pressure variant 'check dm, slots are about to be booked out' \u2192 @LukeDashjr (Bitcoin dev, 104k)",
    "link": "https://x.com/Futana6/status/2113031230069391592"
-  },
-  {
-   "time": "2026-10-22 00:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-22 00:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-22 00:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-21 22:20",
@@ -4265,8 +4313,8 @@
   {
    "time": "2026-10-21 20:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-21 20:28",
@@ -4277,8 +4325,8 @@
   {
    "time": "2026-10-21 20:28",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-21 20:26",
@@ -4289,8 +4337,8 @@
   {
    "time": "2026-10-21 18:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-21 18:26",
@@ -4301,8 +4349,8 @@
   {
    "time": "2026-10-21 18:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-21 18:24",
@@ -4337,20 +4385,14 @@
   {
    "time": "2026-10-21 14:24",
    "type": "activity",
-   "details": "@SeoSamantha RETURNED after ~4.4 days quiet (last lure 17 Oct 01:32 Amsterdam): 'quick follow-up on my DM about our AI & technology feature' \u2192 @21nemus 11:15Z",
-   "link": "https://x.com/SeoSamantha/status/2112865457854169368"
-  },
-  {
-   "time": "2026-10-21 14:24",
-   "type": "activity",
    "details": "@DobosDorina4 (suspect) 3 more exact 'couldn't send a message' lures 10:49\u201311:14Z \u2192 @zachmoskow, @agazdecki (316k followers), @cryptobuilder_ (7 lures total)",
    "link": "https://x.com/DobosDorina4/status/2112865170280300958"
   },
   {
-   "time": "2026-10-21 14:22",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
+   "time": "2026-10-21 14:24",
+   "type": "activity",
+   "details": "@SeoSamantha RETURNED after ~4.4 days quiet (last lure 17 Oct 01:32 Amsterdam): 'quick follow-up on my DM about our AI & technology feature' \u2192 @21nemus 11:15Z",
+   "link": "https://x.com/SeoSamantha/status/2112865457854169368"
   },
   {
    "time": "2026-10-21 14:22",
@@ -4360,6 +4402,18 @@
   },
   {
    "time": "2026-10-21 14:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-21 14:22",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-21 12:29",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
@@ -4377,7 +4431,7 @@
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-21 12:29",
+   "time": "2026-10-21 12:28",
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
@@ -4393,12 +4447,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-21 12:28",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-21 12:27",
@@ -4433,6 +4481,12 @@
   {
    "time": "2026-10-21 10:23",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-21 10:23",
+   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
@@ -4441,12 +4495,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-21 10:23",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-21 10:22",
@@ -4457,6 +4505,12 @@
   {
    "time": "2026-10-21 08:29",
    "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-21 08:29",
+   "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
   },
@@ -4467,12 +4521,6 @@
    "link": "https://asteriapanls.com/login"
   },
   {
-   "time": "2026-10-21 08:29",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
-  },
-  {
    "time": "2026-10-21 08:28",
    "type": "activity",
    "details": "@Conviasa burst of 8 Bloomberg-persona lures 04:51\u201305:14Z (first since 19 Oct 17:28Z), new wording \"DM me, I\u2019m working on an article and would love to get your insights\" \u2192 @SawyerMerritt, @biancoresearch, @elerianm, @weijia, @jakobdiepen, @as400495(+@ndstudio), @clavicular, @Suhail (below spike threshold, logged only)",
@@ -4481,19 +4529,37 @@
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@Jaydayritt followers: 137 \u2192 138",
-   "link": "https://x.com/Jaydayritt"
+   "details": "@punk8739 tweets: 2977 \u2192 2976",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@KylieUncovered followers: 1349 \u2192 1348",
-   "link": "https://x.com/KylieUncovered"
+   "details": "@Conviasa followers: 1829 \u2192 1828",
+   "link": "https://x.com/Conviasa"
   },
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@Futana6 following: 194 \u2192 204",
+   "details": "@Conviasa tweets: 1654 \u2192 1662",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@SeoSamantha followers: 2204 \u2192 2203",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@SeoSamantha following: 2799 \u2192 2798",
+   "link": "https://x.com/SeoSamantha"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@Futana6 followers: 3922 \u2192 3924",
    "link": "https://x.com/Futana6"
   },
   {
@@ -4505,32 +4571,14 @@
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@Conviasa tweets: 1654 \u2192 1662",
-   "link": "https://x.com/Conviasa"
+   "details": "@KylieUncovered followers: 1349 \u2192 1348",
+   "link": "https://x.com/KylieUncovered"
   },
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@Futana6 followers: 3922 \u2192 3924",
-   "link": "https://x.com/Futana6"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@SeoSamantha following: 2799 \u2192 2798",
-   "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@Conviasa followers: 1829 \u2192 1828",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@punk8739 tweets: 2977 \u2192 2976",
-   "link": "https://x.com/punk8739"
+   "details": "@Jaydayritt followers: 137 \u2192 138",
+   "link": "https://x.com/Jaydayritt"
   },
   {
    "time": "2026-10-21 08:27",
@@ -4541,8 +4589,8 @@
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@SeoSamantha followers: 2204 \u2192 2203",
-   "link": "https://x.com/SeoSamantha"
+   "details": "@Futana6 following: 194 \u2192 204",
+   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-21 08:27",
@@ -4553,26 +4601,14 @@
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@nam_isay status: active (no lure since 2026-10-12) \u2192 active (resumed lures 2026-10-20 after 8 days quiet)",
+   "details": "@PetersonCouto tweets: 22447 \u2192 22465",
+   "link": "https://x.com/PetersonCouto"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@nam_isay following: 2766 \u2192 2767",
    "link": "https://x.com/nam_isay"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@DobosDorina4 tweets: 711 \u2192 712",
-   "link": "https://x.com/DobosDorina4"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@DobosDorina4 following: 108 \u2192 117",
-   "link": "https://x.com/DobosDorina4"
-  },
-  {
-   "time": "2026-10-21 08:27",
-   "type": "profile",
-   "details": "@DobosDorina4 followers: 1916 \u2192 1785",
-   "link": "https://x.com/DobosDorina4"
   },
   {
    "time": "2026-10-21 08:27",
@@ -4589,20 +4625,38 @@
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@nam_isay following: 2766 \u2192 2767",
+   "details": "@nam_isay status: active (no lure since 2026-10-12) \u2192 active (resumed lures 2026-10-20 after 8 days quiet)",
    "link": "https://x.com/nam_isay"
   },
   {
    "time": "2026-10-21 08:27",
    "type": "profile",
-   "details": "@PetersonCouto tweets: 22447 \u2192 22465",
-   "link": "https://x.com/PetersonCouto"
+   "details": "@DobosDorina4 followers: 1916 \u2192 1785",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@DobosDorina4 following: 108 \u2192 117",
+   "link": "https://x.com/DobosDorina4"
+  },
+  {
+   "time": "2026-10-21 08:27",
+   "type": "profile",
+   "details": "@DobosDorina4 tweets: 711 \u2192 712",
+   "link": "https://x.com/DobosDorina4"
   },
   {
    "time": "2026-10-21 06:28",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-21 06:28",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-21 06:28",
@@ -4617,10 +4671,10 @@
    "link": "https://x.com/Futana6/status/2112757302227009913"
   },
   {
-   "time": "2026-10-21 06:28",
+   "time": "2026-10-21 04:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-21 04:26",
@@ -4633,12 +4687,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-21 04:26",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-21 02:30",
@@ -4655,14 +4703,14 @@
   {
    "time": "2026-10-21 02:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-21 02:25",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-21 00:27",
@@ -4673,12 +4721,6 @@
   {
    "time": "2026-10-21 00:26",
    "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
-  },
-  {
-   "time": "2026-10-21 00:26",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -4689,16 +4731,16 @@
    "link": "https://asteriapanls.com/login"
   },
   {
+   "time": "2026-10-21 00:26",
+   "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
    "time": "2026-10-20 22:22",
    "type": "status",
    "details": "STATUS CHANGE: cal-apis.com is BACK ONLINE - nameservers restored from NONVERIFIEDDOMAIN.COM to Cloudflare bill/paige at 18:38:51Z (20:38 CEST), registry status active, resolves again (Cloudflare IPs) and /login serves the same Twitta X-login panel (kit hash 2ce123a1a60f). The registrar hold lasted ~1h; operator appears to have cleared registrant verification (verified by us via RDAP+DoH+passive GET).",
    "link": "https://rdap.verisign.com/com/v1/domain/cal-apis.com"
-  },
-  {
-   "time": "2026-10-20 22:20",
-   "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-20 22:20",
@@ -4709,11 +4751,23 @@
   {
    "time": "2026-10-20 22:20",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-20 22:20",
+   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-20 22:20",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
+  },
+  {
+   "time": "2026-10-20 22:19",
    "type": "infra",
    "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
    "link": "https://30min-meetings.com/login"
@@ -4729,12 +4783,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-20 22:19",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-20 20:23",
@@ -4769,6 +4817,12 @@
   {
    "time": "2026-10-20 20:21",
    "type": "infra",
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-20 20:21",
+   "type": "infra",
    "details": "Twitta page gone/changed on cal-apis.com: HTTP ERR title=",
    "link": "https://cal-apis.com/login"
   },
@@ -4783,12 +4837,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-20 20:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-20 20:20",
@@ -4865,12 +4913,6 @@
   {
    "time": "2026-10-20 14:19",
    "type": "infra",
-   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
-   "link": "https://asteriapanls.com/login"
-  },
-  {
-   "time": "2026-10-20 14:19",
-   "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
   },
@@ -4881,10 +4923,16 @@
    "link": "https://30min-meetings.com/login"
   },
   {
-   "time": "2026-10-20 12:21",
+   "time": "2026-10-20 14:19",
    "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
+  },
+  {
+   "time": "2026-10-20 12:21",
+   "type": "infra",
+   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
+   "link": "https://login-api.com/login"
   },
   {
    "time": "2026-10-20 12:21",
@@ -4895,8 +4943,8 @@
   {
    "time": "2026-10-20 12:21",
    "type": "infra",
-   "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
-   "link": "https://login-api.com/login"
+   "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
+   "link": "https://asteriapanls.com/login"
   },
   {
    "time": "2026-10-20 12:20",
@@ -4907,6 +4955,12 @@
   {
    "time": "2026-10-20 10:21",
    "type": "infra",
+   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
+   "link": "https://30min-meetings.com/login"
+  },
+  {
+   "time": "2026-10-20 10:21",
+   "type": "infra",
    "details": "Twitta page gone/changed on asteriapanls.com: HTTP ERR title=",
    "link": "https://asteriapanls.com/login"
   },
@@ -4915,12 +4969,6 @@
    "type": "infra",
    "details": "Twitta page gone/changed on login-api.com: HTTP 404 title=",
    "link": "https://login-api.com/login"
-  },
-  {
-   "time": "2026-10-20 10:21",
-   "type": "infra",
-   "details": "Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=",
-   "link": "https://30min-meetings.com/login"
   },
   {
    "time": "2026-10-20 08:24",
@@ -4961,32 +5009,8 @@
   {
    "time": "2026-10-20 08:22",
    "type": "profile",
-   "details": "@punk8739 following: 408 \u2192 431",
-   "link": "https://x.com/punk8739"
-  },
-  {
-   "time": "2026-10-20 08:22",
-   "type": "profile",
-   "details": "@Conviasa followers: 1828 \u2192 1829",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-20 08:22",
-   "type": "profile",
-   "details": "@Conviasa tweets: 1646 \u2192 1654",
-   "link": "https://x.com/Conviasa"
-  },
-  {
-   "time": "2026-10-20 08:22",
-   "type": "profile",
    "details": "@SeoSamantha followers: 2205 \u2192 2204",
    "link": "https://x.com/SeoSamantha"
-  },
-  {
-   "time": "2026-10-20 08:22",
-   "type": "profile",
-   "details": "@Futana6 following: 191 \u2192 194",
-   "link": "https://x.com/Futana6"
   },
   {
    "time": "2026-10-20 08:22",
@@ -4997,8 +5021,32 @@
   {
    "time": "2026-10-20 08:22",
    "type": "profile",
+   "details": "@Futana6 following: 191 \u2192 194",
+   "link": "https://x.com/Futana6"
+  },
+  {
+   "time": "2026-10-20 08:22",
+   "type": "profile",
    "details": "@KylieUncovered following: 1228 \u2192 1229",
    "link": "https://x.com/KylieUncovered"
+  },
+  {
+   "time": "2026-10-20 08:22",
+   "type": "profile",
+   "details": "@Conviasa tweets: 1646 \u2192 1654",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-20 08:22",
+   "type": "profile",
+   "details": "@Conviasa followers: 1828 \u2192 1829",
+   "link": "https://x.com/Conviasa"
+  },
+  {
+   "time": "2026-10-20 08:22",
+   "type": "profile",
+   "details": "@punk8739 following: 408 \u2192 431",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-20 08:22",
@@ -5117,14 +5165,14 @@
   {
    "time": "2026-10-20 00:24",
    "type": "status_check_failed",
-   "details": "[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on cal-api.com: HTTP ERR title=",
-   "link": "https://cal-api.com/login"
+   "details": "[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on xredirecting.com: HTTP ERR title=",
+   "link": "https://xredirecting.com/login"
   },
   {
    "time": "2026-10-20 00:24",
    "type": "status_check_failed",
-   "details": "[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on xredirecting.com: HTTP ERR title=",
-   "link": "https://xredirecting.com/login"
+   "details": "[BOX NETWORK OUTAGE, not a real change: all outbound HTTPS failed with TLS EOF at 00:24] Twitta page gone/changed on cal-api.com: HTTP ERR title=",
+   "link": "https://cal-api.com/login"
   },
   {
    "time": "2026-10-20 00:24",
@@ -5164,9 +5212,9 @@
   },
   {
    "time": "2026-10-20 00:24",
-   "type": "activity",
-   "details": "DobosDorina4 (suspect, TechCrunch 'Phoenix' persona) 2nd identical 'couldn't send a message' lure 20:29Z -> @QuasarBuilder (first since 17 Oct); 0 new template accounts since 20:00Z; punk8739 0 posts 20Z-22:23Z; logged only",
-   "link": "https://x.com/DobosDorina4/status/2112279956638335422"
+   "type": "push_error",
+   "details": "publish: git push failed at 2026-10-20 00:24 CEST",
+   "link": ""
   },
   {
    "time": "2026-10-20 00:24",
@@ -5206,9 +5254,9 @@
   },
   {
    "time": "2026-10-20 00:24",
-   "type": "push_error",
-   "details": "publish: git push failed at 2026-10-20 00:24 CEST",
-   "link": ""
+   "type": "activity",
+   "details": "DobosDorina4 (suspect, TechCrunch 'Phoenix' persona) 2nd identical 'couldn't send a message' lure 20:29Z -> @QuasarBuilder (first since 17 Oct); 0 new template accounts since 20:00Z; punk8739 0 posts 20Z-22:23Z; logged only",
+   "link": "https://x.com/DobosDorina4/status/2112279956638335422"
   },
   {
    "time": "2026-10-19 22:27",
@@ -5243,14 +5291,14 @@
   {
    "time": "2026-10-19 20:26",
    "type": "activity",
-   "details": "punk8739 16 posts 16:00Z-16:52Z then 0 through 18:25Z (counts), 0 non-RT per Q1 \u2014 retweet flood paused; logged only",
-   "link": "https://x.com/punk8739"
+   "details": "@Conviasa 1 more 'article in this space' Bloomberg-persona lure 17:28Z (19:28 CEST) \u2192 @austinbishop; burst now 8 since 15:46Z, below spike threshold; known operator, logged only",
+   "link": "https://x.com/Conviasa/status/2112234408753397841"
   },
   {
    "time": "2026-10-19 20:26",
    "type": "activity",
-   "details": "@Conviasa 1 more 'article in this space' Bloomberg-persona lure 17:28Z (19:28 CEST) \u2192 @austinbishop; burst now 8 since 15:46Z, below spike threshold; known operator, logged only",
-   "link": "https://x.com/Conviasa/status/2112234408753397841"
+   "details": "punk8739 16 posts 16:00Z-16:52Z then 0 through 18:25Z (counts), 0 non-RT per Q1 \u2014 retweet flood paused; logged only",
+   "link": "https://x.com/punk8739"
   },
   {
    "time": "2026-10-19 20:26",
