@@ -180,4 +180,4 @@ dns,hyperball.one,hyperball.one,2026-10-28,A=NXDOMAIN/none NS=1-ceci.njalla.do. 
 dns,invitehandler.com,invitehandler.com,2026-10-28,A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.,dns.google DoH,2026-10-28 08:28
 dns,whitelistportal.com,whitelistportal.com,2026-10-28,A=NXDOMAIN/none NS=1-ceci.njalla.do. 2-nest.pipe.ma. 3-pas.njalla.in.,dns.google DoH,2026-10-28 08:28
 ct_stream,preview-chore-static-build-cors.calendlycms.com,calendlycms.com,2026-10-29,CertPatrol live CT match,certpatrol,2026-10-29 16:36
-ct_stream,dmgeventsportal.com,dmgeventsportal.com,2026-10-30,CertPatrol live CT match,certpatrol,2026-10-30 08:36
+ct_stream,dmgeventsportal.com,dmgeventsportal.com,2026-10-30,CertPatrol live CT match - BENIGN (DMG Events portal; reg 2017 GoDaddy; AWS 35.178.112.176; routine weekly GlobalSign renewal),certpatrol,2026-10-30 08:36
