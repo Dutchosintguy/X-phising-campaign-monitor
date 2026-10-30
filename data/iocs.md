@@ -11,7 +11,7 @@
 | Futana6 | Chloe Futana | TechCrunch correspondent | 2019-05-17 | 3930 | yes — SUSPENDED (detected 2026-10-24) |
 | KylieUncovered | Kylie | @Techcrunch & @opinion, prev @bloomberg @google | 2020-11-13 | 1348 | yes |
 | Jaydayritt | Jay Dayrit | @WIRED, prev Bloomberg/Reuters | 2010-02-17 | 138 | yes |
-| PetersonCouto | Peterson Couto | @Reuters tech & AI correspondent (fake; added 2026-10-17, named by victim @lordx64 with cal-api[.]com redirect) | 2009-10-05 | 3315 | yes |
+| PetersonCouto | Peterson Couto | @Reuters tech & AI correspondent (fake; added 2026-10-17, named by victim @lordx64 with cal-api[.]com redirect; SUSPENDED, detected 2026-10-30) | 2009-10-05 | 3315 | yes |
 | DobosDorina4 | Phoenix | covering AI/startups @TechCrunch (SUSPECTED; added 2026-10-18 – exact Futana6 'couldn't send a message' lure, not victim-named) | 2014-09-14 | 1604 | no (blue check lost, detected 2026-10-24) |
 | nam_isay | Isaac Namm | Sr correspondent @bloomberg (fake; added 2026-10-17, likely – same template, not victim-named) | 2018-04-15 | 1691 | yes |
 
