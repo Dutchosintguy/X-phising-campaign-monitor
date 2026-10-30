@@ -1091,3 +1091,35 @@ time,type,details,link
 2026-10-30 06:25,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-10-30 06:25,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-10-30 06:25,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-30 08:30,status,"@PetersonCouto (fake Reuters persona) SUSPENDED: X lookup returns ""User has been suspended"" (last lure 29 Oct 13:23Z)",https://x.com/PetersonCouto
+2026-10-30 08:30,activity,"@Conviasa 4 Bloomberg-persona lures 06:12–07:01Z (new wording ""I’m working on an article exploring …"") → @AdinaYakup, @victormustar, @jadechoghari, @_avichawla",https://x.com/Conviasa/status/2116062996829274550
+2026-10-30 08:26,profile,@Conviasa followers: 1825 → 1824,https://x.com/Conviasa
+2026-10-30 08:26,profile,@Conviasa tweets: 1703 → 1707,https://x.com/Conviasa
+2026-10-30 08:26,profile,@SeoSamantha followers: 2201 → 2200,https://x.com/SeoSamantha
+2026-10-30 08:26,profile,@punk8739 followers: 26313 → 26308,https://x.com/punk8739
+2026-10-30 08:26,profile,@punk8739 following: 338 → 50,https://x.com/punk8739
+2026-10-30 08:26,profile,@punk8739 tweets: 3137 → 3112,https://x.com/punk8739
+2026-10-30 08:26,profile,@PetersonCouto status: active → suspended,https://x.com/PetersonCouto
+2026-10-30 08:26,profile,@nam_isay followers: 1695 → 1696,https://x.com/nam_isay
+2026-10-30 08:26,profile,@nam_isay following: 2766 → 2769,https://x.com/nam_isay
+2026-10-30 08:26,profile,@nam_isay tweets: 207 → 218,https://x.com/nam_isay
+2026-10-30 08:26,profile,@nam_isay status: active (resumed lures 2026-10-20 after 8 days quiet) → active (resumed lures 2026-10-29 after 8 days quiet),https://x.com/nam_isay
+2026-10-30 08:26,profile,@DobosDorina4 followers: 1413 → 1208,https://x.com/DobosDorina4
+2026-10-30 08:26,profile,@filipe_eh followers: 1743 → 1745,https://x.com/filipe_eh
+2026-10-30 08:26,profile,@sayozain followers: 2550 → 2549,https://x.com/sayozain
+2026-10-30 08:26,profile,@sayozain following: 951 → 949,https://x.com/sayozain
+2026-10-30 08:26,profile,@sayozain tweets: 72623 → 72639,https://x.com/sayozain
+2026-10-30 08:29,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-10-30 08:29,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-10-30 08:29,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-30 08:29,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-10-30 08:29,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-10-30 08:29,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
