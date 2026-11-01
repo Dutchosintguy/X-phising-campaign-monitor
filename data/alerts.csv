@@ -1361,3 +1361,12 @@ time,type,details,link
 2026-11-01 14:27,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-11-01 14:27,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-01 14:27,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-01 19:10,activity,"@Conviasa 5 Bloomberg-persona lures 16:04–18:07Z (7 today since 11:58Z, below spike threshold), 'insights/perspective for an upcoming article. DM me' wording → @AniC_dev, @abhinavguptaIAQ, @AlexKsendzovsky, @alex_liuu(+@kickerai), @fabianstelzer (Glif, 44k)",https://x.com/Conviasa/status/2116955308295618638
+2026-11-01 19:10,activity,@sayozain 2 non-lure TechCrunch link-share posts 16:27–17:41Z (persona upkeep; still suspected),https://x.com/sayozain/status/2116948727059591669
+2026-11-01 19:11,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-01 19:11,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-01 19:11,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-01 19:11,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-01 19:11,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-01 19:11,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-01 19:11,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
