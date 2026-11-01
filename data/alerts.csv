@@ -1344,3 +1344,11 @@ time,type,details,link
 2026-11-01 10:24,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-11-01 10:24,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-01 10:24,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-01 12:26,activity,"@KylieUncovered 3 more potential-piece lures 09:37–09:46Z (continues 1 Nov spike, 13 since 07:49Z) → @jiang_kev, @zixihong_, @jonkomet",https://x.com/KylieUncovered/status/2116829129123488177
+2026-11-01 12:26,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-01 12:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-01 12:26,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-01 12:26,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-01 12:26,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-01 12:26,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-01 12:27,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
