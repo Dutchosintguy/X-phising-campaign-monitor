@@ -1313,3 +1313,11 @@ time,type,details,link
 2026-11-01 02:26,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-01 02:26,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-01 02:26,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-01 04:25,activity,"@SeoSamantha (fake Bloomberg/opinion 'Samantha') RETURNED after ~4 days quiet (last lure 27 Oct 23:28Z) with a new-wording lure 'just sent you a DM about a potential feature on your work' 02:34Z (03:34 CET) → @rohit3a (rohit, AI founder/designer, 1.2k, blue) + @patience_cave (7.3k, blue)",https://x.com/SeoSamantha/status/2116720534016623071
+2026-11-01 04:23,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-01 04:23,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-01 04:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-01 04:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-01 04:23,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-01 04:23,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-01 04:23,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
