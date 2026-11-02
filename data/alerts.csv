@@ -1415,3 +1415,11 @@ time,type,details,link
 2026-11-02 15:21,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-02 15:21,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-02 15:21,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-02 19:15,activity,Quiet for lures: only non-lure persona-upkeep posts — @sayozain TechCrunch link-share 15:43Z (still suspected) and @KylieUncovered one-word post 16:47Z; Q2/Q2b/Q3/Q3b 0 new accounts since 12:00Z; logged only,https://x.com/sayozain
+2026-11-02 19:14,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-02 19:14,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-02 19:14,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-02 19:14,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-02 19:14,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-02 19:14,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-02 19:14,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
