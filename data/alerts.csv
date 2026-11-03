@@ -1449,3 +1449,29 @@ time,type,details,link
 2026-11-03 08:47,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-03 08:47,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-03 08:47,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-03 11:15,warning,"NEW public victim warning @gauravsbuilding (03 Nov 05:16Z): fake Bloomberg journalist flow (Calendly → ""Events Portal"" X app → fake Twitta login on cal-apis[.]com); DM screenshot names ""Liv Conviasa"" (@Conviasa)",https://x.com/gauravsbuilding/status/2117486004219372019
+2026-11-03 11:15,warning,"NEW public victim warning @burninganna (03 Nov 04:59Z): fake OpenAI recruiter persona ""Erika Ida"" (@erikaidas) DM → calendly.openaiteams[.]com link; possibly hijacked real account (reported-by-third-party; NOT verified by us)",https://x.com/burninganna/status/2117481763316641988
+2026-11-03 11:15,new_operator,"@erikaidas (""Erika Ida"", blue, 2015, 22.4k posts, 4.3k followers, bio claims OpenAI) named by victim @burninganna as fake OpenAI recruiter; may be a compromised real account; reported-by-third-party; NOT verified by us",https://x.com/erikaidas
+2026-11-03 11:15,infra,"NEW campaign domain reported: calendly.openaiteams[.]com (sent by @erikaidas per @burninganna screenshot). openaiteams.com re-registered 2026-09-08 via Tucows (same registrar family as Cluster B), Cloudflare NS/IPs (104.21.85.57, 172.67.202.188), latest cert 2026-09-20; calendly. subdomain resolves. Added to infra_watch",https://x.com/burninganna/status/2117481763316641988
+2026-11-03 11:15,activity,"@Conviasa 2 Bloomberg-persona lures 08:09–08:10Z (""Really exciting launch! DM me, I have an article in the works…"") → @aditya_vellanki, @chenru_duan(+@StevenDillmann); logged only",https://x.com/Conviasa/status/2117529886206132520
+2026-11-03 11:11,profile,@Conviasa followers: 1825 → 1827,https://x.com/Conviasa
+2026-11-03 11:11,profile,@Conviasa tweets: 1722 → 1733,https://x.com/Conviasa
+2026-11-03 11:11,profile,@SeoSamantha following: 2796 → 2797,https://x.com/SeoSamantha
+2026-11-03 11:11,profile,"@KylieUncovered bio: Correspondent covering AI, Tech & Financial markets. @Techcrunch and @opinion currently Previously @bloomberg & @google → Correspondent covering ",https://x.com/KylieUncovered
+2026-11-03 11:11,profile,@KylieUncovered followers: 1349 → 1354,https://x.com/KylieUncovered
+2026-11-03 11:11,profile,@KylieUncovered tweets: 1116 → 1117,https://x.com/KylieUncovered
+2026-11-03 11:11,profile,@Jaydayritt followers: 137 → 136,https://x.com/Jaydayritt
+2026-11-03 11:11,profile,@DobosDorina4 followers: 1199 → 1195,https://x.com/DobosDorina4
+2026-11-03 11:11,profile,@filipe_eh followers: 1739 → 1737,https://x.com/filipe_eh
+2026-11-03 11:11,profile,"@KylieUncovered regained blue check (none → blue; lost 2026-10-28) and bio now drops Bloomberg (""ex- @Techcrunch … Previously @techcrunch & @google"")",https://x.com/KylieUncovered
+2026-11-03 11:11,profile,@sayozain followers: 2549 → 2550,https://x.com/sayozain
+2026-11-03 11:11,profile,@sayozain tweets: 72654 → 72657,https://x.com/sayozain
+2026-11-03 11:12,infra,New dns: openaiteams.com (A=104.21.85.57 172.67.202.188 NS=buck.ns.cloudflare.com. deborah.ns.cloudflare.c),https://crt.sh/?q=openaiteams.com
+2026-11-03 11:16,infra,CT watcher: new certificate for calendiy.app,https://crt.sh/?q=calendiy.app
+2026-11-03 11:17,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-03 11:17,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-03 11:17,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-03 11:17,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-03 11:17,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-03 11:17,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-03 11:17,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login

@@ -61,3 +61,8 @@ Identical public form options to the old lure. Downstream OAuth app/callback not
 - 2026-10-20 22:22 CEST: cal-apis.com REACTIVATED — NS back on Cloudflare bill/paige at 18:38:51Z (hold from 17:37Z lasted ~1h), status active, /login 200 with same Twitta kit (panel.css 2ce123a1a60f). Verified by us.
 
 - 2026-10-27 20:30 CET: Cluster B NS CHANGE — invitehandler[.]com, whitelistportal[.]com (Verisign RDAP last changed 19:17:15Z / 19:16:59Z), petrilabs[.]app and hyperball[.]one switched nameservers from Cloudflare bill/paige to Njalla (1-ceci.njalla.do, 2-nest.pipe.ma, 3-pas.njalla.in); no A records, Twitta /login pages unreachable. Status flags only client transfer/update prohibited (no registrar hold) → operator-initiated change, not a takedown (unverified intent). xredirecting[.]com, cal-apis[.]com, cal-api[.]com unchanged on Cloudflare bill/paige. Verified by us (DoH + RDAP).
+
+## 2026-11-03 fake OpenAI recruiter variant (reported-by-third-party; NOT verified by us)
+- calendly.openaiteams[.]com — Calendly lookalike sent in DM by @erikaidas ("Erika Ida", bio claims OpenAI; possibly a hijacked real account) per victim @burninganna: https://x.com/burninganna/status/2117481763316641988
+- openaiteams[.]com: registered 2026-09-08 (Tucows), Cloudflare NS buck/deborah, A 104.21.85.57 / 172.67.202.188 (DoH 2026-11-03), latest cert 2026-09-20 (older 2024 certs = previous registration)
+- New victim warning @gauravsbuilding (Conviasa / Events Portal / cal-apis[.]com flow): https://x.com/gauravsbuilding/status/2117486004219372019
