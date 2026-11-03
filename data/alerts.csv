@@ -1482,3 +1482,12 @@ time,type,details,link
 2026-11-03 11:19,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-03 11:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-03 11:19,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-03 15:25,activity,@KylieUncovered SPIKE: 11 lures 13:46–14:17Z (14:46–15:17 Amsterdam) after ~28h quiet and right after regaining blue check; new wording 'I’d welcome/love the chance to discuss a (potential/possible) collaboration … feel free to reach out' plus 'collaborate on an upcoming article. Mind a DM' → @realarnoldxu @michivinocour @DaveARicks @Jayyanginspires @sweis @guilleflorvs @haikane @joshmanders @0xmagnus @fraserpricee @TheKleos_,https://x.com/KylieUncovered/status/2117622126794711411
+2026-11-03 15:25,activity,"@Conviasa 7 more 'article in the works' / 'insight for an upcoming article' lures 11:59–12:17Z → @keyserfaty @Prince_Canuma @usewonder @aibek_design @BenjamineYLiu @bflycomputer @joseph_risson (9 today, below spike threshold); logged only",https://x.com/Conviasa/status/2117592060949897715
+2026-11-03 15:22,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-03 15:22,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-03 15:22,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-03 15:22,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-03 15:22,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-03 15:22,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-03 15:22,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
