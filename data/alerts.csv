@@ -1467,7 +1467,7 @@ time,type,details,link
 2026-11-03 11:11,profile,@sayozain followers: 2549 → 2550,https://x.com/sayozain
 2026-11-03 11:11,profile,@sayozain tweets: 72654 → 72657,https://x.com/sayozain
 2026-11-03 11:12,infra,New dns: openaiteams.com (A=104.21.85.57 172.67.202.188 NS=buck.ns.cloudflare.com. deborah.ns.cloudflare.c),https://crt.sh/?q=openaiteams.com
-2026-11-03 11:16,infra,CT watcher: new certificate for calendiy.app,https://crt.sh/?q=calendiy.app
+2026-11-03 11:16,infra,"CT watcher: new certificate for calendiy.app (Calendly typo lookalike; registered 2023-06-08 via Squarespace, Cloudflare NS carla/kyree, A 104.21.18.71/172.67.180.200). No link to the campaign observed yet — UNLINKED lookalike, watch only",https://crt.sh/?q=calendiy.app
 2026-11-03 11:17,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-03 11:17,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-03 11:17,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
@@ -1475,3 +1475,10 @@ time,type,details,link
 2026-11-03 11:17,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-11-03 11:17,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-03 11:17,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-03 11:19,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-03 11:19,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-03 11:19,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-03 11:19,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-03 11:19,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-03 11:19,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-03 11:19,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
