@@ -183,3 +183,5 @@ ct_stream,preview-chore-static-build-cors.calendlycms.com,calendlycms.com,2026-1
 ct_stream,dmgeventsportal.com,dmgeventsportal.com,2026-10-30,CertPatrol live CT match - BENIGN (DMG Events portal; reg 2017 GoDaddy; AWS 35.178.112.176; routine weekly GlobalSign renewal),certpatrol,2026-10-30 08:36
 dns,openaiteams.com,openaiteams.com,2026-11-03,A=104.21.85.57 172.67.202.188 NS=buck.ns.cloudflare.com. deborah.ns.cloudflare.com.,dns.google DoH,2026-11-03 11:12
 ct_stream,calendiy.app,calendiy.app,2026-11-03,CertPatrol live CT match,certpatrol,2026-11-03 09:41
+cert,events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=18163912790,certspotter,2026-11-04 11:13
+cert,www.events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=18163912790,certspotter,2026-11-04 11:13

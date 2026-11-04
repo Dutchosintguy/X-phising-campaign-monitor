@@ -1512,3 +1512,28 @@ time,type,details,link
 2026-11-04 07:10,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-04 07:10,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-04 07:10,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-04 11:15,warning,"NEW victim warning @JiquanNgiam (3 Nov 15:43Z): fake Bloomberg ""Liv Conviasa"" DM → calendly.com → X OAuth full-access request; screenshots confirm @Conviasa",https://x.com/JiquanNgiam/status/2117643901985030364
+2026-11-04 11:15,warning,NEW victim warning @anandPa94 (3 Nov 23:07Z): fake OpenAI recruiter @erikaidas + Calendly link; real person confirms impersonation → @erikaidas now confirmed (2 independent victims),https://x.com/anandPa94/status/2117755690198700188
+2026-11-04 11:12,profile,@Conviasa followers: 1827 → 1829,https://x.com/Conviasa
+2026-11-04 11:12,profile,@Conviasa following: 194 → 196,https://x.com/Conviasa
+2026-11-04 11:12,profile,@Conviasa tweets: 1733 → 1740,https://x.com/Conviasa
+2026-11-04 11:12,profile,@KylieUncovered followers: 1354 → 1357,https://x.com/KylieUncovered
+2026-11-04 11:12,profile,@KylieUncovered tweets: 1117 → 1128,https://x.com/KylieUncovered
+2026-11-04 11:12,profile,@punk8739 followers: 26304 → 26308,https://x.com/punk8739
+2026-11-04 11:12,profile,@punk8739 following: 434 → 384,https://x.com/punk8739
+2026-11-04 11:12,profile,@punk8739 tweets: 3111 → 3108,https://x.com/punk8739
+2026-11-04 11:12,profile,@nam_isay followers: 1695 → 1694,https://x.com/nam_isay
+2026-11-04 11:12,profile,@DobosDorina4 followers: 1195 → 1169,https://x.com/DobosDorina4
+2026-11-04 11:12,profile,@filipe_eh followers: 1737 → 1735,https://x.com/filipe_eh
+2026-11-04 11:12,profile,@filipe_eh following: 1017 → 1018,https://x.com/filipe_eh
+2026-11-04 11:12,profile,@sayozain followers: 2550 → 2536,https://x.com/sayozain
+2026-11-04 11:12,profile,@erikaidas followers: 4276 → 4284,https://x.com/erikaidas
+2026-11-04 11:13,infra,New cert: events-portal.com (issuer=DigiCert id=18163912790),https://crt.sh/?q=events-portal.com
+2026-11-04 11:13,infra,New cert: www.events-portal.com (issuer=DigiCert id=18163912790),https://crt.sh/?q=events-portal.com
+2026-11-04 11:19,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-04 11:20,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-04 11:20,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-04 11:20,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-04 11:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-04 11:20,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-04 11:20,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
