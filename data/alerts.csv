@@ -1537,3 +1537,11 @@ time,type,details,link
 2026-11-04 11:20,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-11-04 11:20,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-04 11:20,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-04 15:12,activity,"@KylieUncovered 3 'potential collaboration' lures 12:00–13:04 CET (after ~21h quiet) → @c_emile_c, @darrenjr(+@tembo), @svonava; new wording 'interested in exploring a potential collaboration with you'; below spike threshold, logged only",https://x.com/KylieUncovered/status/2117951198972330456
+2026-11-04 15:13,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-04 15:13,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-04 15:13,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-04 15:13,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-04 15:13,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-04 15:13,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-04 15:13,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
