@@ -1580,3 +1580,27 @@ time,type,details,link
 2026-11-05 10:00,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
 2026-11-05 10:00,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-05 10:00,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-05 17:17,activity,"@nam_isay RETURNED after ~7 days quiet (last lure 29 Oct) with 9 'work with you on a piece' lures 10:43–16:11Z → @ladyxtel, @JudgmentLabs, @Ahmad_Al_Dahle, @mgdurrant, @SebastianThrun, @Koukoumidis, @Davidstout(+@thewebAI/@TylerMauer4), @jquinonero, @RicursiveAI",https://x.com/nam_isay/status/2118375690194297164
+2026-11-05 17:17,activity,"@KylieUncovered 2 'potential collaboration' lures 09:31–15:58Z → @thejerrycheng, @shawn_pana (continuing 4 Nov wording; ~21h since last, not a return)",https://x.com/KylieUncovered/status/2118372460123034074
+2026-11-05 17:17,activity,@Conviasa 1 more Bloomberg lure 14:34Z → @yuchenping (continues morning batch of 7; 8 today),https://x.com/Conviasa/status/2118351274605175062
+2026-11-05 17:17,warning,NEW public awareness post @marcelkargul 4 Nov 17:51Z: fake Bloomberg/TechCrunch journalist → Calendly → Google/X login steal. No operator named. (He was approached by @SeoSamantha 13 Oct.),https://x.com/marcelkargul/status/2118038380407562338
+2026-11-05 17:17,profile,@Conviasa tweets: 1740 → 1748,https://x.com/Conviasa
+2026-11-05 17:17,profile,@KylieUncovered followers: 1357 → 1358,https://x.com/KylieUncovered
+2026-11-05 17:17,profile,@KylieUncovered following: 1229 → 1230,https://x.com/KylieUncovered
+2026-11-05 17:17,profile,@KylieUncovered tweets: 1128 → 1133,https://x.com/KylieUncovered
+2026-11-05 17:17,profile,@Jaydayritt followers: 136 → 135,https://x.com/Jaydayritt
+2026-11-05 17:17,profile,@punk8739 followers: 26308 → 26307,https://x.com/punk8739
+2026-11-05 17:17,profile,@punk8739 following: 384 → 411,https://x.com/punk8739
+2026-11-05 17:17,profile,@punk8739 tweets: 3108 → 3107,https://x.com/punk8739
+2026-11-05 17:17,profile,@nam_isay tweets: 218 → 227,https://x.com/nam_isay
+2026-11-05 17:17,profile,@nam_isay status: active (resumed lures 2026-10-29 after 8 days quiet) → active (resumed lures 2026-11-05 after ~7 days quiet),https://x.com/nam_isay
+2026-11-05 17:17,profile,@DobosDorina4 followers: 1169 → 1167,https://x.com/DobosDorina4
+2026-11-05 17:17,profile,@filipe_eh followers: 1735 → 1733,https://x.com/filipe_eh
+2026-11-05 17:17,profile,@erikaidas followers: 4284 → 4285,https://x.com/erikaidas
+2026-11-05 17:21,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-05 17:21,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-05 17:21,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-05 17:21,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-05 17:21,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-05 17:21,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-05 17:21,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
