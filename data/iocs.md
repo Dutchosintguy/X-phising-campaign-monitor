@@ -13,6 +13,7 @@
 | Jaydayritt | Jay Dayrit | @WIRED, prev Bloomberg/Reuters | 2010-02-17 | 138 | yes |
 | PetersonCouto | Peterson Couto | @Reuters tech & AI correspondent (fake; added 2026-10-17, named by victim @lordx64 with cal-api[.]com redirect; SUSPENDED, detected 2026-10-30) | 2009-10-05 | 3315 | yes |
 | DobosDorina4 | Phoenix | covering AI/startups @TechCrunch (SUSPECTED; added 2026-10-18 – exact Futana6 'couldn't send a message' lure, not victim-named) | 2014-09-14 | 1604 | no (blue check lost, detected 2026-10-24) |
+| jonathonGuil | Jonathan Guilford | Impersonation of Reuters Breakingviews US editor (official handle is @JMAGuilford — NOT an operator). Named by victim @akshat_hk 2026-11-06 with matching DM screenshot (41.9k, joined May 2013, username recently changed). Adjacent podcast/Teams remote-control MO, not Calendly article flow. Added 2026-11-06. | 2013-05-12 | 41945 | yes |
 | nam_isay | Isaac Namm | Sr correspondent @bloomberg (fake; added 2026-10-17, likely – same template, not victim-named) | 2018-04-15 | 1691 | yes |
 
 ## Related, suspended (from public warnings)
