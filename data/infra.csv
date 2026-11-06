@@ -185,3 +185,5 @@ dns,openaiteams.com,openaiteams.com,2026-11-03,A=104.21.85.57 172.67.202.188 NS=
 ct_stream,calendiy.app,calendiy.app,2026-11-03,CertPatrol live CT match,certpatrol,2026-11-03 09:41
 cert,events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=18163912790,certspotter,2026-11-04 11:13
 cert,www.events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=18163912790,certspotter,2026-11-04 11:13
+ct_error,hyperball.one,hyperball.one,,crt.sh and certspotter unreachable,-,2026-11-06 08:54
+ct_error,asteriapanls.com,asteriapanls.com,,crt.sh and certspotter unreachable,-,2026-11-06 08:54

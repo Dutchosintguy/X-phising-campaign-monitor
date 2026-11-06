@@ -1611,3 +1611,27 @@ time,type,details,link
 2026-11-05 20:09,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-05 20:09,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-05 20:09,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-06 08:54,activity,"SeoSamantha RETURNED after ~4.8 days quiet (last lure 1 Nov 05:28Z) with 7 lures 00:29–01:00Z (potential feature / brief interview) → @bertgodel, @yukez(+@corl_conf/@PeterStone_TX/@Majumdar_Ani/@GeorgiaChal), @getjonwithit(+@sopharicks/@lanyon_ai), @_alex_kirillov_, @andrew_li03, @alexgkendall, @rebeccadai0; Conviasa 8 continuing insights-for-an-article lures (5 evening 20:55–21:03Z 5 Nov + 3 morning 06:34–06:36Z) logged only; @erikaidas 0 public",https://dutchosintguy.github.io/X-phising-campaign-monitor/
+2026-11-06 08:54,warning,NEW public victim warning @akshat_hk: fake Reuters podcast phishing impersonating Jonathan Guilford (@jonathonGuil real); video-off interviewer. Adjacent MO to journalist phishing; not Calendly article flow. https://x.com/akshat_hk/status/2118567549885616619,https://dutchosintguy.github.io/X-phising-campaign-monitor/
+2026-11-06 08:54,profile,@Conviasa followers: 1829 → 1831,https://x.com/Conviasa
+2026-11-06 08:54,profile,@Conviasa following: 196 → 199,https://x.com/Conviasa
+2026-11-06 08:54,profile,@Conviasa tweets: 1748 → 1756,https://x.com/Conviasa
+2026-11-06 08:54,profile,@SeoSamantha following: 2797 → 2796,https://x.com/SeoSamantha
+2026-11-06 08:54,profile,@SeoSamantha tweets: 8800 → 8807,https://x.com/SeoSamantha
+2026-11-06 08:54,profile,@Jaydayritt followers: 135 → 134,https://x.com/Jaydayritt
+2026-11-06 08:54,profile,@Jaydayritt status: active (no lure since 2026-09-30) → active,https://x.com/Jaydayritt
+2026-11-06 08:54,profile,@nam_isay followers: 1694 → 1696,https://x.com/nam_isay
+2026-11-06 08:54,profile,@nam_isay status: active (resumed lures 2026-11-05 after ~7 days quiet) → active,https://x.com/nam_isay
+2026-11-06 08:54,profile,@DobosDorina4 followers: 1167 → 1164,https://x.com/DobosDorina4
+2026-11-06 08:54,profile,@DobosDorina4 status: active (suspected) → active,https://x.com/DobosDorina4
+2026-11-06 08:54,profile,@filipe_eh followers: 1733 → 1730,https://x.com/filipe_eh
+2026-11-06 08:54,profile,@sayozain following: 948 → 946,https://x.com/sayozain
+2026-11-06 08:56,ct_error,infra_watch: CT lookup failed for hyperball.one,
+2026-11-06 08:56,ct_error,infra_watch: CT lookup failed for asteriapanls.com,
+2026-11-06 08:58,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-06 08:58,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-06 08:58,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-06 08:58,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-06 08:58,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-06 08:58,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-06 08:58,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
