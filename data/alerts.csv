@@ -1643,3 +1643,36 @@ time,type,details,link
 2026-11-06 09:09,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-06 09:09,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-11-06 09:09,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-09 08:55,new_operator,"NEW suspected operator @whorane (Wren Horane, '@Reuters Correspondent', blue, 2012 acct): 4 lures 6-9 Nov using PetersonCouto's Reuters templates ('feature your team in an article', 'working on a piece together', 'contributing to an upcoming article', 'dms are closed') -> @ramtinnaimi, @patopet, @mausbot_, @Byron_Wan; score 7, not victim-reported yet",https://x.com/whorane
+2026-11-09 08:55,status,@sayozain now SUSPENDED (confirmed by username lookup 2026-11-09),https://x.com/sayozain
+2026-11-09 08:55,status,"@jonathonGuil (id 1422282042, Reuters Breakingviews impersonation) now SUSPENDED; username lookup returns not found",https://x.com/jonathonGuil
+2026-11-09 08:55,activity,"@Conviasa 16 Bloomberg-persona lures 6-7 Nov (bursts of 6/2/3/5, none >=10 in a short burst; continuing behaviour)",https://x.com/Conviasa
+2026-11-09 08:55,profile,@Conviasa followers: 1831 → 1835,https://x.com/Conviasa
+2026-11-09 08:55,profile,@Conviasa following: 199 → 201,https://x.com/Conviasa
+2026-11-09 08:55,profile,@Conviasa tweets: 1756 → 1772,https://x.com/Conviasa
+2026-11-09 08:55,profile,@SeoSamantha following: 2796 → 2795,https://x.com/SeoSamantha
+2026-11-09 08:55,profile,@KylieUncovered followers: 1358 → 1356,https://x.com/KylieUncovered
+2026-11-09 08:55,profile,@Jaydayritt followers: 134 → 133,https://x.com/Jaydayritt
+2026-11-09 08:55,profile,@Jaydayritt status: active → active (no lure since 2026-09-30),https://x.com/Jaydayritt
+2026-11-09 08:55,profile,@punk8739 followers: 26307 → 26311,https://x.com/punk8739
+2026-11-09 08:55,profile,@punk8739 following: 411 → 571,https://x.com/punk8739
+2026-11-09 08:55,profile,@punk8739 tweets: 3107 → 3101,https://x.com/punk8739
+2026-11-09 08:55,profile,@nam_isay followers: 1696 → 1697,https://x.com/nam_isay
+2026-11-09 08:55,profile,@nam_isay following: 2769 → 2771,https://x.com/nam_isay
+2026-11-09 08:55,profile,@nam_isay status: active → active (resumed lures 2026-11-05 after ~7 days quiet),https://x.com/nam_isay
+2026-11-09 08:55,profile,@DobosDorina4 followers: 1164 → 1152,https://x.com/DobosDorina4
+2026-11-09 08:55,profile,@DobosDorina4 status: active → active (suspected),https://x.com/DobosDorina4
+2026-11-09 08:55,profile,@filipe_eh following: 1018 → 1019,https://x.com/filipe_eh
+2026-11-09 08:55,profile,@filipe_eh tweets: 16646 → 16645,https://x.com/filipe_eh
+2026-11-09 08:55,profile,@sayozain status: active → suspended,https://x.com/sayozain
+2026-11-09 08:55,profile,@erikaidas followers: 4285 → 4287,https://x.com/erikaidas
+2026-11-09 08:55,profile,@erikaidas following: 1761 → 1776,https://x.com/erikaidas
+2026-11-09 08:55,profile,@jonathonGuil status: active → suspended,https://x.com/jonathonGuil
+2026-11-09 08:58,ct_error,ct_watcher: CT watcher failed to start: eption ignored on flushing sys.stdout: BrokenPipeError: [Errno 32] Broken pipe /workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol: No such file or directory,
+2026-11-09 08:59,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-09 08:59,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-09 08:59,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-09 08:59,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-09 08:59,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-09 08:59,infra,Twitta page gone/changed on login-api.com: HTTP 403 title=,https://login-api.com/login
+2026-11-09 08:59,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
