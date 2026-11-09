@@ -1,11 +1,9 @@
 component,last_success,last_error,detail
-ct_watcher,2026-11-06 09:08,2026-11-09 08:58,"CT watcher failed to start: eption ignored on flushing sys.stdout:
-BrokenPipeError: [Errno 32] Broken pipe
-/workspace/phish_campaign/ct_watch.sh: line 6: /workspace/phish_campaign/.venv/bin/certpatrol"
-calendly_watch,2026-11-09 08:59,2026-10-28 08:31,4 links checked
+ct_watcher,2026-11-09 09:00,2026-11-09 08:58,running pid 383471; 23 raw hits
+calendly_watch,2026-11-09 09:01,2026-10-28 08:31,4 links checked
 infra_watch,2026-11-09 08:57,2026-11-06 08:56,"1376 rows, 0 new, 0 historical backfill"
 x_search,2026-11-09 08:58,2026-10-16 02:26,"14 calls, 20 new posts"
 gh_auth,2026-11-06 08:57,,gh auth valid
-build,2026-11-09 08:59,,build started
-publish,2026-11-06 09:10,2026-10-20 00:33,pushed 2026-11-06 09:10 CET
-twitta_watch,2026-11-09 08:59,,urlscan=2/2; new=0; checked=33
+build,2026-11-09 09:01,,build started
+publish,2026-11-09 08:59,2026-10-20 00:33,pushed 2026-11-09 08:59 CET
+twitta_watch,2026-11-09 09:01,,urlscan=2/2; new=0; checked=33
