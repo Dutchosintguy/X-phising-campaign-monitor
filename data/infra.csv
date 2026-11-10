@@ -187,3 +187,4 @@ cert,events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=181639127
 cert,www.events-portal.com,events-portal.com,2026-11-04,issuer=DigiCert id=18163912790,certspotter,2026-11-04 11:13
 ct_error,hyperball.one,hyperball.one,,crt.sh and certspotter unreachable,-,2026-11-06 08:54
 ct_error,asteriapanls.com,asteriapanls.com,,crt.sh and certspotter unreachable,-,2026-11-06 08:54
+dns,login-api.com,login-api.com,2026-11-10,A=NXDOMAIN/none NS=-,dns.google DoH,2026-11-10 08:46

@@ -1683,3 +1683,30 @@ time,type,details,link
 2026-11-09 09:01,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-09 09:01,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-09 09:01,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-10 08:46,profile,@Conviasa followers: 1835 → 1836,https://x.com/Conviasa
+2026-11-10 08:46,profile,@SeoSamantha followers: 2200 → 2202,https://x.com/SeoSamantha
+2026-11-10 08:46,profile,@KylieUncovered followers: 1356 → 1357,https://x.com/KylieUncovered
+2026-11-10 08:46,profile,@KylieUncovered tweets: 1133 → 1144,https://x.com/KylieUncovered
+2026-11-10 08:46,profile,@nam_isay tweets: 227 → 228,https://x.com/nam_isay
+2026-11-10 08:46,profile,@DobosDorina4 followers: 1152 → 1151,https://x.com/DobosDorina4
+2026-11-10 08:46,profile,@filipe_eh followers: 1730 → 1728,https://x.com/filipe_eh
+2026-11-10 08:46,profile,@erikaidas followers: 4287 → 4288,https://x.com/erikaidas
+2026-11-10 08:46,profile,@whorane followers: 1546 → 1547,https://x.com/whorane
+2026-11-10 08:46,profile,@whorane following: 1135 → 1137,https://x.com/whorane
+2026-11-10 08:46,profile,@whorane tweets: 21075 → 21077,https://x.com/whorane
+2026-11-10 08:46,activity,KylieUncovered returned after ~4 days quiet: 12 lures in 84 min 9 Nov 18:52-20:16Z UTC (spike); whorane +2 lures 21:19-21:28Z,https://x.com/KylieUncovered
+2026-11-10 08:46,infra,New dns: login-api.com (A=NXDOMAIN/none NS=-),https://crt.sh/?q=login-api.com
+2026-11-10 08:49,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-10 08:49,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-10 08:49,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-10 08:49,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-10 08:49,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-10 08:49,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-10 08:49,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-10 08:50,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-10 08:50,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-10 08:50,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-10 08:50,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-10 08:50,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-10 08:50,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-10 08:50,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
