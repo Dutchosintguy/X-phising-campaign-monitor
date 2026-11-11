@@ -1710,3 +1710,21 @@ time,type,details,link
 2026-11-10 08:50,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-10 08:50,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
 2026-11-10 08:50,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-10 11:39,status,ct_env auto-rebuilt: recreated /home/box/.venvs/phish-certpatrol and verified certpatrol imports. Informational (not an error).,
+2026-11-10 11:39,ct_error,ct_watcher: CT watcher failed to start: -certpatrol from /workspace/phish_campaign/ct_requirements.txt /workspace/phish_campaign/ct_watch.sh: line 7: /home/box/.venvs/phish-certpatrol/bin/certpatrol: cannot execute: required file not found,
+2026-11-10 11:40,status,ct_env auto-rebuilt: recreated /home/box/.venvs/phish-certpatrol and verified certpatrol imports. Informational (not an error).,
+2026-11-10 11:41,status,ct_env auto-rebuilt: recreated /home/box/.venvs/phish-certpatrol and verified certpatrol imports. Informational (not an error).,
+2026-11-11 08:48,profile,@Conviasa followers: 1836 → 1837,https://x.com/Conviasa
+2026-11-11 08:48,profile,@KylieUncovered followers: 1357 → 1361,https://x.com/KylieUncovered
+2026-11-11 08:48,profile,@KylieUncovered tweets: 1144 → 1149,https://x.com/KylieUncovered
+2026-11-11 08:48,profile,@DobosDorina4 followers: 1151 → 1145,https://x.com/DobosDorina4
+2026-11-11 08:48,profile,@whorane followers: 1547 → 1546,https://x.com/whorane
+2026-11-11 08:48,profile,@whorane following: 1137 → 1143,https://x.com/whorane
+2026-11-11 08:48,profile,@whorane tweets: 21077 → 21084,https://x.com/whorane
+2026-11-11 08:53,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-11 08:53,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-11 08:53,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-11 08:53,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-11 08:53,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-11 08:53,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-11 08:53,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
