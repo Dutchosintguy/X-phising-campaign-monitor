@@ -1728,3 +1728,18 @@ time,type,details,link
 2026-11-11 08:53,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-11 08:53,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-11 08:53,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-12 08:55,profile,@Conviasa followers: 1837 → 1839,https://x.com/Conviasa
+2026-11-12 08:55,profile,@DobosDorina4 followers: 1145 → 1144,https://x.com/DobosDorina4
+2026-11-12 08:55,profile,@filipe_eh followers: 1728 → 1729,https://x.com/filipe_eh
+2026-11-12 08:55,profile,@erikaidas followers: 4288 → 4287,https://x.com/erikaidas
+2026-11-12 08:55,profile,@whorane followers: 1546 → 1548,https://x.com/whorane
+2026-11-12 08:55,profile,@whorane following: 1143 → 1149,https://x.com/whorane
+2026-11-12 08:55,profile,@whorane tweets: 21084 → 21091,https://x.com/whorane
+2026-11-12 08:58,activity,"@whorane 6 Reuters-persona lures 11 Nov 18:27Z–12 Nov 06:13Z (@potuz_eth, @Index_inds, @AdamNeumann, @swaydotfun, @Numpayapp, @genekogan); small batch, known operator",https://x.com/whorane
+2026-11-12 08:59,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-12 08:59,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-12 08:59,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-12 08:59,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-12 08:59,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-12 08:59,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-12 08:59,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
