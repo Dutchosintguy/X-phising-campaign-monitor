@@ -1,7 +1,7 @@
 # X phishing campaign monitor — fake journalist / AI-lab interview → Calendly → X OAuth
 
 **Live dashboard:** https://dutchosintguy.github.io/X-phising-campaign-monitor/
-**Last updated:** 2026-11-12 09:00 CET · updated automatically every weekdays 09:00 Amsterdam time only (no afternoon, overnight, or weekend runs)
+**Last updated:** 2026-11-13 08:57 CET · updated automatically every weekdays 09:00 Amsterdam time only (no afternoon, overnight, or weekend runs)
 **Alert feeds:** [RSS](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.xml) · [JSON](https://dutchosintguy.github.io/X-phising-campaign-monitor/alerts.json)
 
 Monitoring of an ongoing phishing campaign on X in which accounts posing as journalists (Bloomberg, TechCrunch, WIRED, Reuters) or AI-lab staff (OpenAI, Anthropic) publicly reply to mainly AI/ML researchers, startup founders and investors (also developers, crypto people, media/creators, security/OSINT people) ("I'm writing an article on … DM me"), move to DMs and send a **genuine Calendly link** that leads into a malicious X OAuth app (e.g. "Events Portal", "CalendarBookings", "Booking Pass") or a fake X sign-in page (e.g. "Twitta" on `plugins[.]cal-apis[.]com`) to take over accounts.
@@ -29,14 +29,14 @@ Monitoring of an ongoing phishing campaign on X in which accounts posing as jour
 ## Pipeline health (at build time)
 | Component | Last success | Last error | State |
 |---|---|---|---|
-| ct_watcher | 2026-11-12 08:58 | 2026-11-10 11:39 | ok |
-| calendly_watch | 2026-11-12 08:59 | 2026-10-28 08:31 | ok |
-| infra_watch | 2026-11-12 08:58 | 2026-11-06 08:56 | ok |
-| x_search | 2026-11-12 08:55 | 2026-10-16 02:26 | ok |
+| ct_watcher | 2026-11-13 08:56 | 2026-11-10 11:39 | ok |
+| calendly_watch | 2026-11-13 08:57 | 2026-10-28 08:31 | ok |
+| infra_watch | 2026-11-13 08:56 | 2026-11-06 08:56 | ok |
+| x_search | 2026-11-13 08:56 | 2026-10-16 02:26 | ok |
 | gh_auth | 2026-11-06 08:57 | — | ⚠ STALE |
-| build | 2026-11-12 08:59 | — | ok |
-| publish | 2026-11-11 08:53 | 2026-10-20 00:33 | ok |
-| twitta_watch | 2026-11-12 08:59 | — | ok |
+| build | 2026-11-13 08:57 | — | ok |
+| publish | 2026-11-12 09:00 | 2026-10-20 00:33 | ok |
+| twitta_watch | 2026-11-13 08:57 | — | ok |
 
 ## Important caveats
 - **Targets listed are publicly *approached* accounts, NOT confirmed victims.** A public reply from an operator account does not mean the person received a DM, clicked a link or was compromised.
