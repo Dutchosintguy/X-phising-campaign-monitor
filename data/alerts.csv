@@ -1761,3 +1761,13 @@ time,type,details,link
 2026-11-13 08:57,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
 2026-11-13 08:57,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
 2026-11-13 08:57,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-14 11:22,infra,CT watcher: new certificate for votelvenues.stagingmyeventsportal.co.uk,https://crt.sh/?q=votelvenues.stagingmyeventsportal.co.uk
+2026-11-14 11:22,infra,CT watcher: new certificate for conferenceline.stagingmyeventsportal.co.uk,https://crt.sh/?q=conferenceline.stagingmyeventsportal.co.uk
+2026-11-14 11:23,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-14 11:23,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-14 11:23,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-14 11:23,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-14 11:23,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-14 11:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-14 11:23,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-14 11:23,calendly,Calendly link status changed 404/http error -> 522/http error: https://calendly.openaiteams.com,https://calendly.openaiteams.com
