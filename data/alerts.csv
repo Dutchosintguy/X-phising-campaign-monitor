@@ -1771,3 +1771,31 @@ time,type,details,link
 2026-11-14 11:23,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-14 11:23,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-14 11:23,calendly,Calendly link status changed 404/http error -> 522/http error: https://calendly.openaiteams.com,https://calendly.openaiteams.com
+2026-11-16 08:53,profile,@Conviasa followers: 1839 → 1853,https://x.com/Conviasa
+2026-11-16 08:53,profile,@Conviasa following: 201 → 207,https://x.com/Conviasa
+2026-11-16 08:53,profile,@Conviasa tweets: 1772 → 1797,https://x.com/Conviasa
+2026-11-16 08:53,profile,@SeoSamantha followers: 2203 → 2202,https://x.com/SeoSamantha
+2026-11-16 08:53,profile,@KylieUncovered followers: 1360 → 1361,https://x.com/KylieUncovered
+2026-11-16 08:53,profile,@Jaydayritt followers: 133 → 134,https://x.com/Jaydayritt
+2026-11-16 08:53,profile,@nam_isay followers: 1697 → 1696,https://x.com/nam_isay
+2026-11-16 08:53,profile,@nam_isay following: 2771 → 2769,https://x.com/nam_isay
+2026-11-16 08:53,profile,@DobosDorina4 followers: 1142 → 1134,https://x.com/DobosDorina4
+2026-11-16 08:53,profile,@filipe_eh following: 1018 → 1019,https://x.com/filipe_eh
+2026-11-16 08:53,profile,@erikaidas followers: 4288 → 4291,https://x.com/erikaidas
+2026-11-16 08:53,profile,@erikaidas following: 1775 → 1776,https://x.com/erikaidas
+2026-11-16 08:53,profile,@whorane followers: 1555 → 1564,https://x.com/whorane
+2026-11-16 08:53,profile,@whorane following: 1162 → 1167,https://x.com/whorane
+2026-11-16 08:53,profile,@whorane tweets: 21100 → 21104,https://x.com/whorane
+2026-11-16 08:53,infra,New cert: *.cal-apis.com (issuer=Let's Encrypt id=18377279786),https://crt.sh/?q=cal-apis.com
+2026-11-16 08:53,infra,New cert: cal-apis.com (issuer=Let's Encrypt id=18377279786),https://crt.sh/?q=cal-apis.com
+2026-11-16 08:53,infra,New cert: *.cal-apis.com (issuer=Let's Encrypt id=18380272865),https://crt.sh/?q=cal-apis.com
+2026-11-16 08:53,infra,New cert: cal-apis.com (issuer=Let's Encrypt id=18380272865),https://crt.sh/?q=cal-apis.com
+2026-11-16 08:55,activity,"Conviasa active again: 18 Bloomberg-persona lures 13 Nov 20:03Z-15 Nov 15:13Z (bursts of 12 on 13-14 Nov, 9 on 15 Nov); whorane 5 lures 14 Nov. Logged.",https://x.com/Conviasa
+2026-11-16 08:56,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-16 08:56,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-16 08:56,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-16 08:56,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-16 08:56,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-16 08:56,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-16 08:56,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-16 08:56,calendly,Calendly link status changed 522/http error -> 404/http error: https://calendly.openaiteams.com,https://calendly.openaiteams.com

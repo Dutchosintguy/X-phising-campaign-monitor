@@ -190,3 +190,7 @@ ct_error,asteriapanls.com,asteriapanls.com,,crt.sh and certspotter unreachable,-
 dns,login-api.com,login-api.com,2026-11-10,A=NXDOMAIN/none NS=-,dns.google DoH,2026-11-10 08:46
 ct_stream,votelvenues.stagingmyeventsportal.co.uk,co.uk,2026-11-13,CertPatrol live CT match,certpatrol,2026-11-13 09:00
 ct_stream,conferenceline.stagingmyeventsportal.co.uk,co.uk,2026-11-13,CertPatrol live CT match,certpatrol,2026-11-13 09:00
+cert,*.cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18377279786,certspotter,2026-11-16 08:53
+cert,cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18377279786,certspotter,2026-11-16 08:53
+cert,*.cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18380272865,certspotter,2026-11-16 08:53
+cert,cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18380272865,certspotter,2026-11-16 08:53
