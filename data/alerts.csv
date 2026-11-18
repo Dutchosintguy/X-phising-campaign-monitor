@@ -1799,3 +1799,37 @@ time,type,details,link
 2026-11-16 08:56,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
 2026-11-16 08:56,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-16 08:56,calendly,Calendly link status changed 522/http error -> 404/http error: https://calendly.openaiteams.com,https://calendly.openaiteams.com
+2026-11-18 13:03,warning,"NEW victim warning @EleanorTerrett 18 Nov 02:07Z: impersonator of Reuters journalist Jonathan Guilford / Viewsroom podcast DMed her last week (Patrick McHenry interview). Screenshot identifies @ViewsroomJona (blue, joined Aug 2026, 8.6k followers, viewsroom.org). She also called @viewsroomshow a fake page. Same podcast + Microsoft Teams MO as @jonathonGuil. Official editor @JMAGuilford is NOT an operator.",https://x.com/EleanorTerrett/status/2122874417667563698
+2026-11-18 13:03,new_operator,"NEW operator @ViewsroomJona (Jonathan Guilford) — successor to suspended @jonathonGuil. Confirmed as the DMing account via @EleanorTerrett screenshot (blue, joined August 2026, 8.6k followers, bio claims Reuters columnist / co-host of @viewsroomshow, link viewsroom.org). Already SUSPENDED as of 18 Nov lookup. Official handle @JMAGuilford is NOT an operator.",https://x.com/ViewsroomJona
+2026-11-18 13:03,new_operator,"NEW suspected account @viewsroomshow (Viewsroom, created 2018-05-09, 41.8k followers, no blue check). Named as a fake page by @EleanorTerrett. Listed as official X on phishing site viewsroom.org. No public lure replies observed yet; reported-by-third-party, not confirmed as a lure-posting operator.",https://x.com/viewsroomshow
+2026-11-18 13:03,infra,"New phishing domain viewsroom.org — registered 2026-10-11 NameCheap, Cloudflare (A 172.67.142.230 / 104.21.39.34). Site titles itself 'Viewsroom | The Reuters Breakingviews podcast', lists @viewsroomshow as official X, and pitches 30-45 min Microsoft Teams guest interviews with a 50% revenue share. Used in @ViewsroomJona impersonation. Official podcast is reuters.com/podcasts/viewsroom/.",https://viewsroom.org
+2026-11-18 13:03,activity,Conviasa 10 more Bloomberg-persona 'insights for an upcoming article' lures 17 Nov 00:10-11:34Z in small batches (4+1+5). Logged only; no 10+ burst and only ~33h since 15 Nov.,https://x.com/Conviasa
+2026-11-18 13:03,profile,@Conviasa followers: 1853 → 1856,https://x.com/Conviasa
+2026-11-18 13:03,profile,@Conviasa tweets: 1797 → 1807,https://x.com/Conviasa
+2026-11-18 13:03,profile,@SeoSamantha following: 2795 → 2794,https://x.com/SeoSamantha
+2026-11-18 13:03,profile,@KylieUncovered following: 1229 → 1228,https://x.com/KylieUncovered
+2026-11-18 13:03,profile,@Jaydayritt followers: 134 → 133,https://x.com/Jaydayritt
+2026-11-18 13:03,profile,@nam_isay followers: 1696 → 1695,https://x.com/nam_isay
+2026-11-18 13:03,profile,@nam_isay following: 2769 → 2770,https://x.com/nam_isay
+2026-11-18 13:03,profile,@DobosDorina4 followers: 1134 → 1122,https://x.com/DobosDorina4
+2026-11-18 13:03,profile,@filipe_eh followers: 1728 → 1726,https://x.com/filipe_eh
+2026-11-18 13:03,profile,@filipe_eh following: 1019 → 1018,https://x.com/filipe_eh
+2026-11-18 13:03,profile,@erikaidas followers: 4291 → 4289,https://x.com/erikaidas
+2026-11-18 13:03,profile,@erikaidas following: 1776 → 1777,https://x.com/erikaidas
+2026-11-18 13:03,profile,@whorane followers: 1564 → 1559,https://x.com/whorane
+2026-11-18 13:03,profile,@whorane following: 1167 → 1164,https://x.com/whorane
+2026-11-18 13:03,profile,@whorane tweets: 21104 → 21102,https://x.com/whorane
+2026-11-18 13:05,dns_error,infra_watch: DoH lookup failed whitelistportal.com NS,
+2026-11-18 13:07,dns_error,infra_watch: DoH lookup failed eventsportal.com NS,
+2026-11-18 13:03,infra,New dns: whitelistportal.com (A=NXDOMAIN/none NS=LOOKUP_FAILED),https://crt.sh/?q=whitelistportal.com
+2026-11-18 13:03,infra,New dns: eventsportal.com (A=13.248.169.48 76.223.54.146 NS=LOOKUP_FAILED),https://crt.sh/?q=eventsportal.com
+2026-11-18 13:03,infra,New cert: *.viewsroom.org (issuer=Sectigo id=18196391107),https://crt.sh/?q=viewsroom.org
+2026-11-18 13:03,infra,New cert: viewsroom.org (issuer=Sectigo id=18196391107),https://crt.sh/?q=viewsroom.org
+2026-11-18 13:03,infra,New dns: viewsroom.org (A=104.21.39.34 172.67.142.230 NS=kira.ns.cloudflare.com. yisroel.ns.cloudflare.c),https://crt.sh/?q=viewsroom.org
+2026-11-18 13:10,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-18 13:10,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-18 13:10,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-18 13:10,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-18 13:10,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-18 13:10,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-18 13:10,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login

@@ -194,3 +194,8 @@ cert,*.cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18377279786,
 cert,cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18377279786,certspotter,2026-11-16 08:53
 cert,*.cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18380272865,certspotter,2026-11-16 08:53
 cert,cal-apis.com,cal-apis.com,2026-11-14,issuer=Let's Encrypt id=18380272865,certspotter,2026-11-16 08:53
+dns,whitelistportal.com,whitelistportal.com,2026-11-18,A=NXDOMAIN/none NS=LOOKUP_FAILED,dns.google DoH,2026-11-18 13:03
+dns,eventsportal.com,eventsportal.com,2026-11-18,A=13.248.169.48 76.223.54.146 NS=LOOKUP_FAILED,dns.google DoH,2026-11-18 13:03
+cert,*.viewsroom.org,viewsroom.org,2026-11-05,issuer=Sectigo id=18196391107,certspotter,2026-11-18 13:03
+cert,viewsroom.org,viewsroom.org,2026-11-05,issuer=Sectigo id=18196391107,certspotter,2026-11-18 13:03
+dns,viewsroom.org,viewsroom.org,2026-11-18,A=104.21.39.34 172.67.142.230 NS=kira.ns.cloudflare.com. yisroel.ns.cloudflare.com.,dns.google DoH,2026-11-18 13:03

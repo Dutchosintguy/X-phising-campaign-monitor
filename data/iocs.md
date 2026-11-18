@@ -67,3 +67,8 @@ Identical public form options to the old lure. Downstream OAuth app/callback not
 - calendly.openaiteams[.]com — Calendly lookalike sent in DM by @erikaidas ("Erika Ida", bio claims OpenAI; possibly a hijacked real account) per victim @burninganna: https://x.com/burninganna/status/2117481763316641988
 - openaiteams[.]com: registered 2026-09-08 (Tucows), Cloudflare NS buck/deborah, A 104.21.85.57 / 172.67.202.188 (DoH 2026-11-03), latest cert 2026-09-20 (older 2024 certs = previous registration)
 - New victim warning @gauravsbuilding (Conviasa / Events Portal / cal-apis[.]com flow): https://x.com/gauravsbuilding/status/2117486004219372019
+
+## 2026-11-18 Reuters Viewsroom podcast impersonation variant
+- @ViewsroomJona ("Jonathan Guilford", blue, joined August 2026, 8.6k followers) — DMing account confirmed by victim @EleanorTerrett screenshot 2026-11-18. Successor to suspended @jonathonGuil. Same Reuters Viewsroom podcast + Microsoft Teams MO (not the Calendly article flow). Already suspended as of 2026-11-18 lookup. Official Breakingviews editor is @JMAGuilford (NOT an operator). https://x.com/EleanorTerrett/status/2122874417667563698
+- @viewsroomshow (created 2018-05-09, 41.8k followers, no blue check) — named as a fake page by @EleanorTerrett; listed as "official X" on the phishing site below. No public lure replies observed by us yet. reported-by-third-party.
+- viewsroom[.]org — registered 2026-10-11 (NameCheap), Cloudflare A 172.67.142.230 / 104.21.39.34, NS kira/yisroel.ns.cloudflare[.]com. Site titles itself "Viewsroom | The Reuters Breakingviews podcast", lists @viewsroomshow as official X, and pitches 30–45 minute Microsoft Teams guest interviews with a 50% revenue share. Official podcast pages: reuters.com/podcasts/viewsroom/
