@@ -1833,3 +1833,32 @@ time,type,details,link
 2026-11-18 13:10,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
 2026-11-18 13:10,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-18 13:10,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-20 08:52,warning,"NEW victim warning @guard_if 18 Nov 20:40Z: fake Anthropic employee -> Calendly redirect -> calendly.anthropicpartners.net (NEW domain, fake Anthropic 30-min meeting page w/ 'Continue as' X sign-in). Operator unnamed.",https://x.com/guard_if/status/2123154431307128882
+2026-11-20 08:52,infra,NEW campaign domain anthropicpartners.net (subdomain calendly.anthropicpartners.net) from @guard_if screenshot; added to infra_watch DOMAINS,https://x.com/guard_if/status/2123154431307128882
+2026-11-20 08:52,profile,@Conviasa tweets: 1807 → 1809,https://x.com/Conviasa
+2026-11-20 08:52,profile,@Jaydayritt followers: 133 → 132,https://x.com/Jaydayritt
+2026-11-20 08:52,profile,@Jaydayritt following: 726 → 724,https://x.com/Jaydayritt
+2026-11-20 08:52,profile,@punk8739 followers: 26311 → 26321,https://x.com/punk8739
+2026-11-20 08:52,profile,@punk8739 following: 571 → 396,https://x.com/punk8739
+2026-11-20 08:52,profile,@punk8739 tweets: 3101 → 3090,https://x.com/punk8739
+2026-11-20 08:52,profile,@nam_isay followers: 1695 → 1696,https://x.com/nam_isay
+2026-11-20 08:52,profile,@nam_isay following: 2770 → 2769,https://x.com/nam_isay
+2026-11-20 08:52,profile,@DobosDorina4 followers: 1122 → 1116,https://x.com/DobosDorina4
+2026-11-20 08:52,profile,@filipe_eh followers: 1726 → 1723,https://x.com/filipe_eh
+2026-11-20 08:52,profile,@filipe_eh following: 1018 → 1017,https://x.com/filipe_eh
+2026-11-20 08:52,profile,@erikaidas followers: 4289 → 4288,https://x.com/erikaidas
+2026-11-20 08:52,profile,@erikaidas following: 1777 → 1778,https://x.com/erikaidas
+2026-11-20 08:52,profile,@whorane followers: 1559 → 1558,https://x.com/whorane
+2026-11-20 08:52,profile,@whorane following: 1164 → 1163,https://x.com/whorane
+2026-11-20 08:52,profile,@whorane tweets: 21102 → 21101,https://x.com/whorane
+2026-11-20 08:52,profile,@viewsroomshow followers: 41885 → 41755,https://x.com/viewsroomshow
+2026-11-20 08:52,profile,@viewsroomshow tweets: 2438 → 2436,https://x.com/viewsroomshow
+2026-11-20 08:52,infra,New dns: anthropicpartners.net (A=104.21.77.147 172.67.209.12 NS=cullen.ns.cloudflare.com. vera.ns.cloudflare.co),https://crt.sh/?q=anthropicpartners.net
+2026-11-20 08:53,infra,"CT watcher: new certificate for preview-feat-zendesk-import.calendlycms.com (likely benign: Calendly-owned infra, same as earlier hits)",https://crt.sh/?q=preview-feat-zendesk-import.calendlycms.com
+2026-11-20 08:54,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-20 08:54,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-20 08:54,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-20 08:54,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-20 08:54,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-20 08:54,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-20 08:54,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
