@@ -201,3 +201,11 @@ cert,viewsroom.org,viewsroom.org,2026-11-05,issuer=Sectigo id=18196391107,certsp
 dns,viewsroom.org,viewsroom.org,2026-11-18,A=104.21.39.34 172.67.142.230 NS=kira.ns.cloudflare.com. yisroel.ns.cloudflare.com.,dns.google DoH,2026-11-18 13:03
 dns,anthropicpartners.net,anthropicpartners.net,2026-11-20,A=104.21.77.147 172.67.209.12 NS=cullen.ns.cloudflare.com. vera.ns.cloudflare.com.,dns.google DoH,2026-11-20 08:52
 ct_stream,preview-feat-zendesk-import.calendlycms.com,calendlycms.com,2026-11-19,CertPatrol live CT match,certpatrol,2026-11-19 16:02
+cert,*.calapis.com,calapis.com,2026-11-22,issuer=Let's Encrypt id=18562268829,certspotter,2026-11-23 08:50
+cert,calapis.com,calapis.com,2026-11-22,issuer=Let's Encrypt id=18562268829,certspotter,2026-11-23 08:50
+cert,*.openaiteams.com,openaiteams.com,2026-11-18,issuer=Let's Encrypt id=18467258123,certspotter,2026-11-23 08:50
+cert,openaiteams.com,openaiteams.com,2026-11-18,issuer=Let's Encrypt id=18467258123,certspotter,2026-11-23 08:50
+cert,*.openaiteams.com,openaiteams.com,2026-11-18,issuer=Let's Encrypt id=18467640852,certspotter,2026-11-23 08:50
+cert,openaiteams.com,openaiteams.com,2026-11-18,issuer=Let's Encrypt id=18467640852,certspotter,2026-11-23 08:50
+cert,*.openaiteams.com,openaiteams.com,2026-11-18,issuer=Google Trust Services id=18469179116,certspotter,2026-11-23 08:50
+cert,openaiteams.com,openaiteams.com,2026-11-18,issuer=Google Trust Services id=18469179116,certspotter,2026-11-23 08:50

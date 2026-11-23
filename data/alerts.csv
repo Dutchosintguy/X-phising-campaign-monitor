@@ -1862,3 +1862,53 @@ time,type,details,link
 2026-11-20 08:54,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-20 08:54,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
 2026-11-20 08:54,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-23 08:50,profile,@Conviasa followers: 1856 → 1855,https://x.com/Conviasa
+2026-11-23 08:50,profile,@Conviasa following: 207 → 211,https://x.com/Conviasa
+2026-11-23 08:50,profile,@SeoSamantha followers: 2202 → 2203,https://x.com/SeoSamantha
+2026-11-23 08:50,profile,@SeoSamantha following: 2794 → 2793,https://x.com/SeoSamantha
+2026-11-23 08:50,profile,"@KylieUncovered bio: Correspondent covering AI, Tech & Financial markets.ex- @Techcrunch and @opinion currently Previously @techcrunch & @google → Correspondent cover",https://x.com/KylieUncovered
+2026-11-23 08:50,profile,"@Jaydayritt bio: AI, Tech & Culture Journalist. Exploring the people, ideas & technology shaping what comes next. Currently @WIRED Previously @Bloomberg & @Reuter",https://x.com/Jaydayritt
+2026-11-23 08:50,profile,@Jaydayritt followers: 132 → 130,https://x.com/Jaydayritt
+2026-11-23 08:50,profile,@Jaydayritt following: 724 → 731,https://x.com/Jaydayritt
+2026-11-23 08:50,profile,@Jaydayritt tweets: 41 → 45,https://x.com/Jaydayritt
+2026-11-23 08:50,profile,@nam_isay followers: 1696 → 1692,https://x.com/nam_isay
+2026-11-23 08:50,profile,@nam_isay following: 2769 → 2768,https://x.com/nam_isay
+2026-11-23 08:50,profile,@DobosDorina4 followers: 1116 → 1113,https://x.com/DobosDorina4
+2026-11-23 08:50,profile,@DobosDorina4 tweets: 726 → 730,https://x.com/DobosDorina4
+2026-11-23 08:50,profile,@filipe_eh bio: 🏆 Award-winning @opinion Journalist 🤖 AI • Startups • Emerging Technology 📝 Telling the stories behind the ideas shaping the future Prev: @openai,https://x.com/filipe_eh
+2026-11-23 08:50,profile,@filipe_eh followers: 1723 → 1722,https://x.com/filipe_eh
+2026-11-23 08:50,profile,@filipe_eh following: 1017 → 1016,https://x.com/filipe_eh
+2026-11-23 08:50,profile,@erikaidas bio: Building @openai ⚝ prev @meta @googledeepmind → Building @openai  ⚝  prev @meta @googledeepmind,https://x.com/erikaidas
+2026-11-23 08:50,profile,@erikaidas followers: 4288 → 4289,https://x.com/erikaidas
+2026-11-23 08:50,profile,@erikaidas following: 1778 → 1777,https://x.com/erikaidas
+2026-11-23 08:50,profile,@whorane followers: 1558 → 1557,https://x.com/whorane
+2026-11-23 08:50,profile,@whorane following: 1163 → 1161,https://x.com/whorane
+2026-11-23 08:50,profile,@viewsroomshow display_name: Viewsroom → The Viewsroom Show,https://x.com/viewsroomshow
+2026-11-23 08:50,profile,@viewsroomshow followers: 41755 → 47911,https://x.com/viewsroomshow
+2026-11-23 08:50,profile,@viewsroomshow following: 9 → 3,https://x.com/viewsroomshow
+2026-11-23 08:50,profile,@viewsroomshow tweets: 2436 → 235,https://x.com/viewsroomshow
+2026-11-23 08:50,infra,New cert: *.calapis.com (issuer=Let's Encrypt id=18562268829),https://crt.sh/?q=calapis.com
+2026-11-23 08:50,infra,New cert: calapis.com (issuer=Let's Encrypt id=18562268829),https://crt.sh/?q=calapis.com
+2026-11-23 08:50,infra,New cert: *.openaiteams.com (issuer=Let's Encrypt id=18467258123),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:50,infra,New cert: openaiteams.com (issuer=Let's Encrypt id=18467258123),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:50,infra,New cert: *.openaiteams.com (issuer=Let's Encrypt id=18467640852),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:50,infra,New cert: openaiteams.com (issuer=Let's Encrypt id=18467640852),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:50,infra,New cert: *.openaiteams.com (issuer=Google Trust Services id=18469179116),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:50,infra,New cert: openaiteams.com (issuer=Google Trust Services id=18469179116),https://crt.sh/?q=openaiteams.com
+2026-11-23 08:51,warning,"New public victim warning @inevitable360 (21 Nov): fake Reuters journalist via Telegram/X DM, Dogecoin podcast pitch; account @reutersMikeD named, unverified",https://x.com/inevitable360/status/2124270237398765828
+2026-11-23 08:51,status,"@viewsroomshow (suspected) wiped history: tweets 2436->235, renamed to The Viewsroom Show, followers 41755->47911; first public post 21 Nov promoting viewsroom.org",https://x.com/viewsroomshow/status/2124073428600979469
+2026-11-23 08:51,activity,"@Jaydayritt 4 lures 20 Nov with new wording love your work / left you a note in DMs (replies to @jsngr, @ponnappa, @hvpandya, @viditaatrey)",https://x.com/Jaydayritt
+2026-11-23 08:51,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-23 08:51,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-23 08:51,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-23 08:51,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-23 08:52,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-23 08:52,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-23 08:52,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
