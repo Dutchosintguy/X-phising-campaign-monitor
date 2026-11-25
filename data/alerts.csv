@@ -1912,3 +1912,31 @@ time,type,details,link
 2026-11-23 08:52,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-23 08:52,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
 2026-11-23 08:52,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-25 08:47,activity,@Conviasa SPIKE: 13 Bloomberg-style lures to AI founders in ~1h (24 Nov 23:04Z-00:07Z) after ~33h quiet; new wording perspective/insights for upcoming article. Already-confirmed operator,https://x.com/Conviasa
+2026-11-25 08:47,activity,@KylieUncovered new collab lure 25 Nov 05:22Z to @michwirantono (first since 10 Nov in log); confirmed operator,https://x.com/KylieUncovered
+2026-11-25 08:47,warning,"New public victim warning @rezakhadjavi (23 Nov): fake OpenAI recruiter impersonating real employee + fake Calendly; operator unnamed (victim, not a suspect)",https://x.com/rezakhadjavi/status/2124897758624837919
+2026-11-25 08:47,profile,@Conviasa tweets: 1809 → 1824,https://x.com/Conviasa
+2026-11-25 08:47,profile,@SeoSamantha followers: 2203 → 2202,https://x.com/SeoSamantha
+2026-11-25 08:47,profile,@KylieUncovered tweets: 1149 → 1150,https://x.com/KylieUncovered
+2026-11-25 08:47,profile,@DobosDorina4 followers: 1113 → 1110,https://x.com/DobosDorina4
+2026-11-25 08:47,profile,@DobosDorina4 tweets: 730 → 731,https://x.com/DobosDorina4
+2026-11-25 08:47,profile,@filipe_eh following: 1016 → 1017,https://x.com/filipe_eh
+2026-11-25 08:47,profile,@erikaidas followers: 4289 → 4291,https://x.com/erikaidas
+2026-11-25 08:47,profile,@whorane followers: 1557 → 1558,https://x.com/whorane
+2026-11-25 08:47,profile,@whorane following: 1161 → 1162,https://x.com/whorane
+2026-11-25 08:47,profile,@whorane tweets: 21101 → 21100,https://x.com/whorane
+2026-11-25 08:47,profile,@viewsroomshow followers: 47911 → 47895,https://x.com/viewsroomshow
+2026-11-25 08:47,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-25 08:47,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-25 08:47,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-25 08:47,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-25 08:47,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-25 08:47,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-25 08:47,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-25 08:48,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-25 08:48,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-25 08:48,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-25 08:48,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-25 08:48,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-25 08:48,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-25 08:48,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
