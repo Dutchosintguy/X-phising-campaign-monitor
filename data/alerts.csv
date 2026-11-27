@@ -1940,3 +1940,31 @@ time,type,details,link
 2026-11-25 08:48,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
 2026-11-25 08:48,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
 2026-11-25 08:48,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-25 08:51,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-25 08:51,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
+2026-11-27 08:51,activity,@Conviasa SPIKE: 18 Bloomberg-style lures to AI founders 26 Nov 06:52Z-07:40Z (~1h) after ~30h quiet; confirmed operator,https://x.com/Conviasa
+2026-11-27 08:51,activity,@KylieUncovered SPIKE: 9 collab/piece lures to mixed targets 27 Nov 04:55Z-05:58Z (new short wordings: sent you a quick DM about a potential piece; could you send me a message); confirmed operator,https://x.com/KylieUncovered
+2026-11-27 08:51,profile,@Conviasa following: 211 → 213,https://x.com/Conviasa
+2026-11-27 08:51,profile,@Conviasa tweets: 1824 → 1842,https://x.com/Conviasa
+2026-11-27 08:51,profile,@SeoSamantha followers: 2202 → 2200,https://x.com/SeoSamantha
+2026-11-27 08:51,profile,@KylieUncovered followers: 1361 → 1359,https://x.com/KylieUncovered
+2026-11-27 08:51,profile,@KylieUncovered tweets: 1150 → 1159,https://x.com/KylieUncovered
+2026-11-27 08:51,profile,@nam_isay followers: 1692 → 1693,https://x.com/nam_isay
+2026-11-27 08:51,profile,@DobosDorina4 followers: 1110 → 1109,https://x.com/DobosDorina4
+2026-11-27 08:51,profile,@DobosDorina4 tweets: 731 → 732,https://x.com/DobosDorina4
+2026-11-27 08:51,profile,@filipe_eh following: 1017 → 1016,https://x.com/filipe_eh
+2026-11-27 08:51,profile,@erikaidas followers: 4291 → 4290,https://x.com/erikaidas
+2026-11-27 08:51,profile,@whorane followers: 1558 → 1551,https://x.com/whorane
+2026-11-27 08:51,profile,@viewsroomshow followers: 47895 → 47877,https://x.com/viewsroomshow
+2026-11-27 08:55,infra,Twitta page gone/changed on asteriapanls.com: HTTP ERR title=,https://asteriapanls.com/login
+2026-11-27 08:55,infra,Twitta page gone/changed on login-api.com: HTTP ERR title=,https://login-api.com/login
+2026-11-27 08:55,infra,Twitta page gone/changed on hyperball.one: HTTP ERR title=,https://hyperball.one/login
+2026-11-27 08:55,infra,Twitta page gone/changed on whitelistportal.com: HTTP ERR title=,https://whitelistportal.com/login
+2026-11-27 08:55,infra,Twitta page gone/changed on 30min-meetings.com: HTTP ERR title=,https://30min-meetings.com/login
+2026-11-27 08:55,infra,Twitta page gone/changed on invitehandler.com: HTTP ERR title=,https://invitehandler.com/login
+2026-11-27 08:56,infra,Twitta page gone/changed on petrilabs.app: HTTP ERR title=,https://petrilabs.app/login
